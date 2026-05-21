@@ -1,3 +1,6 @@
+Online Bookstore Sales Analysis Using SQL.pdf
+
+(https://drive.google.com/file/d/1EBYQDIsN5K9r-JAKPJEv8bCS7CieiH_5/view?usp=drivesdk)
 
 # 📚 Online BookStore Sales Analysis
 
