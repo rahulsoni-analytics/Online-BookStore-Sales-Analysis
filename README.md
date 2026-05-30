@@ -1,3 +1,8 @@
+BookStore Dataset Cleaning.ipynb
+
+https://drive.google.com/file/d/1vZLbj260ol9hSgRm45KtCBz7yeToVs1B/view?usp=drive_link
+
+
 Online Bookstore Sales Analysis Using SQL.pdf
 
 (https://drive.google.com/file/d/1EBYQDIsN5K9r-JAKPJEv8bCS7CieiH_5/view?usp=drivesdk)
