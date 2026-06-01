@@ -1,7 +1,11 @@
-BookStore Dataset Cleaning.ipynb
+# 📚 BookStore Dataset Cleaning.ipynb
 
-https://drive.google.com/file/d/1vZLbj260ol9hSgRm45KtCBz7yeToVs1B/view?usp=drive_link
+## 🚀 Quick Access (Notebook Viewer)
+> 📊 **[Click Here to View the Interactive Project Notebook on Google Colab]
 
+> (https://colab.research.google.com/drive/1SDw-2LLKCerx6bDwVzespqt7WYdsQX80?usp=sharing)
+
+> (Highly Recommended: GitHub takes time or fails to load heavy .ipynb project files, use this link for a smooth experience!)
 
 Online Bookstore Sales Analysis Using SQL.pdf
 
