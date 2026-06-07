@@ -13,20 +13,59 @@
 
 > (Highly Recommended: GitHub takes time or fails to load heavy .ipynb project files, use this link for a smooth experience!)
 
-Online Bookstore Sales Analysis Using SQL.pdf
+![Dashboard Preview](Screenshot%20(21)
 
-(https://drive.google.com/file/d/1EBYQDIsN5K9r-JAKPJEv8bCS7CieiH_5/view?usp=drivesdk)
+.png)
 
 # 📚 Online BookStore Sales Analysis
 
-## 📌 Project Overview
-This end-to-end data analytics project focuses on analyzing online bookstore sales data to generate meaningful business insights and support data-driven decision-making.
+## 🚀 Quick Access (Notebook Viewer)
 
-The project follows a complete analytics workflow starting from raw data collection to SQL analysis and interactive dashboard development using Power BI.
+> 📊 **[Click Here to View the Interactive Project Notebook on Google Colab](https://colab.research.google.com/drive/1SDw-2LLKCerx6bDwVzespqt7WYdsQX80?usp=sharing)**
+> (Highly Recommended: GitHub takes time or fails to load heavy .ipynb project files!)
+
+> 📄 **[Online Bookstore Sales Analysis Using SQL.pdf](https://drive.google.com/file/d/1EBYQDIsN5K9r-JAKPJEv8bCS7CieiH_5/view?usp=drivesdk)**
 
 ---
 
-# 🔄 Project Workflow
+## 📌 Project Overview
+
+This end-to-end data analytics project focuses on analyzing online bookstore sales data to generate meaningful business insights and support data-driven decision-making.
+
+---
+
+## 📊 Key Metrics
+
+- 💰 Total Revenue: **$109M**
+- 📦 Total Orders: **15K**
+- 👥 Total Customers: **5K**
+- 📚 Total Quantity Sold: **69K**
+- 🏆 Top Genre: **Sci-Fi ($7.7M Revenue)**
+- 🌍 Top Country: **India (1,449 Orders)**
+- 📈 Peak Sales Month: **May ($9.72M)**
+
+---
+
+## 📁 Project Structure
+📦 Online-BookStore-Sales-Analysis
+├── 📂 data/
+│   └── 📂 processed/
+│       ├── new_customers.csv
+│       ├── new_orders.csv
+│       └── new_products.csv
+├── 📂 notebooks/
+│   └── BookStore Dataset Cleaning.ipynb
+├── 📂 sql/
+│   └── Online_Bookstore_Analysis in SQL.sql
+├── 📂 dashboard/
+│   └── Online_BookStore_Sales_Dashboard.pbix
+├── 📂 reports/
+│   └── Online Bookstore Sales Analysis Using SQL.pdf
+└── README.md
+
+---
+
+## 🔄 Project Workflow
 
 ### 📥 1. Data Collection
 - Imported raw bookstore sales datasets from Excel/CSV files.
@@ -39,7 +78,6 @@ The project follows a complete analytics workflow starting from raw data collect
 - Cleaned invalid values and standardized columns.
 
 ### 🗄️ 3. SQL Business Analysis
-Used PostgreSQL and SQL queries to solve real-world business problems such as:
 - Monthly revenue analysis
 - Top-selling books
 - Customer purchase behavior
@@ -51,11 +89,11 @@ Used PostgreSQL and SQL queries to solve real-world business problems such as:
 - Created relationships and data models.
 - Used DAX measures for KPI calculations.
 - Built interactive dashboard visuals and slicers.
-- Generated business insights through visual analytics.
 
 ---
 
-# 🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
+
 - 🐍 Python (Pandas)
 - 📗 Excel
 - 🐘 PostgreSQL
@@ -67,27 +105,8 @@ Used PostgreSQL and SQL queries to solve real-world business problems such as:
 
 ---
 
-## 📁 Project Structure
+## ❓ SQL Business Problems Solved
 
-📦 Online-BookStore-Sales-Analysis
-├── 📂 data/
-│   └── new_customers.csv
-│   └── new_orders.csv
-│   └── new_products.csv
-├── 📂 notebooks/
-│   └── BookStore Dataset Cleaning.ipynb
-├── 📂 sql/
-│   └── Online_Bookstore_Analysis in SQL.sql
-├── 📂 dashboard/
-│   └── Online_BookStore_Sales_Dashboard.pbix
-├── 📂 reports/
-│   └── Online Bookstore Sales Analysis Using SQL.pdf
-├── 📂 assets/
-│   └── Screenshot (21).png
-└── README.md
-
-
-# ❓ SQL Business Problems Solved
 - What is the total revenue generated?
 - What are the monthly sales trends?
 - Which books generate the highest revenue?
@@ -101,7 +120,8 @@ Used PostgreSQL and SQL queries to solve real-world business problems such as:
 
 ---
 
-# 📈 Power BI Dashboard Features
+## 📈 Power BI Dashboard Features
+
 - 💰 Total Revenue KPI
 - 📦 Total Orders KPI
 - 👥 Total Customers KPI
@@ -115,7 +135,8 @@ Used PostgreSQL and SQL queries to solve real-world business problems such as:
 
 ---
 
-# 🧽 Data Cleaning Process
+## 🧽 Data Cleaning Process
+
 - Removed and handled null values.
 - Cleaned invalid negative values.
 - Validated duplicate records.
@@ -124,11 +145,18 @@ Used PostgreSQL and SQL queries to solve real-world business problems such as:
 
 ---
 
-## 📊 Key Metrics
-- 💰 Total Revenue: **$109M**
-- 📦 Total Orders: **15K**
-- 👥 Total Customers: **5K**
-- 📚 Total Quantity Sold: **69K**
-- 🏆 Top Genre: **Sci-Fi ($7.7M Revenue)**
-- 🌍 Top Country by Customers: **India (1,449 orders)**
-- 📈 Peak Sales Month: **May ($9.72M)**
+## 💡 Key Business Insights
+
+- Sci-Fi and Fiction genres generated the highest revenue.
+- India contributed the most customers (1,449 orders).
+- Peak revenue month was May at $9.72M.
+- Some books had very low stock levels.
+- Order cancellations affected overall revenue performance.
+
+---
+
+## 👨‍💻 Author
+
+**Rahul Soni**
+
+📌 Data Analyst | SQL | Power BI | PostgreSQL | Python
