@@ -1,3 +1,9 @@
+![Dashboard Preview](
+
+
+
+#### 📚 Online BookStore Sales Analysis ####
+
 # 📚 BookStore Dataset Cleaning.ipynb
 
 ## 🚀 Quick Access (Notebook Viewer)
@@ -60,6 +66,26 @@ Used PostgreSQL and SQL queries to solve real-world business problems such as:
 - 🎨 Canva
 
 ---
+
+## 📁 Project Structure
+
+📦 Online-BookStore-Sales-Analysis
+├── 📂 data/
+│   └── new_customers.csv
+│   └── new_orders.csv
+│   └── new_products.csv
+├── 📂 notebooks/
+│   └── BookStore Dataset Cleaning.ipynb
+├── 📂 sql/
+│   └── Online_Bookstore_Analysis in SQL.sql
+├── 📂 dashboard/
+│   └── Online_BookStore_Sales_Dashboard.pbix
+├── 📂 reports/
+│   └── Online Bookstore Sales Analysis Using SQL.pdf
+├── 📂 assets/
+│   └── Screenshot (21).png
+└── README.md
+
 
 # ❓ SQL Business Problems Solved
 - What is the total revenue generated?
