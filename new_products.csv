@@ -1,0 +1,4001 @@
+product_id,book_title,genre,price,stock,published_year
+1,Provide born.,Sci-Fi,4938.16,142,2018
+2,Single collection use.,NA,4278.52,251,2020
+3,Then popular.,Fiction ,3999.13,322,2023
+4,New real office.,History,3634.28,332,2022
+5,Western rather half.,Romance,2422.25,367,2020
+6,Politics institution.,History,2931.08,330,2018
+7,Play while car.,Romance,4475.53,370,2018
+8,Without ago rate.,Sci-Fi,1650.78,425,2022
+9,First threat whole.,Fiction ,3402.02,76,2022
+10,Media office front.,Romance,1732.16,144,2020
+11,Any human.,Fiction ,230.61,313,2019
+12,Property order it soon.,NA,474.34,183,2021
+13,Group wear.,Fiction ,3349,381,2021
+14,Candidate listen would.,Sci-Fi,1280.56,416,2023
+15,Effort police.,Romance,3669.55,372,2021
+16,Our system.,Fiction ,2884.85,362,2021
+17,Stuff operation.,History,550.96,325,2021
+18,Purpose something.,NA,1900.8,238,2023
+19,Sea bed herself street.,Sci-Fi,820.65,311,2020
+20,Friend relationship media out.,Romance,1131.41,319,2021
+21,My support rest.,Fiction,4691.05,211,2021
+22,State else carry big.,Romance,4524.53,-11,2019
+23,Street.,Romance,4704.13,24,2021
+24,Health money.,Sci-Fi,4158.9,217,2020
+25,From.,Fiction,4934.21,213,2020
+26,Goal recently series.,History,2019.02,195,2023
+27,Sound cost return.,Romance,4288.05,416,2023
+28,White along reflect.,NA,333.61,112,2020
+29,Whole style.,History,3100.1,259,2021
+30,Cultural piece.,Fiction,1620.29,267,2023
+31,Would child spend.,Fiction,840.69,90,2021
+32,Talk surface.,NA,41.01,355,2022
+33,Situation hard cost.,History,4219.34,297,2021
+34,Agree worker.,Romance,4833.74,407,2021
+35,Hand society industry.,Fiction ,4654.61,424,2035
+36,Look guy oil small.,Sci-Fi,600.46,342,2019
+37,Send sport.,NA,2951.35,143,2023
+38,Entire he he reality.,History,3506.44,306,2020
+39,Local argue many.,Fiction,193.75,107,2020
+40,Else argue.,History,3472.27,324,2020
+41,Better worry campaign.,NA,2188.22,11,2020
+42,Employee.,Sci-Fi,437.72,168,2018
+43,Stock agency week.,Romance,1881.17,360,2021
+44,Piece how head.,Fiction ,1546.67,370,2023
+45,Receive sport very.,NA,181.16,57,2020
+46,Thank western.,Sci-Fi,4351.48,246,2018
+47,Performance only technology.,Fiction,4155.43,12,2023
+48,Letter big remember.,Fiction,3080.16,191,2021
+49,Laugh again also general.,Fiction,3983,21,2021
+50,Anything turn.,Fiction ,1162.88,151,2035
+51,Follow say.,Romance,3800.03,342,2019
+52,Response put.,Sci-Fi,3633.87,459,2022
+53,Election scientist cost.,NA,2234.41,207,2023
+54,Base agreement better.,History,2034.62,400,2021
+55,Husband treatment drive.,Fiction ,26.28,132,2018
+56,Message various feel.,Romance,1363.07,430,2021
+57,Commercial across.,Sci-Fi,3772.21,191,2021
+58,Hard spring fill.,Sci-Fi,420.51,275,2022
+59,Six woman discussion Mrs.,History,1958.24,152,2018
+60,Sport fact read.,Sci-Fi,1574.07,493,2022
+61,Would must alone.,NA,4544.24,372,2019
+62,If response especially.,Fiction ,2329.2,43,2021
+63,Yourself alone.,NA,4431.44,20,2021
+64,Want never.,Fiction,4492.97,431,2021
+65,Deal something each.,Sci-Fi,2835.33,239,2018
+66,Eat.,Fiction ,2822.12,451,2019
+67,Among idea interview.,Fiction ,3151.9,161,2021
+68,Authority dog.,History,3608.26,303,2018
+69,Day ability.,Fiction ,2719.83,10,2021
+70,Management final sit.,Sci-Fi,1892.77,331,2019
+71,Friend several year.,History,4339.62,185,2035
+72,Single consumer.,NA,377.22,323,2021
+73,Some back.,Romance,3200.03,332,2020
+74,South.,Fiction,2133.87,486,2022
+75,Bank.,NA,662.21,240,2021
+76,Street little.,NA,1522.87,303,2022
+77,Pattern voice.,Fiction,1901.05,153,2022
+78,Face shake.,NA,1985.54,403,2035
+79,Billion series hotel piece.,Sci-Fi,1433.8,458,2023
+80,Shoulder often.,Sci-Fi,2086.04,18,2035
+81,Owner force member.,Sci-Fi,3642.33,22,2020
+82,Dream.,Fiction,1974.72,15,2035
+83,Guy price whose.,History,3270.83,376,2035
+84,Usually.,NA,2117.46,403,2023
+85,Certainly evidence discussion.,Fiction ,4375.32,115,2022
+86,Along particularly.,History,496.43,174,2020
+87,Stuff fire.,NA,3515.18,123,2021
+88,Center book.,Fiction,1071.91,423,2018
+89,Pick computer.,Fiction,2067.84,319,2020
+90,Mother firm color.,Fiction,3628,138,2021
+91,Into shoulder.,History,3194.89,290,2018
+92,Painting century event.,NA,2012.13,448,2021
+93,Short sort.,Sci-Fi,248.07,80,2018
+94,Story attention.,History,9.48,174,2020
+95,Figure.,History,3923.53,283,2021
+96,Option article.,NA,2637.06,442,2019
+97,Whom must.,Fiction ,1573,173,2020
+98,Example student.,History,798.36,491,2021
+99,Camera whole set.,History,3883.82,139,2023
+100,Service collection phone.,NA,4954.74,370,2020
+101,Certain threat.,History,2294.29,315,2020
+102,Red.,Fiction,3661.07,224,2020
+103,Discover performance seat.,Sci-Fi,590.8,172,2021
+104,Deep result today law.,Fiction ,123.85,93,2021
+105,Wide spend.,Romance,4645.6,377,2018
+106,Coach eight.,Fiction ,3150.47,381,2020
+107,Scene peace grow.,NA,4437.39,153,2021
+108,Positive meet.,Fiction ,3195.11,55,2021
+109,Mouth continue.,Fiction ,681.25,423,2023
+110,Knowledge red.,Sci-Fi,1858.83,329,2018
+111,Us ability under.,Fiction,2425.48,404,2021
+112,Hear two and.,History,4052.6,103,2021
+113,Contain woman race.,Romance,442.26,465,2019
+114,Air teacher.,Fiction,3544.46,371,2019
+115,Lay call social.,Fiction ,2167.27,310,2021
+116,Issue thousand development.,Romance,3504.89,-12,2019
+117,Study.,History,4021.06,113,2021
+118,Key.,Fiction ,3071.28,103,2035
+119,Tonight space political.,Sci-Fi,4923.24,87,2023
+120,Air who reveal.,Sci-Fi,4135.62,-12,2023
+121,The.,Romance,4237.69,177,2022
+122,Relationship.,NA,2482.07,200,2021
+123,Claim tree.,History,4606.07,401,2020
+124,For return method.,Sci-Fi,2176.73,416,2021
+125,Seem those.,Romance,4342.78,23,2018
+126,Sit hear five.,Sci-Fi,2113.48,175,2021
+127,Goal.,Romance,3437.94,211,2020
+128,Black process reveal.,NA,2907.71,206,2020
+129,Power large life.,NA,3522.78,439,2022
+130,Pass participant cut.,NA,4465.42,474,2022
+131,Ball away decide.,NA,1650.28,172,2018
+132,Police energy.,NA,-3,-6,2022
+133,Song institution.,Romance,445.85,272,2035
+134,What easy camera pull.,NA,3429.04,77,2020
+135,Officer right.,Sci-Fi,2451.53,367,2021
+136,Main laugh sit military.,Sci-Fi,4598.84,223,2018
+137,Item.,Fiction,2761.01,121,2035
+138,Serious laugh strong.,History,3715.13,313,2019
+139,Candidate back quite.,History,155.08,54,2021
+140,Tax voice control.,Sci-Fi,3357.79,457,2035
+141,Understand south with.,Sci-Fi,4444.93,196,2035
+142,Main town.,NA,1896.12,90,2020
+143,Break.,Sci-Fi,4866.47,58,2023
+144,Protect but.,Fiction,4263.1,314,2023
+145,Begin dark.,NA,1181.5,442,2019
+146,Character.,Sci-Fi,1553.3,445,2023
+147,Ten experience.,Fiction,3684.13,213,2018
+148,Bank risk.,NA,1920.81,255,2019
+149,Director oil.,NA,1677.63,498,2021
+150,Choice other.,History,2867.01,256,2018
+151,Industry yeah because.,NA,2363.31,283,2020
+152,Out until act.,Fiction ,990.16,51,2035
+153,Drug range.,Sci-Fi,1491.8,424,2021
+154,Full rise.,NA,2234.84,223,2035
+155,Employee happy operation.,History,2752.21,35,2019
+156,Five.,Sci-Fi,19.76,206,2020
+157,Raise cover.,Fiction,4509.43,55,2035
+158,Whose yeah.,Fiction ,1976.27,242,2023
+159,Develop current.,Fiction ,1572.62,359,2035
+160,Morning control several.,Sci-Fi,1199.84,268,2021
+161,Move each shoulder.,Romance,1760.46,375,2023
+162,Democrat by.,Sci-Fi,406.46,384,2021
+163,Specific company.,Sci-Fi,231.52,329,2035
+164,Television why.,History,147.99,13,2023
+165,Forget marriage responsibility.,Sci-Fi,2176.22,289,2019
+166,Matter rise.,Sci-Fi,4830.02,496,2018
+167,Consumer wonder.,History,3507.63,453,2023
+168,Than join.,Sci-Fi,2830.37,102,2035
+169,Teacher that.,Romance,1480.47,399,2021
+170,Among catch current.,Fiction,27.71,313,2021
+171,News sing.,Fiction ,1148.74,470,2021
+172,Compare detail pattern.,Fiction,2352.06,344,2018
+173,Consumer time.,Fiction,4142.61,478,2021
+174,Skin day type.,History,-9.28,7,2021
+175,Space clearly.,Sci-Fi,-82.39,167,2035
+176,Tonight whether argue.,Fiction,16.53,127,2023
+177,Especially.,Fiction ,862.83,365,2021
+178,Charge relate measure.,Romance,4483.69,83,2018
+179,Foot all.,Sci-Fi,2706.82,317,2022
+180,Strategy couple member.,NA,39.3,133,2019
+181,Us admit act individual.,Sci-Fi,4351.65,54,2020
+182,For better rule.,NA,2033.13,65,2018
+183,Economy whether.,Sci-Fi,3257.36,304,2019
+184,Explain study.,NA,1285.3,98,2022
+185,Economy hear.,NA,3624.75,183,2021
+186,Market address avoid.,NA,361.64,174,2021
+187,Next low.,History,4605.4,356,2021
+188,Cause fast sing.,Romance,323.29,279,2035
+189,Industry little.,History,4445.43,294,2021
+190,Not political true.,Romance,2279.89,131,2023
+191,Teacher vote.,Sci-Fi,1248.43,363,2023
+192,Father space.,Sci-Fi,1433.93,500,2018
+193,Effect interest television.,History,2642.65,129,2035
+194,Seven choose stand.,Romance,3421.79,395,2023
+195,Mr nor mention interesting.,NA,1421.25,472,2023
+196,Bill wind.,Fiction ,3060.81,66,2020
+197,Red those woman.,History,3806.83,278,2021
+198,Several white.,History,4036.27,184,2035
+199,Social size sing.,NA,401.82,445,2021
+200,Though within bag.,NA,4722.26,222,2022
+201,Condition great position.,Fiction,4215.08,337,2035
+202,Truth month mention night.,Sci-Fi,2777.64,345,2023
+203,Effect worker.,Fiction,3100.34,473,2019
+204,Put smile federal.,Sci-Fi,821.85,300,2022
+205,Forward.,History,3526.7,110,2035
+206,Statement.,NA,105.5,16,2018
+207,Spend.,NA,4470.61,352,2022
+208,Particularly watch.,Fiction,1218.11,376,2021
+209,Election energy.,NA,1357.59,97,2035
+210,Republican third particularly spring.,NA,1015.58,-16,2035
+211,Network.,Sci-Fi,1167.04,458,2022
+212,Center exist person.,Sci-Fi,2414.47,322,2023
+213,Perhaps loss picture.,NA,4532.97,205,2035
+214,Clearly see.,Fiction ,2130.96,44,2020
+215,Line tell.,Sci-Fi,4272.83,117,2021
+216,Statement present nothing.,History,1942.2,-5,2021
+217,Hit decision huge.,Sci-Fi,1843.53,71,2021
+218,Board agreement green.,NA,4558.82,412,2020
+219,Sign improve sort.,NA,333.55,-15,2022
+220,Operation include.,Sci-Fi,3902.27,102,2035
+221,Current.,NA,3298.5,98,2020
+222,Ten would successful west.,Romance,3237.23,428,2019
+223,Black task do.,Romance,837.3,310,2019
+224,Kitchen really yet.,Sci-Fi,3647.13,427,2019
+225,Yet to fact.,Sci-Fi,925.65,15,2019
+226,General fly.,Sci-Fi,2345.87,-18,2022
+227,I stage idea.,Romance,3238.27,220,2035
+228,Return American.,History,2882.61,394,2035
+229,Recognize late.,Romance,4040.7,340,2035
+230,Kind commercial professional.,Sci-Fi,2797.22,121,2035
+231,Interest also.,History,3588.79,499,2020
+232,Someone institution.,Fiction ,492.5,286,2035
+233,Plant subject.,Sci-Fi,2065.6,245,2018
+234,Senior guy black.,Fiction,530.7,259,2022
+235,Our economy.,NA,3318.49,420,2021
+236,Write.,NA,2765.99,90,2020
+237,Some number too.,NA,4986.79,136,2019
+238,Change difference.,Romance,3546.7,360,2023
+239,Hold list.,Sci-Fi,2486.6,141,2023
+240,Last moment although health.,NA,1659.89,364,2035
+241,What.,Sci-Fi,2434.56,451,2021
+242,Professor window affect.,Sci-Fi,3631.04,321,2021
+243,Someone kid.,Sci-Fi,3102.58,403,2022
+244,Soon.,Romance,4407.6,242,2018
+245,Each.,NA,894.03,220,2021
+246,Stuff too play.,Sci-Fi,806.14,-15,2023
+247,Congress another if.,NA,695.33,321,2021
+248,Structure high.,Fiction ,748.82,416,2023
+249,Trip fill.,Sci-Fi,-56.46,201,2021
+250,Name detail.,Fiction,1911.64,170,2018
+251,Vote various.,Fiction ,3921.63,395,2020
+252,Contain section air believe.,Fiction ,3034.24,484,2022
+253,Audience hospital.,NA,2638.9,150,2035
+254,Science take must.,Sci-Fi,1690.84,326,2022
+255,Draw watch finally.,History,3181.87,189,2018
+256,Political be really.,Fiction,2323.19,316,2023
+257,Ok east better.,Sci-Fi,4410.7,398,2020
+258,Through me.,Fiction,773.39,346,2018
+259,Happen pass.,Fiction,2949.97,266,2020
+260,Head fact.,Sci-Fi,95.78,396,2021
+261,Positive visit.,NA,4493.51,274,2019
+262,Story charge high.,NA,1459.04,382,2035
+263,Meet door risk.,Romance,4584.9,240,2020
+264,Government page.,Fiction,2642.73,198,2019
+265,Anyone party sense.,Fiction,1361.16,179,2021
+266,Heavy spend water.,Fiction,257.69,17,2022
+267,Real feel.,Sci-Fi,2519.82,293,2020
+268,Thousand early.,Fiction,573.09,11,2021
+269,Hope dream.,Fiction ,1606.86,259,2021
+270,Even interest.,Sci-Fi,4479.33,497,2019
+271,Those short weight.,Sci-Fi,2051.02,169,2023
+272,Public rise.,Sci-Fi,313.91,85,2020
+273,Ok.,NA,2386.06,358,2022
+274,Five behind join.,Fiction ,2016.26,-1,2020
+275,Rule movie huge.,NA,2725.27,184,2021
+276,Become here pass.,NA,2785.62,252,2018
+277,Above employee system coach.,Sci-Fi,351.95,421,2018
+278,List even community.,Romance,4721.35,355,2035
+279,Effect series power.,Romance,80.33,41,2021
+280,There society strong.,Fiction ,3421.74,-14,2022
+281,Source next successful future.,Sci-Fi,2544.02,455,2019
+282,Girl focus that.,Sci-Fi,2722.1,349,2018
+283,Mouth maintain.,Sci-Fi,3081.35,233,2021
+284,Including instead hope always.,Romance,3788.5,298,2020
+285,Organization note red.,Sci-Fi,4436.16,17,2018
+286,Trade pretty.,Romance,124.85,149,2023
+287,Pass.,Sci-Fi,1328.64,351,2020
+288,City cost.,Fiction,2481.5,132,2019
+289,Learn money who.,Fiction ,4175.79,40,2035
+290,Role bar owner.,Fiction,3326.76,428,2021
+291,Range prevent mind.,Sci-Fi,4910.46,114,2023
+292,Town bed.,Sci-Fi,3565.53,231,2019
+293,Western stand.,History,1763.22,479,2020
+294,Relationship pretty vote.,NA,3968.05,240,2035
+295,Decade modern behavior.,History,1253.57,30,2021
+296,Year cost.,Sci-Fi,2655.05,49,2022
+297,Difference group begin.,NA,4788.43,402,2035
+298,Protect opportunity consider return.,NA,2077.82,247,2021
+299,Change sing cell.,NA,4861.95,215,2021
+300,Check would middle.,NA,1687.06,472,2021
+301,Mean glass simply north.,Fiction,3870.76,-19,2023
+302,Sign serious.,Fiction,1451.22,393,2021
+303,Late including project.,NA,3812.27,409,2020
+304,Those success.,Romance,1131.49,400,2019
+305,When live me marriage.,History,783.95,248,2020
+306,Marriage family.,NA,939.67,-1,2019
+307,Prepare sure meet.,Romance,3732.48,175,2023
+308,Rule likely north.,NA,4887.18,432,2023
+309,While try side.,NA,1674.25,321,2018
+310,All after difference series.,NA,3654.96,191,2022
+311,Near attention color.,Fiction,2940.21,13,2019
+312,Indicate per large.,History,2081.33,403,2019
+313,Day charge.,History,-32.64,179,2019
+314,End again stay.,Sci-Fi,2109.42,232,2023
+315,Customer.,Sci-Fi,1947.57,85,2021
+316,Kitchen five.,Fiction ,-0.57,28,2021
+317,Walk buy.,Fiction ,1432.55,33,2021
+318,Respond woman board.,Sci-Fi,4960.49,31,2020
+319,Wind security.,NA,1954.53,397,2023
+320,Fly expect ability.,Fiction ,4673.24,476,2023
+321,Style long.,History,4500.62,384,2020
+322,He.,Fiction ,4652.49,328,2022
+323,Interest west.,Fiction,108.28,167,2021
+324,Common energy.,History,3113.59,47,2022
+325,Senior issue as.,Fiction ,4937.37,72,2019
+326,General his good.,NA,1220.01,168,2021
+327,Shake weight pretty.,NA,4900.92,272,2035
+328,Difference Republican last they.,Fiction ,2076.01,414,2021
+329,Hit crime.,Sci-Fi,252.99,268,2019
+330,Reduce.,Fiction ,381.07,405,2021
+331,Total consider easy.,Sci-Fi,3512.29,119,2021
+332,Matter travel develop.,History,3912,90,2021
+333,Important if recently.,NA,1154.6,321,2021
+334,News.,History,3483.1,186,2023
+335,Wrong four.,Sci-Fi,3717.73,146,2022
+336,Loss key piece among.,NA,750.76,95,2022
+337,Difference lose.,NA,4378.35,432,2018
+338,True check.,Fiction ,2762.02,326,2018
+339,Kitchen ready.,NA,1976.16,482,2020
+340,Their enjoy capital.,NA,3297.55,30,2018
+341,End beautiful turn.,History,4859.34,252,2019
+342,Page natural table.,Fiction,735.3,457,2023
+343,At quite.,Fiction,4916.41,261,2018
+344,Bank back sometimes.,Fiction,1238.14,460,2022
+345,Home try hold.,Sci-Fi,3042.01,377,2021
+346,Hundred follow.,NA,687.04,306,2018
+347,Administration modern moment.,Fiction,4019.82,362,2022
+348,Activity close nor.,NA,4749.71,338,2022
+349,List.,Sci-Fi,3893.94,489,2035
+350,Mention heart control.,Fiction ,1199.76,476,2023
+351,Want degree machine.,Sci-Fi,2699.55,152,2022
+352,Feel.,Sci-Fi,3237.79,102,2021
+353,Section discussion.,Romance,1630.19,454,2018
+354,Cause.,Romance,1478.05,389,2022
+355,Fund sing news.,Romance,1807.08,239,2020
+356,Protect third best.,Fiction ,2738.06,443,2019
+357,Visit bill not.,NA,4775.67,51,2021
+358,Return third.,Fiction,716.35,-14,2022
+359,Society race owner.,Sci-Fi,-76.64,120,2021
+360,Out until fight someone.,NA,3483.95,191,2021
+361,Learn long.,NA,4818.38,184,2023
+362,Institution mission develop.,NA,1599.44,292,2020
+363,Seek poor.,NA,1593.86,34,2022
+364,Large low.,History,2525.06,287,2021
+365,Cup movie.,Fiction ,3425.4,437,2020
+366,Half form read sit.,Fiction,4491.91,74,2022
+367,Dark writer.,NA,4923.89,444,2021
+368,Need ready individual.,Sci-Fi,4052.98,175,2021
+369,Public financial food well.,Fiction,3356.48,497,2020
+370,Street within quality.,Fiction ,845.5,183,2018
+371,Ahead accept real.,Romance,4335.25,119,2035
+372,Others.,Romance,1622.33,403,2021
+373,Its.,Sci-Fi,2363.06,180,2022
+374,Station only ever.,History,526.02,460,2020
+375,Risk effort.,Fiction,3357.62,236,2021
+376,Catch out audience.,NA,3194.52,126,2020
+377,Station during sense.,Romance,1872.07,371,2022
+378,Ability simply administration.,NA,-0.5,294,2018
+379,Financial next.,NA,2900.01,24,2021
+380,Instead idea.,NA,1849.94,223,2021
+381,Almost story.,Sci-Fi,424.73,147,2020
+382,West eye contain.,NA,3500.33,413,2019
+383,Explain member speak.,Fiction,2362.77,-3,2020
+384,Return water each.,History,2707,217,2021
+385,Near.,Fiction ,3701.81,187,2022
+386,Might avoid itself.,Sci-Fi,3746.82,116,2018
+387,High deal.,NA,542.58,365,2021
+388,Response reason health.,Fiction ,873.09,396,2018
+389,Security state.,NA,2255.23,284,2035
+390,Around.,NA,670.73,425,2019
+391,Rock.,Fiction,1940.44,359,2020
+392,Man left.,NA,2713.6,262,2023
+393,Month realize though.,Sci-Fi,-12.59,107,2021
+394,Remember daughter speak.,NA,4091.33,161,2023
+395,Education physical.,NA,4113.26,102,2018
+396,Call certain ago.,History,2665.48,121,2018
+397,Give certain.,Sci-Fi,2492.06,86,2035
+398,Project must.,Fiction ,1522.06,159,2022
+399,The attorney.,Romance,2624.94,111,2022
+400,Process nature.,Romance,4660.25,75,2035
+401,Commercial make worry.,Sci-Fi,4560.23,248,2018
+402,Stage agree.,Fiction,3448.3,368,2019
+403,Yard remember away.,Romance,470.91,411,2020
+404,Food strategy view.,Sci-Fi,1251.99,495,2022
+405,Size police.,Romance,4728.63,42,2019
+406,Skill fine.,Sci-Fi,4052.19,-4,2020
+407,Line herself.,Romance,765.96,11,2019
+408,Moment lot.,Romance,4455.7,279,2023
+409,East experience.,Sci-Fi,4459.2,220,2035
+410,Beat adult.,Sci-Fi,588.9,345,2021
+411,Stage experience.,History,4077,325,2035
+412,Apply skin decade.,Sci-Fi,4693.33,408,2020
+413,Argue.,Sci-Fi,815.03,447,2022
+414,Grow.,Sci-Fi,4505.01,6,2018
+415,Describe help member after.,Romance,4002.54,383,2018
+416,Dog talk.,Romance,2311.22,113,2020
+417,Nearly under.,Sci-Fi,981.05,86,2019
+418,Chair cultural.,Sci-Fi,1431.53,46,2021
+419,Third.,Sci-Fi,2802.72,368,2019
+420,Ball remain watch.,Fiction ,193.9,338,2023
+421,Act research.,Sci-Fi,1920.57,379,2021
+422,We.,NA,4953.28,225,2022
+423,Fall spring.,NA,4107.72,142,2022
+424,Seat free the.,History,1773.39,267,2022
+425,Another term.,NA,3895.69,146,2020
+426,Scene road blood well.,Sci-Fi,1452.68,35,2035
+427,Capital sister test.,Fiction ,2694.58,153,2035
+428,Hair.,Fiction,398.55,112,2023
+429,Way plant tree.,NA,3512.01,482,2021
+430,Kind.,Sci-Fi,3041.81,237,2019
+431,Personal black capital.,NA,4529.76,193,2021
+432,Security compare surface.,Fiction ,588.18,383,2020
+433,Reason store.,Sci-Fi,4364.55,286,2021
+434,Arm little view good.,Sci-Fi,4767.14,128,2021
+435,Hour effort.,History,2925.15,131,2020
+436,Care read would.,Sci-Fi,4152.39,320,2020
+437,Arm when.,History,2893.72,273,2019
+438,Try very.,NA,-12.02,112,2018
+439,Million probably hope.,History,4872.52,94,2021
+440,Change for south.,Sci-Fi,98.37,350,2023
+441,Still buy low.,Romance,2784.88,332,2035
+442,Meeting less fast book.,Sci-Fi,1480.41,384,2023
+443,Political data trial discover.,NA,2428.11,338,2018
+444,Large gun.,Sci-Fi,374.74,-9,2023
+445,Toward blue.,Sci-Fi,1556.16,98,2021
+446,Night many your.,Romance,1952.35,175,2019
+447,Worker per.,NA,1072.48,431,2021
+448,Its door.,Romance,3207.53,69,2022
+449,Which while rich.,Sci-Fi,2648.22,16,2021
+450,Foot may.,Sci-Fi,2971.76,281,2021
+451,Eight central however.,NA,3587,155,2021
+452,Subject wife.,Fiction,73.49,115,2023
+453,When amount his.,NA,2719.04,338,2035
+454,Determine single mention.,NA,3078.78,466,2022
+455,Blue they large.,Sci-Fi,1881.93,265,2022
+456,Result huge.,Fiction ,2650.64,392,2022
+457,Dark our condition.,History,2968.44,250,2019
+458,Choose some.,NA,1359.14,49,2021
+459,Offer structure sometimes.,History,4206.16,428,2019
+460,House feeling television.,Sci-Fi,4414.5,0,2021
+461,Treatment contain stuff.,Fiction,3352.2,75,2018
+462,Chair interesting sea.,NA,1040.84,461,2023
+463,Range body.,History,4623.99,355,2018
+464,Oil less statement.,Fiction ,2886.21,-9,2020
+465,Hand administration test.,NA,1826.94,374,2021
+466,Add answer board.,Fiction,2791.56,27,2022
+467,Stop hair.,History,4087.93,103,2021
+468,Thing including eye.,NA,3760.23,408,2021
+469,Billion food account.,Sci-Fi,1378.12,309,2020
+470,There responsibility.,Fiction,2410.85,54,2022
+471,Short know community.,Sci-Fi,4461.65,5,2021
+472,Because worry especially.,History,4220.06,234,2021
+473,Matter story.,Sci-Fi,1996.35,389,2035
+474,Pm commercial.,History,240.9,103,2022
+475,Public letter admit.,Romance,1101.05,213,2021
+476,Reflect short nothing.,Sci-Fi,486.71,63,2020
+477,Player ability receive.,Fiction ,4866.46,342,2035
+478,New level thousand.,Fiction ,848.94,101,2021
+479,Information couple.,NA,1751.45,260,2023
+480,Dinner career.,Sci-Fi,3618.3,252,2022
+481,Perform if.,Romance,3242.38,396,2021
+482,Cold friend play.,Fiction,162.03,262,2023
+483,Minute.,Sci-Fi,14.84,45,2021
+484,Prevent able financial.,Fiction,795.91,97,2021
+485,Second sign arrive stuff.,Sci-Fi,2053.19,404,2022
+486,Admit tend bill.,Sci-Fi,1570.74,484,2023
+487,Worry maintain speech.,History,726.51,126,2021
+488,Detail explain whether fact.,Fiction,1481.96,420,2020
+489,Should impact almost community.,Sci-Fi,4123.23,264,2021
+490,Machine music hundred.,NA,4434.33,264,2021
+491,Involve open factor.,History,4247.85,454,2019
+492,The.,Sci-Fi,2945.1,338,2018
+493,Loss spend wear.,Sci-Fi,2908.74,328,2021
+494,Within.,Sci-Fi,3591.37,467,2020
+495,Clearly avoid example be.,NA,3081.54,442,2022
+496,Interview decision itself through.,Fiction ,2463.02,129,2019
+497,Rich training I fine.,Sci-Fi,451.43,12,2035
+498,International Congress.,NA,1138.63,280,2021
+499,Finally.,Sci-Fi,4482.63,202,2023
+500,Leader else part hold.,History,2697.22,362,2035
+501,Choose so.,Fiction,500.97,267,2021
+502,Heavy such product.,Sci-Fi,1614.45,272,2021
+503,Against hair.,Fiction,1524.68,427,2019
+504,Kid whose truth.,Sci-Fi,2894.55,44,2023
+505,Meet.,Sci-Fi,1012.87,67,2021
+506,Soldier know.,Sci-Fi,2591.51,1,2021
+507,School most.,Fiction,4746.68,49,2023
+508,Shoulder pull anyone thing.,Fiction ,242.21,-13,2021
+509,Defense ten reduce establish.,NA,76.57,350,2022
+510,Themselves gun may.,Fiction,3771.15,28,2021
+511,Thing religious from.,Sci-Fi,2153.39,434,2035
+512,Board produce.,NA,3037.7,162,2021
+513,May read.,Sci-Fi,1544.78,399,2018
+514,Gas yard responsibility.,Sci-Fi,2097.76,168,2022
+515,Become fund manage.,Fiction ,2898.48,471,2022
+516,Wish create per.,Sci-Fi,2122.17,158,2018
+517,Resource what.,Fiction,980.2,294,2018
+518,Consumer community.,Fiction ,1443.51,251,2018
+519,Future analysis.,Fiction,1986.53,344,2018
+520,Action recently.,Sci-Fi,2503.31,174,2023
+521,Born adult.,Romance,2931.33,116,2023
+522,Theory help.,Sci-Fi,3550.42,441,2019
+523,First yet model thus.,Sci-Fi,3457.14,127,2022
+524,Knowledge imagine nothing.,Sci-Fi,4068.1,355,2023
+525,Floor management buy.,Romance,3642.79,275,2035
+526,List field animal truth.,Fiction ,3308.9,422,2020
+527,Letter rise.,NA,4571.12,233,2022
+528,Able.,Sci-Fi,2481.21,223,2022
+529,Successful know.,Fiction ,2557.72,84,2018
+530,Issue.,Romance,3110.89,292,2023
+531,Best want.,Romance,1626.94,443,2035
+532,While free.,History,3526.03,242,2018
+533,Particularly individual campaign.,NA,1620.29,158,2021
+534,Right close particular.,Sci-Fi,2999.08,212,2018
+535,Myself family strong from.,NA,4854.94,361,2021
+536,Trial.,Sci-Fi,4503,122,2018
+537,Might race investment.,Fiction ,3593.34,216,2021
+538,Show enough boy.,History,3587.54,390,2035
+539,Entire institution maintain cultural.,Sci-Fi,2686.98,260,2018
+540,Early business nothing.,Sci-Fi,3361.93,242,2018
+541,Stop necessary security.,Fiction ,4704.37,364,2019
+542,Wait rest.,NA,3359.2,16,2019
+543,Coach.,Fiction ,3235.83,316,2021
+544,Heart serious.,NA,3099.8,8,2022
+545,Thank.,NA,4704.83,67,2018
+546,Example top water.,NA,599.55,299,2019
+547,Interesting cut lot.,Sci-Fi,746.78,367,2021
+548,Sell work.,NA,3675.75,276,2018
+549,Second amount civil.,Sci-Fi,3282.87,301,2023
+550,Two leg military.,Romance,1453.87,333,2035
+551,Ahead run.,NA,129.02,229,2020
+552,However short yourself smile.,Romance,3704.67,153,2019
+553,Garden truth strong.,Sci-Fi,4845.49,336,2023
+554,Rather music stand.,Sci-Fi,4760.16,269,2021
+555,Difficult wait.,Fiction ,4081.64,436,2018
+556,Yes person put.,Sci-Fi,1266.55,414,2020
+557,Chair culture friend almost.,History,1077.54,203,2022
+558,Ten.,NA,3984.64,258,2022
+559,Hotel eat.,NA,3983.29,302,2021
+560,Five throw action.,Romance,2142.86,326,2023
+561,Worry figure.,Fiction,4163.56,57,2023
+562,Hold view floor company.,Sci-Fi,1189.11,16,2022
+563,Evidence land member.,Sci-Fi,3090.94,332,2021
+564,Current section good.,NA,4585.92,121,2019
+565,Story mission.,Sci-Fi,63.71,45,2021
+566,Trade long.,Fiction ,3420.01,105,2022
+567,Travel speak true.,Fiction ,2226.55,-17,2022
+568,Several star.,Sci-Fi,1294.2,36,2019
+569,Girl admit yeah story.,Fiction,567.59,88,2035
+570,Dog education despite.,Fiction,-82.45,44,2021
+571,Meeting pay position laugh.,History,1085.27,12,2019
+572,Board tend.,Fiction ,4634.84,385,2021
+573,Sense main.,Fiction,3025.46,474,2035
+574,Born throughout opportunity other.,NA,1125.61,450,2020
+575,Let hard.,NA,1673.51,268,2021
+576,Help fine eight.,Romance,63.12,46,2019
+577,Entire against size.,History,609.89,6,2019
+578,Fire determine.,NA,126.93,158,2021
+579,Fill behavior.,Romance,1268.79,136,2022
+580,My watch nothing.,Fiction ,2663.17,88,2023
+581,Value television someone.,NA,2950.34,479,2021
+582,View enjoy.,Sci-Fi,4259.37,323,2020
+583,Foot society.,NA,1714.81,6,2023
+584,Senior dinner worker step.,History,4796.15,466,2018
+585,Finish member financial.,Fiction,3845.89,468,2021
+586,Middle husband tree.,Sci-Fi,2824.24,412,2023
+587,Forward player support growth.,Fiction,3136.62,163,2021
+588,Recognize so artist structure.,NA,3543.15,376,2018
+589,Form north character.,Sci-Fi,4495.35,149,2021
+590,Authority trip.,Sci-Fi,3222.3,282,2019
+591,Approach most way.,Sci-Fi,143.96,456,2035
+592,Raise beyond.,NA,3752.22,206,2022
+593,Answer bag.,Romance,4545.63,246,2022
+594,Along buy resource.,Sci-Fi,1816,298,2021
+595,End.,Sci-Fi,264.96,433,2021
+596,Alone own.,History,3452.06,77,2021
+597,Wide large impact.,Romance,2610.42,38,2020
+598,Argue four blood.,NA,3269.98,203,2018
+599,Career defense today.,Fiction,17.34,69,2023
+600,Hot likely.,NA,4072.79,206,2021
+601,Traditional wish hope.,Sci-Fi,2664.52,197,2019
+602,Learn us many hold.,Sci-Fi,4896.49,371,2022
+603,Require professor age.,Sci-Fi,3789.33,39,2035
+604,Wind amount Democrat.,Sci-Fi,4340.45,63,2018
+605,Personal when.,History,3642.56,195,2022
+606,Somebody American ground.,Romance,4042.77,238,2023
+607,Civil board authority perhaps.,Fiction ,2627.18,85,2021
+608,Process must meeting.,NA,2981.21,43,2020
+609,Good cut discussion.,Romance,203.04,300,2018
+610,Give claim.,History,-34.07,362,2021
+611,Boy even data.,History,3278.12,201,2023
+612,Home wide weight.,Sci-Fi,332.58,-15,2021
+613,Several trial.,Sci-Fi,3635.16,-1,2018
+614,Religious leader.,Fiction ,4585.08,48,2023
+615,Outside decide.,Sci-Fi,2669.56,427,2019
+616,Now red likely write.,Sci-Fi,4271.49,276,2035
+617,Loss common go.,History,3008.38,293,2021
+618,Power single eat brother.,Fiction,663.36,27,2021
+619,Grow force.,NA,198.18,345,2035
+620,Study information.,Sci-Fi,2793.22,112,2022
+621,Particular animal theory.,Sci-Fi,1648.09,411,2021
+622,Also able still race.,Romance,3100.93,231,2019
+623,My few any this.,NA,3544.9,292,2021
+624,Level field.,History,3335.99,478,2019
+625,Down at.,Fiction ,3859.37,207,2022
+626,Expert such brother.,NA,765.88,273,2021
+627,Successful nor.,Fiction,1665.83,374,2035
+628,Oil treatment.,Romance,3560.58,185,2022
+629,For difference affect.,NA,4090.54,410,2020
+630,South produce song.,Fiction ,531.2,325,2021
+631,Hand happen officer.,Sci-Fi,2851.36,286,2021
+632,Goal right fast result.,NA,2394.97,404,2018
+633,Offer.,NA,133.16,43,2022
+634,Executive news.,History,1888.42,344,2020
+635,Call ground throw.,NA,1851.87,9,2020
+636,Part produce more.,Fiction ,1055.96,182,2020
+637,Consumer high.,Fiction ,1108.38,399,2021
+638,Over data.,Sci-Fi,3817.34,139,2022
+639,Good better.,Fiction ,4034.03,176,2018
+640,Far provide person.,History,1517.15,-1,2018
+641,Always any interest.,Sci-Fi,106.73,387,2021
+642,At.,Fiction ,2725.17,108,2035
+643,Scene.,NA,2310.7,359,2035
+644,Hard old leg believe.,Fiction ,1936.67,274,2018
+645,Role state book human.,Sci-Fi,3360.04,149,2020
+646,Only top century.,NA,444.55,162,2018
+647,Own.,History,3372.92,171,2021
+648,Why we half class.,Sci-Fi,4778.34,471,2021
+649,Front foot stage.,Sci-Fi,2372.32,427,2021
+650,Heavy foreign.,NA,4180.23,408,2035
+651,Western return.,History,3518.65,264,2020
+652,Education citizen feel.,Fiction ,3438.31,70,2019
+653,Career none.,Sci-Fi,1588.3,448,2019
+654,Spring character tough.,Fiction ,72.38,460,2021
+655,Daughter bed mother.,Fiction,4378.22,374,2035
+656,Forget plan begin.,Fiction ,4719.3,454,2021
+657,Firm nation.,Fiction,4745.86,13,2018
+658,Pretty prove part.,History,4522.02,22,2021
+659,Wonder lawyer ok.,NA,2067.06,408,2021
+660,Clear sense agent.,History,699.13,318,2021
+661,International quickly help.,Sci-Fi,478.77,275,2021
+662,Here practice popular.,Sci-Fi,733.92,440,2021
+663,Only indicate.,Fiction ,1497.69,305,2020
+664,Study imagine expect.,Fiction ,3609.96,448,2023
+665,Call physical state thing.,Fiction,981.33,448,2023
+666,Necessary.,NA,470.17,223,2035
+667,Indicate shake about.,Sci-Fi,3559.84,434,2022
+668,Red science.,Sci-Fi,2694.68,443,2023
+669,Example realize evening.,History,1223.22,460,2018
+670,Season relate.,Fiction,187.2,305,2021
+671,Head.,Sci-Fi,883.74,298,2020
+672,Son.,Fiction,-93.64,448,2035
+673,Sure along wife.,Sci-Fi,3793.96,315,2019
+674,Serve born back.,Fiction,1740.1,216,2021
+675,Agency writer.,Fiction,4792.26,369,2023
+676,View imagine.,Sci-Fi,-52.15,234,2018
+677,Take school car society.,Fiction,1355.45,267,2022
+678,There perhaps.,Romance,3430.74,201,2022
+679,Discuss.,NA,1358.84,196,2023
+680,Ask enjoy.,Sci-Fi,3326,204,2018
+681,Still hear.,NA,1640.36,14,2021
+682,South late.,Sci-Fi,738.41,300,2035
+683,Offer read place.,Fiction,504.69,172,2021
+684,Spring stock Republican.,Fiction ,3844.88,488,2019
+685,Hundred kitchen individual.,Sci-Fi,1566.29,-8,2020
+686,Organization should require.,Sci-Fi,560.53,132,2021
+687,Number could.,NA,180.84,115,2023
+688,Strong follow religious early.,History,4459.49,159,2021
+689,Doctor style can.,NA,4202.48,260,2020
+690,Strong could.,Sci-Fi,4196.36,133,2018
+691,Right whom far.,Romance,4940.98,254,2020
+692,Organization theory tend.,NA,3035.28,247,2021
+693,Like.,Sci-Fi,3944.85,45,2035
+694,Whatever real month.,Fiction ,1316.82,165,2018
+695,Along before.,NA,3575.64,82,2022
+696,Modern ten.,NA,2995.57,443,2020
+697,Science almost middle.,History,3232.61,18,2023
+698,Follow series offer.,History,2768.61,471,2021
+699,Knowledge bag.,NA,970.42,369,2020
+700,Cover education.,NA,761.64,36,2018
+701,More remember event.,NA,3181.05,266,2021
+702,Simply offer.,NA,4279.04,386,2035
+703,Agreement kid international.,NA,2717.79,484,2019
+704,Young behind.,Sci-Fi,925.04,239,2022
+705,Rise.,Fiction,1278.87,99,2021
+706,Seat serve suffer.,History,881.8,266,2022
+707,Mrs score.,Sci-Fi,3082.43,474,2022
+708,Safe safe.,Fiction ,2269.76,318,2021
+709,Identify very.,Romance,4111.8,36,2020
+710,Later.,Fiction ,4492.31,27,2021
+711,History candidate anything various.,History,3433,-6,2019
+712,Program star.,NA,1857.72,6,2022
+713,Avoid whose partner.,History,4679.76,260,2021
+714,Kind assume.,History,587.08,304,2023
+715,Same prove.,Sci-Fi,1093.64,263,2023
+716,Sing company various source.,NA,2212.06,232,2021
+717,Several.,Fiction ,3599.02,460,2021
+718,Itself piece study upon.,Fiction,2601.27,487,2020
+719,Activity ground necessary.,Sci-Fi,4737.81,208,2018
+720,Character.,Sci-Fi,648.82,335,2018
+721,Quality bed.,Romance,1904.91,268,2021
+722,Line billion where quite.,Sci-Fi,4196.92,165,2018
+723,Me program.,Fiction,1359.25,202,2018
+724,Sense nice number.,History,852.32,57,2021
+725,Create power.,Sci-Fi,3449.85,387,2021
+726,Enter though challenge performance.,Romance,3570.66,199,2018
+727,Reality blood.,Sci-Fi,1835.11,27,2021
+728,Mr expect no.,Sci-Fi,2971.63,436,2035
+729,Current responsibility.,Fiction,4841.95,32,2035
+730,Skin three during.,NA,4743.55,473,2021
+731,Return discover pattern.,Sci-Fi,243.25,167,2035
+732,Course family.,Fiction ,1122.57,398,2021
+733,Hand ball north.,Sci-Fi,1668.9,392,2021
+734,Western including.,Fiction ,2259.45,261,2020
+735,Responsibility entire.,Fiction ,3525.67,395,2023
+736,Certain reduce hospital.,Fiction ,2457.02,448,2020
+737,Produce only.,NA,3877.82,252,2021
+738,Wrong factor PM.,Sci-Fi,4772.08,433,2022
+739,Church though.,Sci-Fi,4872.08,269,2021
+740,Resource ten.,Fiction ,3340.85,410,2019
+741,Third require.,Sci-Fi,3178.33,196,2018
+742,Give car color material.,NA,4273.11,-7,2020
+743,Leg.,History,1086.18,201,2019
+744,Sea simply yet.,NA,2529.07,113,2021
+745,Effect ready east artist.,Romance,1124.61,307,2020
+746,Up class.,NA,3991.77,200,2023
+747,Reveal identify young.,Sci-Fi,1271.92,8,2021
+748,Practice middle paper.,Fiction,1405.74,365,2022
+749,Result off.,NA,1793.91,142,2021
+750,Executive truth guy result.,Sci-Fi,8.12,193,2020
+751,Agreement.,Sci-Fi,-95.68,487,2020
+752,Again thought.,Romance,452.47,-4,2019
+753,Beautiful although.,NA,4543.93,372,2023
+754,Type throw.,Romance,1218.35,109,2035
+755,Recent view.,Sci-Fi,-36.83,198,2035
+756,Film education.,NA,3773.19,410,2023
+757,Send deep region.,Romance,1461.66,4,2021
+758,Mean store.,History,31.06,147,2019
+759,Foot laugh work.,Sci-Fi,1629.48,180,2021
+760,Force need total.,NA,2485.94,403,2022
+761,Someone garden professor.,NA,1457.9,-16,2020
+762,May story.,NA,2203.14,419,2035
+763,World feel.,NA,3461.82,43,2019
+764,Work leave.,Fiction,2897.52,397,2022
+765,Series hold approach.,NA,4062.98,67,2022
+766,Think special explain.,Romance,2906.26,271,2020
+767,Evening interesting similar institution.,History,4121.62,101,2021
+768,City method fast.,Romance,3529.19,229,2021
+769,Office after top.,Romance,3119.41,362,2020
+770,Fish can.,NA,483.16,235,2019
+771,Owner hit line.,NA,956.4,80,2035
+772,Military water level.,Romance,2722.47,284,2020
+773,He themselves career.,NA,1268.64,429,2021
+774,Common tough.,NA,4345.35,441,2020
+775,Court person strategy.,Sci-Fi,666.33,8,2022
+776,Spend cell suggest.,Fiction ,4520.23,429,2021
+777,While tend.,NA,3440.96,92,2023
+778,Kind move.,Fiction ,2372.08,385,2035
+779,Bad want myself.,NA,2636.53,473,2019
+780,Brother past.,Fiction,4910.18,116,2021
+781,People interesting.,Sci-Fi,1003.3,396,2021
+782,Tonight west.,History,1098.12,440,2022
+783,No red.,NA,1559.51,-4,2018
+784,Night news.,NA,2483.73,188,2022
+785,Whose person.,NA,2923.82,137,2019
+786,Mind culture real.,History,2056.98,344,2035
+787,Yeah method.,Fiction,1852.78,437,2021
+788,Common cover group attorney.,Sci-Fi,4272.77,262,2021
+789,Production system reflect model.,History,3297.74,299,2022
+790,High ahead money.,Fiction ,3258.76,36,2021
+791,Group song situation.,NA,1445.11,483,2018
+792,Night nation.,Romance,1990.34,295,2022
+793,Cost better lead.,NA,1595.52,199,2035
+794,His training throughout.,Sci-Fi,3537.08,282,2019
+795,Woman bar.,Sci-Fi,187.98,351,2020
+796,Involve simply field hand.,Fiction,19.61,187,2021
+797,Computer factor.,History,1847.51,443,2021
+798,Growth small.,History,586.68,65,2021
+799,Various trouble possible.,Sci-Fi,4700.37,404,2035
+800,Huge thus chair many.,Fiction ,4135.21,420,2021
+801,Republican describe forward.,Sci-Fi,2889.62,310,2035
+802,Fast worry compare.,Fiction,1387.08,243,2023
+803,Beat event.,NA,2481.35,96,2022
+804,Theory free.,Fiction,3871.8,41,2020
+805,Idea test.,Sci-Fi,4924.09,151,2021
+806,Phone cover ability.,History,468.47,448,2018
+807,Education shake time.,NA,4029.5,138,2020
+808,Professor.,Sci-Fi,2907.69,192,2021
+809,Cultural her manager.,Romance,2125.27,297,2019
+810,Push cause mission.,Fiction ,1590.26,52,2019
+811,Give many assume.,Sci-Fi,1313.49,299,2035
+812,Doctor health.,NA,3628.2,142,2021
+813,Almost hard a.,Romance,1398.66,60,2035
+814,Crime oil reason.,Fiction ,15.21,351,2021
+815,Girl project drive.,History,4182.53,300,2023
+816,Plant parent.,History,4081.59,195,2023
+817,Series analysis.,Sci-Fi,2726.37,123,2023
+818,Seat business seem.,Fiction ,907.85,266,2035
+819,Alone most.,NA,2237.8,159,2018
+820,Once occur total.,History,4764.86,417,2023
+821,Reality market a.,Sci-Fi,4169.12,369,2021
+822,Seek put lot.,Sci-Fi,429.88,119,2019
+823,Boy short.,NA,124.42,409,2021
+824,Enjoy continue whose.,NA,4303.49,370,2023
+825,Trial speech represent stage.,NA,2373.87,221,2035
+826,Wide lead education.,Fiction,-95.73,206,2022
+827,Traditional include.,Romance,1928.01,293,2018
+828,Support anything either.,Fiction ,3984.49,251,2020
+829,Read data.,Fiction,2952.99,13,2020
+830,Call age art.,Sci-Fi,2968.55,287,2018
+831,Safe view.,NA,3933.85,490,2021
+832,Amount word perhaps.,NA,4144.74,492,2021
+833,Pretty watch.,Romance,2779.49,495,2021
+834,Color night.,Fiction,3269.32,239,2021
+835,Do benefit election.,History,780.57,416,2019
+836,Machine have.,NA,1334.11,4,2035
+837,State best cup.,NA,1807.48,244,2035
+838,Even man.,Fiction,2646.04,474,2021
+839,Personal home for.,NA,3680.29,415,2022
+840,Expect speech eight heart.,Sci-Fi,1284.56,178,2021
+841,Or teacher.,History,2447.88,452,2022
+842,Up rock support.,Sci-Fi,657.81,204,2018
+843,Value ok state.,NA,3434.66,58,2035
+844,Girl accept reveal.,Fiction,1804.28,253,2018
+845,Fear skill culture morning.,History,2055.54,358,2020
+846,My off.,Fiction ,1481.43,109,2020
+847,Stay own ahead.,Sci-Fi,2994.21,201,2023
+848,Help similar one.,Romance,1878.26,156,2021
+849,None big.,Sci-Fi,1131.77,306,2022
+850,Have floor write.,Romance,3174.78,326,2019
+851,Sister image.,NA,1651.65,403,2021
+852,Reach baby.,History,1480.14,228,2021
+853,Paper young.,History,-48.01,366,2019
+854,So clearly.,Sci-Fi,2592.87,337,2022
+855,Else increase debate.,Fiction ,1181.01,22,2022
+856,Meeting right.,Sci-Fi,4488.49,457,2021
+857,Television cell church.,NA,3805.27,437,2019
+858,Feel purpose role.,NA,3609.74,8,2022
+859,Compare look.,NA,421.14,318,2020
+860,Seem price respond.,NA,1194.96,334,2035
+861,Industry ago next.,Fiction,265.72,54,2021
+862,Them population.,Sci-Fi,1425.19,326,2022
+863,Idea source yeah.,NA,2284.46,-7,2021
+864,Wrong though these quickly.,Fiction ,589.84,137,2018
+865,Point really.,Fiction ,1550.48,164,2021
+866,Drive control important.,Fiction,2943.89,1,2020
+867,Future accept.,NA,897.74,297,2021
+868,Article resource.,NA,490,-9,2021
+869,Approach authority.,NA,4412.94,217,2020
+870,Radio voice.,Sci-Fi,2983.85,155,2021
+871,Author.,Fiction,4462.14,165,2035
+872,Evening employee office.,Romance,4379.76,374,2020
+873,Low occur catch.,Fiction ,4131.13,109,2022
+874,Race measure.,History,1686.58,189,2021
+875,Research behavior item.,NA,4661.64,156,2022
+876,Sure help job.,History,1009.84,-11,2018
+877,Character land brother apply.,NA,4393.71,376,2019
+878,Bank yet tree.,NA,4462.58,399,2019
+879,Throughout chance else.,NA,869.25,38,2019
+880,Process democratic.,Fiction ,905.68,156,2018
+881,Mean start.,NA,4118.93,282,2023
+882,Thank heavy.,Sci-Fi,589.34,348,2022
+883,Response seek.,Romance,3368.54,403,2022
+884,Bed commercial.,Sci-Fi,4135.67,117,2023
+885,Morning sign.,Fiction,1838.52,380,2019
+886,Republican water phone.,Sci-Fi,208.19,291,2035
+887,Outside tough open.,Fiction ,4962.66,85,2023
+888,Against significant skill.,Fiction ,4569.25,206,2019
+889,Run few child.,Fiction ,4640.17,292,2021
+890,Level realize.,Sci-Fi,4932.16,363,2035
+891,Certainly number responsibility.,Sci-Fi,4536.17,300,2021
+892,Person.,NA,912.19,408,2018
+893,Per.,NA,3488.64,230,2035
+894,On consumer military.,Sci-Fi,605.86,269,2035
+895,Sell as try.,NA,3601.46,190,2020
+896,Along skin help.,Sci-Fi,3254.04,274,2021
+897,Full radio change.,Fiction ,3193.26,360,2021
+898,Fear tonight.,Fiction,2062.35,233,2021
+899,Fall.,Romance,1484.97,287,2018
+900,Not around.,NA,2408.38,406,2021
+901,Network part explain.,Sci-Fi,4729.81,376,2020
+902,Attention whole plan.,Fiction ,2844.82,323,2035
+903,Process short size garden.,Fiction,242.38,373,2018
+904,Newspaper hold.,Fiction,3769.05,339,2018
+905,Test piece.,Fiction ,1789.95,484,2019
+906,Too care.,Sci-Fi,3799.53,408,2021
+907,Remain agent.,Sci-Fi,2345.13,24,2021
+908,Nothing everything.,Sci-Fi,730.72,463,2022
+909,Again billion game eat.,NA,1513.08,107,2018
+910,Total research.,NA,30.99,35,2020
+911,Whether wait generation.,Sci-Fi,4913.63,253,2021
+912,The defense expect.,Sci-Fi,631.74,383,2018
+913,Stuff message middle.,Fiction ,1769.95,247,2023
+914,Interesting.,NA,345.28,412,2022
+915,View amount.,History,2535.9,184,2022
+916,Whether another.,NA,3429.93,52,2021
+917,Any environment trade.,Sci-Fi,1142.9,28,2021
+918,Lay whether.,Fiction,31.88,345,2022
+919,Walk.,Sci-Fi,4847.23,200,2021
+920,Make during reduce.,Romance,3446.18,32,2021
+921,Accept.,History,3556.52,435,2018
+922,Under bring.,Fiction,271.18,77,2019
+923,Five activity.,Sci-Fi,4301.32,304,2018
+924,Fear left last.,Fiction,1585.12,370,2021
+925,Computer arm professional.,Fiction ,628.49,192,2022
+926,Race down final.,NA,2150.32,484,2022
+927,Visit occur.,NA,4523.71,12,2018
+928,Brother heavy career.,Fiction,329.96,253,2035
+929,They information pressure.,Romance,4632.28,186,2023
+930,Others know little.,Romance,2018.51,74,2022
+931,Mr short.,Sci-Fi,1688.93,484,2019
+932,Full watch.,NA,942.24,372,2021
+933,Stock story.,Fiction ,3801.99,171,2022
+934,International catch.,History,4871.95,-11,2021
+935,Benefit discover word.,Sci-Fi,4059.15,477,2023
+936,Brother body win.,Romance,473.79,42,2018
+937,Still maybe occur.,Fiction ,4845.61,336,2023
+938,American month.,Sci-Fi,2929.72,122,2022
+939,Everybody never.,NA,983.92,57,2018
+940,Significant from.,NA,802.24,163,2022
+941,Watch son.,History,4312.31,397,2019
+942,Word recently.,Fiction ,880.93,224,2022
+943,Will determine report.,Fiction,4224.51,85,2018
+944,Act hundred.,Romance,17.31,66,2021
+945,Traditional threat pattern blue.,Sci-Fi,2461.79,143,2021
+946,Leave player today.,Sci-Fi,4167.64,-18,2018
+947,Anything light in.,NA,4858.33,341,2020
+948,Development establish speak.,Sci-Fi,1762.72,223,2035
+949,Relate end.,Fiction,4163.47,95,2022
+950,Including subject article.,Romance,1642.35,426,2021
+951,Religious first.,Sci-Fi,1640.45,490,2035
+952,Eye environmental.,NA,4987.47,316,2020
+953,Catch without return.,Fiction ,4808.58,339,2023
+954,Act put.,NA,2408,9,2022
+955,Poor himself.,Sci-Fi,3025.7,177,2023
+956,Page ability every.,Sci-Fi,2610.33,161,2021
+957,Rest TV policy model.,Sci-Fi,929.31,67,2021
+958,Recent reach although.,NA,1428.17,350,2021
+959,Buy address.,Sci-Fi,3778.98,176,2021
+960,Technology.,Fiction,1835.02,9,2023
+961,Price week agree become.,NA,1000.27,184,2020
+962,Would resource course.,Romance,2809.28,-8,2019
+963,Attack face.,Fiction ,752.89,484,2021
+964,Friend may.,Romance,1498.28,108,2022
+965,Appear drug talk.,Sci-Fi,4349.69,71,2019
+966,Push above avoid.,NA,1796.68,70,2019
+967,Recently specific.,Sci-Fi,1393.75,484,2018
+968,Manage main.,Sci-Fi,1557.47,-15,2018
+969,Course set.,Romance,257.43,287,2021
+970,Decade activity in.,NA,4274.27,458,2021
+971,Team again.,Romance,1891.32,149,2019
+972,Treat wide can.,Romance,1865.34,304,2022
+973,Specific free scientist.,Romance,3684.44,195,2021
+974,Window.,NA,4105.01,237,2021
+975,Skill son.,Sci-Fi,4583.22,227,2022
+976,Responsibility product.,Fiction,1434.12,496,2019
+977,Resource enough.,Fiction ,1784.9,243,2035
+978,Remember cut beyond.,Fiction ,1368.01,263,2021
+979,Camera ground seem.,NA,4830.38,87,2021
+980,Store history crime.,Fiction,1260.44,139,2021
+981,Form career half.,Fiction ,3563.49,242,2019
+982,Spend book job.,Fiction,2255.69,-1,2022
+983,Share bad different.,History,4938.3,78,2021
+984,Ago pick.,NA,1835.93,471,2035
+985,Wall Mrs.,Sci-Fi,3644.24,165,2020
+986,Stock fact subject.,NA,3960.74,193,2018
+987,Plan thing.,NA,617.66,296,2023
+988,Some leave current.,Sci-Fi,2210.69,241,2020
+989,Beyond small sign.,Romance,4515.94,80,2035
+990,Kitchen your.,NA,2450.47,495,2022
+991,Son wish never.,Sci-Fi,3769.65,484,2019
+992,Heavy somebody.,Fiction ,4838.99,124,2020
+993,Interest image TV.,History,1145.12,221,2022
+994,Read protect consider.,History,614.67,76,2023
+995,Actually level attorney.,Sci-Fi,1266.5,246,2035
+996,Source believe wife.,Sci-Fi,1043.49,143,2021
+997,Sing pattern decide.,Fiction,1328.39,177,2021
+998,Expert cause to.,Sci-Fi,3722.79,415,2035
+999,Sport difficult unit.,Fiction,3063.1,434,2021
+1000,Another somebody off.,Romance,314.59,62,2020
+1001,Sit side factor.,Sci-Fi,71.65,176,2035
+1002,Reason so purpose such.,History,4119.19,285,2023
+1003,Industry.,Sci-Fi,282.51,251,2020
+1004,International in machine.,Sci-Fi,1251.7,84,2022
+1005,Than authority maybe.,History,1743.62,-2,2019
+1006,Memory resource show.,Romance,525.91,81,2023
+1007,Yes hit.,Fiction,222.47,204,2020
+1008,Try create.,Romance,2699.84,136,2021
+1009,Ask smile.,Fiction,619,176,2019
+1010,Up good bag.,NA,-96.54,230,2020
+1011,Experience leave statement.,Sci-Fi,4220.12,168,2035
+1012,Political to.,NA,1167.62,299,2023
+1013,Cultural else service.,NA,361.49,99,2022
+1014,Story early.,Sci-Fi,3280.88,482,2035
+1015,Why president form.,NA,946.84,109,2021
+1016,Another others party.,Sci-Fi,1874.07,169,2021
+1017,Consumer.,Fiction,647.41,219,2035
+1018,Maintain sit.,NA,454.19,475,2019
+1019,Continue pay western election.,NA,-54.67,369,2019
+1020,Reduce commercial.,NA,4163.36,138,2022
+1021,North worker.,Sci-Fi,3600.33,77,2021
+1022,Travel serious hotel.,History,4496.42,40,2022
+1023,Kid behind technology.,Fiction ,2211.24,226,2018
+1024,Region program including.,History,4670.34,347,2020
+1025,Agency although there.,NA,1900.88,202,2019
+1026,Interesting science.,Fiction ,4733.76,316,2021
+1027,Consider song between.,Romance,2484.59,134,2035
+1028,About stay candidate.,Sci-Fi,577.2,117,2021
+1029,At talk huge.,Fiction ,4820.12,196,2021
+1030,Discussion religious forward.,Sci-Fi,3921.89,350,2035
+1031,Already however improve detail.,NA,363.55,137,2022
+1032,Real easy.,Sci-Fi,4231.11,308,2023
+1033,Majority thank.,Fiction,4730.97,438,2020
+1034,Each far.,NA,3329.24,230,2022
+1035,Give.,Fiction,-46.96,195,2020
+1036,Fall reveal.,History,2443.33,3,2022
+1037,Unit per.,NA,1598.22,424,2021
+1038,Behind quite.,NA,4548.92,67,2021
+1039,Action news but.,Fiction ,2220.45,332,2021
+1040,Democrat.,History,1087.63,95,2021
+1041,Exactly performance.,Sci-Fi,258.32,183,2023
+1042,Marriage prevent indeed.,Romance,2548.99,410,2022
+1043,Paper scientist say.,NA,599.01,290,2021
+1044,Go soon yet.,Sci-Fi,4223.55,323,2035
+1045,Drop board college.,Sci-Fi,2951.55,488,2021
+1046,Early care head.,NA,-62.46,35,2021
+1047,Over present operation.,Fiction ,444.74,158,2022
+1048,Clear election fine.,Fiction,570.64,63,2018
+1049,Will relate.,Sci-Fi,1005.86,391,2021
+1050,Stand less.,Sci-Fi,638.18,120,2021
+1051,Near break say.,NA,3498.45,21,2023
+1052,Space quite.,Fiction,-63.76,370,2020
+1053,Task capital eight.,Fiction,3254.38,70,2020
+1054,Though pretty.,History,646.25,25,2019
+1055,Expect manager family.,Romance,3684.54,486,2021
+1056,Sit dog.,NA,779.81,151,2020
+1057,Between.,Fiction,4848.26,347,2023
+1058,Player way.,Fiction ,4564.25,285,2019
+1059,Allow magazine.,Fiction,4330.03,61,2022
+1060,Product evening.,History,4149.49,500,2022
+1061,Science war.,Sci-Fi,549.32,420,2023
+1062,Carry notice.,NA,4223.49,132,2020
+1063,Memory.,NA,-10.27,483,2022
+1064,Opportunity his recent time.,Sci-Fi,3890.84,221,2019
+1065,Guess much deal.,Fiction,4621.19,121,2019
+1066,Environmental much.,Sci-Fi,134.55,207,2021
+1067,Away north camera understand.,Sci-Fi,4095.61,24,2018
+1068,Attack end.,NA,4110.62,160,2021
+1069,Discover inside several.,NA,3171.98,199,2020
+1070,Ten trip.,Sci-Fi,4026.36,205,2023
+1071,Information couple.,NA,3743.67,331,2019
+1072,Else tough.,Sci-Fi,4679.6,495,2018
+1073,Campaign consider.,Fiction ,1629.27,428,2035
+1074,Opportunity source trial.,Fiction,-23.28,65,2021
+1075,Never TV up inside.,NA,4229.37,182,2020
+1076,Generation than.,Romance,4137.78,52,2021
+1077,Outside owner black.,History,2244.96,-3,2022
+1078,Light free customer accept.,Fiction,2497.45,139,2035
+1079,Sound once always.,History,3408.29,50,2021
+1080,Money staff.,History,3131.99,457,2022
+1081,Left voice such later.,NA,4456.18,70,2021
+1082,World test seek matter.,Sci-Fi,1115.89,254,2018
+1083,Pretty leave world.,Romance,798.36,64,2018
+1084,Cup social.,History,507.9,319,2019
+1085,White west.,NA,64.39,0,2023
+1086,Fight Democrat.,Sci-Fi,632.06,345,2021
+1087,Account listen.,History,-94.93,466,2035
+1088,Audience just lead.,Sci-Fi,2667.85,317,2035
+1089,Determine window natural study.,Romance,1981.54,440,2019
+1090,Hard agency seek.,Fiction,4603.86,323,2018
+1091,Treat Democrat family stop.,NA,4912.45,11,2035
+1092,People fly.,Fiction,2549.61,291,2022
+1093,Large sister production.,NA,2599.12,-13,2019
+1094,Over anything.,Fiction,321.63,50,2018
+1095,Machine ready.,Fiction ,901.31,370,2020
+1096,Senior station.,Fiction ,284.24,275,2021
+1097,Thus serve figure.,Fiction,235.06,492,2019
+1098,Civil.,Sci-Fi,1965.74,421,2021
+1099,Change prevent.,Fiction,560.73,426,2019
+1100,Audience win thank.,Fiction ,1807.8,395,2020
+1101,Without like.,Fiction ,3575.61,343,2018
+1102,Morning somebody.,NA,3817.12,318,2019
+1103,Quite law.,History,1695.17,238,2021
+1104,Paper nothing staff.,Romance,4494.86,18,2021
+1105,Shake several.,Fiction ,2158.68,258,2035
+1106,Available season past.,Sci-Fi,4685.45,464,2022
+1107,Themselves nice their successful.,Romance,2710.58,299,2019
+1108,Democrat everyone pay.,Fiction,3242.56,283,2035
+1109,See quickly anyone boy.,Sci-Fi,1927.27,308,2019
+1110,Along.,Romance,3898.11,308,2021
+1111,Could result.,Sci-Fi,1551.26,370,2018
+1112,Standard.,Sci-Fi,1937.81,66,2021
+1113,Member computer.,Sci-Fi,2644.01,238,2020
+1114,Western safe.,Fiction ,-89.99,446,2021
+1115,Should could.,Fiction,4494.66,271,2018
+1116,Democrat night.,Romance,4023.67,429,2035
+1117,Interest crime around.,NA,2156.58,404,2019
+1118,Reality picture.,Romance,2181.24,233,2021
+1119,Network style man.,Romance,2951.51,101,2020
+1120,Voice offer large.,History,2233.07,-8,2035
+1121,Partner agree edge.,Fiction,3104.28,215,2035
+1122,Owner left approach generation.,Sci-Fi,1160.14,230,2022
+1123,Return dog blue beautiful.,Sci-Fi,2300.96,171,2022
+1124,Process because.,NA,1823.41,283,2021
+1125,Fact off.,NA,383.82,-2,2021
+1126,Wide seek difference.,Romance,146.87,279,2023
+1127,Big special just somebody.,NA,1049.92,272,2020
+1128,Artist enough quickly.,Sci-Fi,1996.78,349,2021
+1129,Student.,Sci-Fi,1532.82,210,2019
+1130,Prevent movie I quickly.,Fiction ,1003.28,390,2035
+1131,Treat response ever.,Sci-Fi,46.96,238,2022
+1132,About.,NA,1801.59,194,2035
+1133,Take address.,Sci-Fi,2548.92,331,2018
+1134,Certain north what.,NA,4162,60,2022
+1135,Performance include brother.,Fiction ,3661.66,178,2035
+1136,Kitchen likely time.,History,4778.53,117,2018
+1137,Good else collection technology.,Sci-Fi,3648.85,382,2018
+1138,She interview father until.,NA,4903.48,6,2035
+1139,Central back.,NA,4690.58,451,2023
+1140,Build middle.,History,2080.29,251,2023
+1141,Enough agreement.,NA,4009.52,485,2019
+1142,Beat claim.,NA,3886.99,234,2023
+1143,Despite.,Romance,4093.68,30,2018
+1144,Add whole.,History,1919.49,61,2023
+1145,Today ever.,NA,3217.93,352,2023
+1146,However network cultural.,Romance,4150.91,442,2018
+1147,Down really first.,Romance,875.84,47,2020
+1148,Major send beautiful.,Sci-Fi,3509.75,20,2035
+1149,Improve road.,Fiction,4773.44,57,2022
+1150,Soldier yourself.,Sci-Fi,2782.01,80,2021
+1151,Nature society stock.,Fiction,513.82,279,2021
+1152,Room look.,Fiction ,2243.08,496,2035
+1153,Bit if.,Sci-Fi,3283.91,243,2035
+1154,Politics include.,History,434.13,122,2021
+1155,Author anything.,Romance,2068.67,68,2019
+1156,Glass if whether.,Sci-Fi,1511.37,201,2022
+1157,Answer finally.,NA,4072.41,271,2035
+1158,Hair book.,Sci-Fi,2084.1,214,2021
+1159,Measure day.,Romance,1772.46,445,2020
+1160,Sense reason Democrat.,Romance,4920.32,2,2018
+1161,Thank stage movement have.,Fiction ,4019.09,487,2021
+1162,Per green body.,Sci-Fi,1553.96,244,2023
+1163,Democrat break.,Romance,3301.55,-13,2023
+1164,Newspaper top explain better.,Romance,4195.09,-10,2021
+1165,North return green.,Sci-Fi,312.53,194,2021
+1166,Least weight south.,Fiction,1036.45,4,2023
+1167,Music other.,Fiction,453.03,35,2023
+1168,Stand store.,Fiction ,443.72,65,2022
+1169,Add follow organization.,Sci-Fi,2604.94,287,2018
+1170,Enjoy best wall establish.,History,426.24,73,2019
+1171,Serious coach.,NA,2928.13,340,2021
+1172,Agree break.,Fiction,681.39,298,2022
+1173,If that wonder.,Sci-Fi,4239.28,50,2035
+1174,Article north one.,Fiction ,2549.8,120,2021
+1175,Listen system law.,Romance,4150.59,112,2022
+1176,Compare ability.,NA,3013.57,365,2021
+1177,Hear almost.,NA,1093.98,-7,2020
+1178,Program PM lead.,NA,4189.45,213,2023
+1179,Financial second.,Sci-Fi,2192.9,492,2020
+1180,Serious.,Fiction ,1527.05,123,2023
+1181,Hot claim.,Romance,4131.11,445,2021
+1182,Start.,NA,2775.71,241,2035
+1183,Your lay.,Sci-Fi,2162.56,361,2021
+1184,Bad mouth.,Fiction ,3836.97,373,2020
+1185,Skill everyone.,Fiction ,1851.33,395,2020
+1186,None system fill.,Romance,1958.81,376,2019
+1187,Leave example up.,Fiction,1194.28,12,2035
+1188,Mission without similar.,Romance,2621.09,432,2035
+1189,Task data official.,NA,3578.08,82,2023
+1190,Suffer senior.,NA,360.8,138,2035
+1191,What natural.,History,2756,13,2023
+1192,Be low word.,Fiction,4391.34,184,2018
+1193,Office wide.,NA,4475.69,136,2020
+1194,When nor study.,Fiction,4991.46,400,2035
+1195,Music focus.,Fiction,3398.89,480,2021
+1196,Maintain talk then.,Sci-Fi,3804.56,111,2018
+1197,Pay whatever.,NA,563.05,462,2022
+1198,Yet sport girl.,Fiction,4002.62,228,2023
+1199,Name visit.,Romance,917.66,137,2035
+1200,Customer determine.,Fiction,3300.72,370,2018
+1201,See close trade.,History,1142.35,478,2019
+1202,Discover source.,Fiction,1367.09,457,2020
+1203,Medical election.,Sci-Fi,1567.53,211,2021
+1204,Idea coach reveal.,NA,4534.61,302,2019
+1205,Him weight successful.,Fiction,3292.16,133,2021
+1206,Daughter together.,Sci-Fi,3970.78,297,2021
+1207,Order bar.,Sci-Fi,3620.69,147,2022
+1208,Peace support federal.,Sci-Fi,3686.08,163,2021
+1209,Away when health.,Sci-Fi,664.36,231,2018
+1210,Need nothing heart.,Fiction ,3452.42,378,2021
+1211,Trial red.,Fiction,694.94,211,2018
+1212,Prove food.,Sci-Fi,2762.38,281,2019
+1213,Actually against this.,History,4735.48,188,2035
+1214,Way hundred sense.,Sci-Fi,4220.62,283,2018
+1215,Film.,NA,-42,124,2019
+1216,Every.,Romance,1204.6,142,2018
+1217,Majority.,Sci-Fi,1954.48,-13,2020
+1218,To voice traditional.,Fiction ,222.88,467,2020
+1219,Pm statement.,Sci-Fi,1253.32,381,2018
+1220,Consumer moment always.,Sci-Fi,3255.41,106,2035
+1221,Final body.,Sci-Fi,3180.92,221,2021
+1222,Fund also.,NA,4778.64,113,2035
+1223,Authority candidate.,Sci-Fi,1790.89,353,2018
+1224,Million.,NA,836.64,103,2021
+1225,Say theory.,Fiction,3317.81,110,2020
+1226,Candidate little.,History,3458.46,34,2022
+1227,Else.,History,1703.76,353,2019
+1228,Fact activity.,Fiction ,885.23,363,2018
+1229,Create region control.,Romance,1916.36,224,2021
+1230,Deep thus home billion.,Sci-Fi,485.93,128,2018
+1231,Team mission way.,Fiction,4594.88,162,2021
+1232,Left politics.,Fiction,3073.2,145,2023
+1233,Over official team.,NA,3160.33,143,2035
+1234,Black recent.,Romance,819.34,163,2022
+1235,Identify suggest.,Sci-Fi,823.93,392,2035
+1236,Action.,Romance,1696.89,308,2035
+1237,Bank market company tax.,Sci-Fi,580.42,276,2020
+1238,Serious sit.,Romance,4048.94,376,2020
+1239,Always century.,Sci-Fi,4796.6,196,2035
+1240,Young state rise.,NA,4883.01,414,2023
+1241,Effect parent yourself.,NA,369.44,80,2018
+1242,City key major.,Fiction,2185.36,390,2021
+1243,Network field.,History,3351.95,269,2020
+1244,On middle.,Fiction ,1456.96,214,2023
+1245,Generation would dinner.,NA,4330.55,151,2018
+1246,Design building every shake.,Fiction,3529.99,246,2021
+1247,Hospital contain popular.,NA,4300.52,168,2022
+1248,Father success.,Fiction,4645.15,298,2022
+1249,Control degree team head.,Fiction ,2336.54,314,2020
+1250,Republican authority program.,History,834.75,363,2020
+1251,Industry seem beat.,NA,3476.54,4,2022
+1252,Who career develop.,NA,2408.05,364,2021
+1253,Site middle.,Romance,3848.68,261,2023
+1254,Responsibility enough nice.,Fiction,4965.74,446,2021
+1255,Stock success plant.,Sci-Fi,3117.71,76,2021
+1256,Something everyone.,Fiction,4089.97,361,2035
+1257,Bring guess.,Fiction,2395.07,330,2035
+1258,All financial reflect lawyer.,Sci-Fi,3426.82,125,2021
+1259,Remain eat.,History,1800.71,155,2018
+1260,Rule our.,Romance,57.14,157,2035
+1261,Blue claim arrive.,NA,1730.78,496,2020
+1262,Tend whose end.,Fiction,3239.66,-12,2021
+1263,For culture stay certain.,Fiction ,4878.13,431,2020
+1264,Make whether consider.,Sci-Fi,2656.31,316,2022
+1265,Wide fear.,Fiction ,1787.24,335,2020
+1266,On note.,Sci-Fi,1009.04,154,2019
+1267,Rather card.,Sci-Fi,601.98,94,2035
+1268,Hard item.,History,373.57,50,2023
+1269,Scene.,Sci-Fi,4715.19,341,2035
+1270,Not building former.,Fiction ,1058.57,13,2021
+1271,Wife believe job less.,Sci-Fi,752.3,145,2021
+1272,Everybody get.,Fiction ,4030.7,397,2018
+1273,Page lay old.,History,2844.45,353,2023
+1274,Central power.,NA,4328.94,27,2021
+1275,Training size.,Fiction ,1018.4,294,2018
+1276,Nothing account few.,Sci-Fi,535.03,293,2019
+1277,Our.,Sci-Fi,66.14,380,2035
+1278,Live purpose.,Fiction,1970.63,76,2021
+1279,Address.,NA,3336.28,281,2019
+1280,Consider listen.,Romance,1740.59,156,2018
+1281,Perform court.,Romance,2836.07,266,2019
+1282,Kid rock conference.,Fiction ,2503.67,279,2022
+1283,Customer impact newspaper.,NA,991.37,327,2035
+1284,Move foreign inside.,NA,3079.89,330,2020
+1285,Reflect car.,Fiction ,3918.37,86,2022
+1286,Blood indicate article.,NA,-93.75,35,2022
+1287,Pattern understand star.,Sci-Fi,1653.63,206,2021
+1288,Race amount conference.,Sci-Fi,3070.07,31,2018
+1289,Remember expert drive.,Fiction ,3812.21,223,2023
+1290,Good realize.,Romance,3859.95,363,2019
+1291,Leg total risk.,History,63.84,304,2022
+1292,Difficult.,Sci-Fi,3177.31,430,2018
+1293,Draw agreement.,Fiction ,669.82,281,2021
+1294,Seek although water.,History,361.02,45,2023
+1295,One.,NA,250.43,211,2023
+1296,Prepare research.,Romance,185.51,231,2022
+1297,Director soon.,NA,4661.54,249,2022
+1298,Purpose seek.,NA,2644.47,431,2019
+1299,Rule stage.,NA,3457.66,434,2020
+1300,Success wind.,Sci-Fi,2591.89,1,2021
+1301,Artist sell.,Romance,32.01,203,2035
+1302,Everything push.,Sci-Fi,843.02,144,2021
+1303,As reason.,NA,3716.74,36,2035
+1304,Money beautiful team.,Fiction,138.03,9,2020
+1305,Least me century out.,NA,2718.46,478,2021
+1306,Small.,Fiction,240.94,47,2019
+1307,Current main degree.,History,3997.03,413,2021
+1308,Truth building book.,History,4649.83,429,2019
+1309,Trouble hope home.,Fiction,674.47,378,2021
+1310,Local direction.,Fiction,2009.23,-10,2019
+1311,Say method choice.,History,349.46,194,2035
+1312,Pull American.,NA,220.81,137,2035
+1313,Fill third.,Sci-Fi,1647.69,-11,2035
+1314,Rate ten.,NA,4456.8,416,2022
+1315,Car all.,NA,4389.04,34,2020
+1316,Draw point local look.,Sci-Fi,3424.03,363,2021
+1317,Nor past brother.,Sci-Fi,2705.96,313,2020
+1318,Usually consumer partner professional.,Fiction ,3808.24,489,2018
+1319,Rock brother.,Sci-Fi,2222.66,398,2020
+1320,Within us.,Sci-Fi,-1.64,13,2019
+1321,Establish early nation.,History,4339.05,437,2021
+1322,Land result.,NA,2673.67,375,2023
+1323,Scene sell situation.,Romance,672.04,422,2018
+1324,Life will.,History,837.69,321,2018
+1325,House these may.,NA,3898,217,2022
+1326,Bed either crime.,History,300.18,8,2023
+1327,Always draw control.,Sci-Fi,3988.79,352,2021
+1328,Crime note meet.,Romance,3872.02,157,2020
+1329,Range other.,Fiction,3716.67,21,2019
+1330,Technology customer.,NA,4928.56,360,2035
+1331,Base pass.,Sci-Fi,3701.78,313,2018
+1332,Low radio along who.,Sci-Fi,1962.12,273,2019
+1333,Policy reduce sell.,Romance,3203.47,42,2018
+1334,Military me miss.,Fiction,1452.66,477,2020
+1335,Particular every party.,NA,1176.12,26,2019
+1336,Little.,Fiction ,3598,460,2021
+1337,Hand nothing.,NA,2190.09,290,2020
+1338,Provide area break sister.,Fiction ,1738.06,115,2035
+1339,Field recent treatment moment.,Fiction ,2326.34,-4,2021
+1340,Sense simple account.,History,1676.22,60,2035
+1341,Together really experience.,Fiction ,2390.97,198,2018
+1342,Call late stay.,Sci-Fi,4957.53,187,2022
+1343,Full food hit.,Sci-Fi,3185.46,20,2021
+1344,Old result.,Fiction,4438.2,362,2019
+1345,Eight evidence week.,History,2643.09,242,2020
+1346,Marriage risk animal.,Sci-Fi,3763.77,276,2035
+1347,Side hundred.,NA,4248.07,69,2023
+1348,Type meeting.,Fiction ,2645.68,342,2021
+1349,Light hand.,Sci-Fi,4478.69,84,2023
+1350,Yeah test.,Romance,3889.26,100,2018
+1351,Western.,Sci-Fi,2656.95,398,2021
+1352,Anything range.,Romance,1697.87,400,2020
+1353,Gun spend line test.,Fiction,2827.46,197,2022
+1354,Production fact.,Fiction ,2266.76,351,2018
+1355,Herself scientist main.,NA,1861.27,213,2023
+1356,Popular evening show share.,NA,1474.41,475,2021
+1357,Organization.,History,1946.26,12,2020
+1358,Practice not.,NA,1808.09,254,2020
+1359,Matter seven upon.,Romance,3512.88,86,2022
+1360,Drive citizen court.,NA,2522.41,366,2021
+1361,Strong business.,Fiction ,4162.86,275,2035
+1362,Measure compare five.,History,4747.56,483,2020
+1363,Themselves put.,Fiction,3200.99,-11,2021
+1364,Hour quality.,Sci-Fi,1711.45,186,2021
+1365,Church still.,Fiction,4345.12,286,2019
+1366,Myself business.,NA,2522.12,297,2021
+1367,Stand cause size rather.,Fiction ,229.68,383,2021
+1368,Investment across.,NA,3825.23,457,2035
+1369,Long administration unit.,NA,1489.94,143,2035
+1370,Energy appear.,Fiction,884.72,54,2035
+1371,Affect growth.,Romance,1035.71,33,2021
+1372,Always enter him.,Sci-Fi,1669.01,288,2019
+1373,Law ok everybody past.,NA,2858.08,179,2020
+1374,Team free poor.,Romance,3240.5,462,2020
+1375,Attorney tree.,Sci-Fi,1411.32,158,2020
+1376,Leg provide seat.,History,1335.41,67,2018
+1377,Customer program.,Romance,1789.77,286,2035
+1378,During.,Fiction,1279.73,306,2023
+1379,Former lot chance.,Fiction,3039.85,54,2035
+1380,Mention law population gas.,Sci-Fi,142.97,395,2021
+1381,Official for put.,NA,4991.53,323,2018
+1382,Wall skin truth maybe.,NA,3368.93,326,2035
+1383,Include someone indicate.,Romance,2937.7,50,2022
+1384,Character drug protect.,Sci-Fi,4390.35,454,2023
+1385,Science.,History,2397.67,463,2023
+1386,Quickly remain hear.,Sci-Fi,1834.77,-12,2035
+1387,Let.,Sci-Fi,4174.57,118,2023
+1388,Participant much within.,NA,4437.47,190,2021
+1389,Theory music.,NA,2782.88,385,2022
+1390,Trouble ball simple.,History,2209.56,9,2019
+1391,Seem federal.,Romance,172,11,2020
+1392,Media defense hear.,Fiction ,2378.31,251,2019
+1393,Success local.,NA,3675.35,-14,2020
+1394,Debate hope.,Fiction ,3762.78,412,2020
+1395,Conference none central.,Sci-Fi,1769.05,106,2020
+1396,Wife hot church.,Sci-Fi,3193.68,177,2022
+1397,Thus data skill ask.,Fiction ,999.44,333,2022
+1398,Knowledge throw.,Romance,1387.68,289,2023
+1399,Country several decide.,Romance,4661.2,288,2023
+1400,Trade project.,Sci-Fi,229.94,454,2021
+1401,Determine better start.,Fiction,3771.3,359,2019
+1402,Key thought guy.,NA,262.54,98,2019
+1403,Theory police product.,NA,234.85,208,2019
+1404,Beat TV seem garden.,Sci-Fi,1180.57,54,2021
+1405,Receive idea animal.,NA,4783.12,148,2021
+1406,Character analysis.,Romance,4409.34,284,2021
+1407,Modern shoulder.,Fiction,4498.11,188,2022
+1408,Usually enough wonder.,Sci-Fi,3292.32,493,2020
+1409,Kid program.,Sci-Fi,2366.5,380,2020
+1410,Us floor level.,Romance,3296.13,238,2019
+1411,Then lawyer body.,NA,2575.62,129,2021
+1412,Technology edge.,Sci-Fi,4468.87,150,2022
+1413,Few growth rather.,NA,4833.1,465,2020
+1414,Education your scene.,Fiction ,1756.46,142,2018
+1415,Assume course offer most.,Romance,3880.86,108,2022
+1416,Him summer college.,Fiction,1462.55,463,2019
+1417,Throw home leave.,Fiction ,1484.57,400,2018
+1418,Idea finish measure.,Fiction,999.89,173,2018
+1419,Enough catch.,Fiction,2727.7,73,2020
+1420,Quite spring but.,Sci-Fi,3655.31,348,2022
+1421,Total.,NA,718.6,414,2020
+1422,Forget call marriage certainly.,Romance,480.48,19,2020
+1423,Quite whether page.,Sci-Fi,4828.93,474,2021
+1424,Brother professional.,History,4681.62,34,2018
+1425,Weight president science.,NA,713.7,340,2023
+1426,Let government pattern.,History,3561.3,318,2018
+1427,Middle.,Romance,2413.42,286,2021
+1428,Could.,Fiction,1985.33,-2,2019
+1429,Live class player.,NA,4765.2,182,2020
+1430,Modern result.,NA,4133.49,259,2019
+1431,Also various hot.,NA,1016.2,122,2021
+1432,Community now seek.,Fiction,3059.14,417,2035
+1433,Election mission civil meet.,Fiction,2709.34,305,2022
+1434,Professor she market.,Sci-Fi,3633.67,31,2018
+1435,Keep guess.,History,238.35,169,2035
+1436,Deal life not.,NA,1662.41,349,2021
+1437,Seat break avoid.,Fiction ,1777.71,432,2018
+1438,Source investment give statement.,Sci-Fi,3319.28,229,2019
+1439,Especially all.,NA,3131.82,251,2018
+1440,Life threat take.,NA,4411.59,79,2018
+1441,Change standard.,Sci-Fi,3301.41,432,2019
+1442,Machine thought.,Sci-Fi,3299.54,250,2021
+1443,Ball raise.,NA,4255.87,71,2018
+1444,New trouble structure.,Fiction ,669.06,332,2021
+1445,Need keep.,NA,3937.91,245,2022
+1446,Pattern member.,NA,4609.96,404,2023
+1447,Than ahead effort.,NA,901.86,108,2019
+1448,Question sell.,Fiction,3594.9,461,2023
+1449,Policy training.,Fiction ,1880.17,378,2019
+1450,Civil area matter.,NA,4208.65,242,2018
+1451,Anything really.,Romance,3877.22,235,2018
+1452,Enter difference.,Sci-Fi,3924.39,266,2035
+1453,After upon sea.,Fiction ,1231.35,350,2035
+1454,Write.,NA,1880.57,225,2019
+1455,Here represent expect.,NA,643.36,39,2022
+1456,Most subject world.,Sci-Fi,3781.7,173,2022
+1457,Work financial rise.,Romance,2432.16,103,2019
+1458,Your artist.,Fiction,1341.11,293,2019
+1459,Apply they.,NA,4816.38,497,2020
+1460,Increase attention.,Fiction ,3722.88,33,2023
+1461,Sit describe.,Sci-Fi,124.92,293,2020
+1462,Mission measure investment.,Romance,2869.93,290,2022
+1463,Address husband hand.,Fiction ,577.46,15,2023
+1464,Morning medical animal threat.,History,3090.2,122,2021
+1465,Per charge success.,Romance,1928.45,417,2021
+1466,Clear especially evidence.,Romance,4015.7,50,2021
+1467,Skin morning.,Sci-Fi,2510.82,238,2018
+1468,Air less.,Sci-Fi,466.01,162,2023
+1469,Control per check.,NA,2277.46,416,2022
+1470,Important none.,Romance,2665.16,368,2035
+1471,Organization here story.,NA,2129.64,-19,2019
+1472,Life face music.,Sci-Fi,3888.87,374,2021
+1473,Continue walk bring.,History,1536.6,393,2019
+1474,Fire machine PM hair.,Fiction ,4955.26,343,2021
+1475,Effort enjoy.,Fiction ,833.13,233,2035
+1476,Blue book.,Sci-Fi,2155.39,-13,2019
+1477,Heavy various identify.,NA,1023.63,335,2023
+1478,Experience him.,Sci-Fi,2772.09,335,2018
+1479,Blood middle none.,Romance,4235.53,381,2020
+1480,Choice case.,NA,417.8,333,2018
+1481,Act key.,Fiction ,219.21,4,2023
+1482,Hour operation until.,Sci-Fi,1436.18,239,2020
+1483,Notice attack story.,NA,846.97,174,2021
+1484,Issue store item shoulder.,Sci-Fi,3211.03,147,2018
+1485,Food notice.,NA,3507.78,92,2022
+1486,Second.,Sci-Fi,4799.45,82,2019
+1487,Create where base.,History,2466.28,153,2035
+1488,Free book manager expert.,Fiction ,2987.36,196,2019
+1489,Save ready.,Fiction,4905.17,468,2022
+1490,Area herself yourself.,Fiction,3493.28,11,2020
+1491,Investment southern under.,NA,4319.64,288,2023
+1492,Situation our suddenly.,NA,258.72,39,2018
+1493,Sense result.,Sci-Fi,4276.65,66,2018
+1494,Recent leave.,Romance,638.49,41,2022
+1495,Plant meet.,Fiction ,898.58,273,2023
+1496,Name.,History,4095.28,350,2021
+1497,Program discussion.,Sci-Fi,3746.92,80,2021
+1498,Mind each.,NA,2882.38,376,2022
+1499,Well parent.,Romance,1241.99,57,2021
+1500,Particular serve big.,NA,4984.99,144,2022
+1501,Hotel interesting time.,Fiction ,3802.8,178,2035
+1502,Fund phone loss.,Romance,4119.3,10,2023
+1503,Sound.,Fiction ,2931.9,271,2018
+1504,Material.,Fiction,3008.82,267,2035
+1505,Wonder my.,NA,1009.49,409,2020
+1506,Should item.,History,361.67,433,2035
+1507,Soldier phone itself.,Fiction ,1449.72,436,2021
+1508,Because some.,Sci-Fi,-64.11,375,2019
+1509,Great whatever.,Sci-Fi,4577.74,161,2023
+1510,Staff would.,NA,4873.74,348,2020
+1511,Its energy say.,Fiction ,3270.38,320,2018
+1512,Face power benefit.,NA,701.72,290,2018
+1513,Since into common.,NA,4328.26,350,2020
+1514,Water rise court.,History,4855.96,417,2023
+1515,Card series.,Sci-Fi,2320.42,23,2019
+1516,Later nation.,Fiction ,3737.64,198,2020
+1517,Growth course cut.,Romance,133.13,290,2022
+1518,Cause this.,NA,-4.03,155,2023
+1519,Whole dark.,Romance,4811.95,409,2021
+1520,Agency vote.,Sci-Fi,254.19,316,2022
+1521,No green speak.,Fiction ,1651.35,6,2022
+1522,Lead show.,NA,4537.54,344,2035
+1523,Dream on within.,History,815.3,281,2023
+1524,On whole mean.,History,4377.45,195,2020
+1525,Until deep phone.,NA,560.04,233,2022
+1526,Official.,Sci-Fi,337.17,439,2021
+1527,Read apply.,NA,1095.93,-11,2021
+1528,Action call.,Romance,1831.06,7,2023
+1529,Best out.,Fiction ,1113.39,249,2022
+1530,Book city message.,Fiction,4887.43,124,2035
+1531,Decision.,Sci-Fi,2121.73,454,2022
+1532,Mother mouth both.,Fiction,3317.21,384,2021
+1533,Maintain.,History,4944.02,53,2020
+1534,Now sign.,History,2768.31,333,2019
+1535,Finish peace office.,Romance,4645.49,80,2018
+1536,Outside which.,Fiction ,1434.7,201,2021
+1537,Computer authority manager.,Sci-Fi,645.67,82,2021
+1538,Week blood.,Sci-Fi,4286.16,234,2019
+1539,Later human.,Romance,2114.69,154,2021
+1540,Pull.,History,3568.14,334,2035
+1541,Just recently unit vote.,Sci-Fi,4723.82,165,2035
+1542,Relate stage.,Fiction ,863.05,181,2019
+1543,Various enjoy loss.,NA,872.63,111,2018
+1544,Development matter market care.,Sci-Fi,592.67,396,2023
+1545,Cut if.,Fiction ,4720.5,116,2021
+1546,Heavy direction yard.,Fiction ,3224.23,185,2023
+1547,Also as member.,NA,4996.14,262,2023
+1548,Whom relationship.,Romance,1373.73,490,2035
+1549,Course explain.,Sci-Fi,2050.02,45,2020
+1550,Participant receive so.,Fiction ,2692.91,409,2023
+1551,Good decade.,NA,3839.67,71,2021
+1552,Almost window.,Fiction,2079.92,369,2021
+1553,State politics.,NA,405.13,8,2021
+1554,Mission even share west.,History,2012.89,305,2022
+1555,Continue city party.,Fiction,3203.4,222,2023
+1556,Fact such fast.,NA,834.55,257,2018
+1557,Rise chair.,NA,1621.71,143,2035
+1558,Style indicate house.,NA,1505.73,3,2023
+1559,Up anyone.,NA,3484.78,475,2023
+1560,Throughout fall.,NA,4837.92,483,2020
+1561,Resource five responsibility.,NA,2766.69,109,2021
+1562,Maybe wonder.,History,4242.76,457,2018
+1563,Mean population.,Romance,2814.71,293,2022
+1564,Director east address.,NA,3659.71,203,2018
+1565,Focus especially project.,History,-4.46,215,2021
+1566,Actually visit development.,History,4864.16,112,2022
+1567,Point realize.,Fiction,4707.48,486,2018
+1568,Understand talk rule.,NA,1437.89,277,2019
+1569,Near not employee.,NA,837.5,300,2020
+1570,Develop another husband eat.,History,2040.89,335,2020
+1571,Share begin until.,History,948.56,167,2035
+1572,Government.,Fiction ,3076.11,166,2018
+1573,Compare their who.,Fiction ,2233.43,160,2018
+1574,Ever mean.,Fiction,1406.85,376,2019
+1575,Available go.,Fiction ,1274.16,209,2018
+1576,Everybody service.,Fiction,1591.34,247,2022
+1577,Ball suddenly.,Sci-Fi,4925.49,318,2019
+1578,Race way prepare.,Sci-Fi,3324.18,358,2021
+1579,Someone wide.,History,4772.05,436,2019
+1580,Budget hundred be.,History,302.45,451,2021
+1581,Billion can.,NA,4296.22,218,2023
+1582,Popular national.,History,283.82,464,2018
+1583,Discuss push argue.,Sci-Fi,2701.01,37,2021
+1584,Through develop represent.,Sci-Fi,1485.91,218,2021
+1585,Ok.,Sci-Fi,481.57,58,2023
+1586,Throw husband.,Fiction ,2151.85,152,2035
+1587,Low score mother.,Sci-Fi,3069.66,124,2021
+1588,Trade.,Fiction,1573.21,133,2020
+1589,American medical federal.,History,4631.27,132,2021
+1590,Task threat impact.,Fiction ,337.12,119,2021
+1591,Best quite.,Sci-Fi,1463.03,205,2023
+1592,Stay activity.,History,2936.89,102,2020
+1593,Again tough in measure.,Sci-Fi,3368.11,392,2018
+1594,Article none none.,Sci-Fi,809.16,262,2022
+1595,Term provide sure site.,NA,1440.4,-20,2023
+1596,Husband seven.,Sci-Fi,3870.09,99,2020
+1597,Third behind we approach.,History,2772.02,334,2023
+1598,Someone site.,Fiction ,947.41,471,2020
+1599,Site.,NA,3101.61,378,2022
+1600,Far son usually.,History,4217.27,276,2018
+1601,Cup seven message.,Romance,2009.44,179,2018
+1602,American chair say small.,Sci-Fi,713.77,135,2022
+1603,Authority anything interview.,History,4970.85,162,2021
+1604,Model.,History,1891.81,324,2018
+1605,Season however become.,Romance,4335.59,151,2021
+1606,Assume Mr treat.,Romance,2493.01,120,2021
+1607,East.,NA,4947.45,301,2022
+1608,Hand Mr guess.,Romance,4507.69,486,2019
+1609,Lose evidence.,NA,2762.59,499,2022
+1610,Necessary father.,Sci-Fi,970.59,425,2020
+1611,State similar peace.,Fiction,4861.42,62,2035
+1612,Share.,Fiction,2511.02,81,2023
+1613,Affect energy ready probably.,NA,867,311,2020
+1614,Building show.,Sci-Fi,100.95,74,2018
+1615,Hour safe source.,Sci-Fi,3817.64,188,2020
+1616,Painting.,NA,2179.58,105,2021
+1617,Sure.,Romance,4423.06,-5,2018
+1618,Evening green computer.,History,2704.94,490,2019
+1619,History bad.,Sci-Fi,2777.78,95,2018
+1620,Number.,NA,1377.41,97,2021
+1621,Wish.,NA,3115.22,334,2035
+1622,Into behind.,Sci-Fi,144.52,82,2020
+1623,Under American west.,NA,1904.85,321,2021
+1624,Special create.,Sci-Fi,4543.81,481,2022
+1625,Like catch measure.,NA,2384.94,451,2019
+1626,Though political agree.,NA,4367.65,477,2022
+1627,Kind blue.,Sci-Fi,2146.09,197,2020
+1628,Read but wish.,Sci-Fi,2828.19,254,2021
+1629,Deal gas how.,Fiction ,1815.76,162,2018
+1630,Big part page.,Sci-Fi,1218.11,277,2018
+1631,Half environmental.,Fiction,3068.21,326,2022
+1632,Station local whatever high.,Romance,3570.79,496,2023
+1633,System clear.,NA,2813.92,186,2019
+1634,Face.,Romance,2206.66,451,2022
+1635,Charge agent work figure.,Fiction ,3550.64,429,2022
+1636,Threat news ten.,Fiction ,3439.57,148,2035
+1637,This partner.,Fiction,4575.65,-9,2021
+1638,Top strong vote.,Fiction,3235.07,-9,2021
+1639,Force us and.,NA,42.46,320,2022
+1640,Green wish.,Fiction,4441.12,194,2022
+1641,Right.,Sci-Fi,1791.3,77,2035
+1642,Because where reach.,NA,4545.9,-5,2018
+1643,View lawyer.,Fiction,4063.94,110,2020
+1644,Drug central.,Fiction,291.64,297,2021
+1645,Soldier away.,NA,4949.64,319,2022
+1646,High our.,Fiction ,4806.59,103,2022
+1647,Garden main.,NA,957.01,283,2021
+1648,West out occur.,Fiction ,4946.88,75,2035
+1649,Green.,Sci-Fi,4926.19,498,2020
+1650,Response product high.,NA,95.19,302,2021
+1651,Certainly firm seat.,Fiction,4536.63,456,2019
+1652,Plant last risk.,Sci-Fi,1585.02,287,2021
+1653,Cell stand.,Sci-Fi,2647.91,232,2021
+1654,Way break.,Sci-Fi,3631.52,307,2022
+1655,Tough short.,NA,4443.58,37,2018
+1656,These power.,Romance,1172.81,60,2020
+1657,Everyone fight.,Sci-Fi,4231.55,449,2035
+1658,Throw interest.,Sci-Fi,3812.32,44,2019
+1659,Rich husband.,NA,4468.87,230,2020
+1660,Drive full.,History,4009.62,10,2023
+1661,Else give move.,Romance,4260.04,40,2021
+1662,Without begin student.,NA,1862.18,317,2035
+1663,Popular movie.,Romance,984.48,273,2022
+1664,My interesting degree.,NA,969.24,75,2023
+1665,Glass free professor.,Sci-Fi,2453.21,382,2021
+1666,Writer because.,NA,430.59,333,2035
+1667,Fire draw.,Romance,-46.3,148,2021
+1668,Focus computer federal.,History,4226.63,137,2022
+1669,Fine sell power capital.,Sci-Fi,123.09,477,2022
+1670,Total population scientist.,Fiction ,474.41,5,2018
+1671,According general.,Sci-Fi,1831.26,354,2022
+1672,Despite center entire.,Fiction,229.5,402,2021
+1673,Player head.,Fiction,192.04,157,2019
+1674,Building authority pull.,Sci-Fi,1660.95,279,2019
+1675,Opportunity reason.,Romance,4567.21,467,2022
+1676,Author big arm.,Sci-Fi,4543.59,150,2022
+1677,Foreign medical.,Fiction ,1940.14,350,2021
+1678,Believe yard.,Fiction,1799.23,254,2020
+1679,Although whether.,Sci-Fi,182.64,69,2022
+1680,Turn too.,NA,3702.67,-12,2023
+1681,Join raise.,Fiction ,721.19,5,2022
+1682,Actually visit Mr.,Fiction ,3657.02,369,2021
+1683,Wrong discuss.,Romance,3569.79,126,2020
+1684,Staff but represent.,Sci-Fi,615.08,276,2020
+1685,School even.,Romance,704.93,301,2021
+1686,Stop wonder crime.,Fiction,4576.54,360,2020
+1687,Magazine part.,NA,1875.81,334,2021
+1688,Key no.,Sci-Fi,343.59,394,2035
+1689,Gas couple.,Romance,1884.19,439,2019
+1690,Contain certainly physical.,Sci-Fi,4789.03,8,2018
+1691,Group likely.,NA,4773.46,423,2035
+1692,Stage.,Sci-Fi,3491.59,6,2018
+1693,Sport executive.,Romance,4836.24,20,2023
+1694,Fine fine receive.,Romance,1725.13,342,2022
+1695,Manager continue term.,Fiction ,1679.9,450,2018
+1696,Owner.,Romance,2959.24,123,2018
+1697,Level too might.,History,177.66,467,2018
+1698,Thought behind.,Romance,1619.44,303,2020
+1699,Interest.,Sci-Fi,4115.14,266,2020
+1700,Follow his.,History,818.8,488,2021
+1701,Across it music.,Fiction ,3648.14,1,2019
+1702,Reality per animal.,Fiction,997.41,93,2019
+1703,Garden cost speech.,Fiction,3817.24,472,2022
+1704,Officer.,NA,2256.15,255,2021
+1705,Glass network.,History,2456.96,301,2021
+1706,Sing animal.,Romance,1142.56,195,2020
+1707,Detail color role.,Romance,2427.69,329,2022
+1708,Language those.,History,1590.04,200,2023
+1709,Drop rather.,Fiction,164.16,499,2021
+1710,Girl yes.,Sci-Fi,943.24,197,2023
+1711,Poor network no.,Fiction ,129.2,117,2020
+1712,Situation manage go mind.,NA,3039.05,332,2022
+1713,Identify live.,History,2392.23,-16,2035
+1714,Me physical letter.,Fiction,4543.57,143,2035
+1715,Majority pretty brother blood.,Sci-Fi,661.85,403,2021
+1716,Can still defense.,NA,600.89,250,2021
+1717,This light method rich.,Sci-Fi,1179.19,307,2021
+1718,Charge education he.,History,2246.74,45,2020
+1719,Executive mission.,Romance,4311.52,52,2022
+1720,And pull somebody.,Sci-Fi,4170.44,200,2035
+1721,Maybe ground relate.,Sci-Fi,2499.04,500,2035
+1722,Question would your.,NA,2791.78,-19,2023
+1723,Issue standard require detail.,Sci-Fi,740.41,403,2021
+1724,Everything world right season.,Fiction ,4125.28,64,2021
+1725,Impact onto rest.,Romance,3042.5,500,2023
+1726,Member plan.,History,3689.4,296,2035
+1727,Laugh truth heavy.,Sci-Fi,3666.22,178,2021
+1728,Account woman society.,Sci-Fi,4935.76,487,2021
+1729,Area.,Fiction ,4320.68,371,2021
+1730,Film fly.,Fiction ,1500.71,111,2021
+1731,On language.,Romance,1621.16,438,2023
+1732,Half approach.,History,-23.74,134,2018
+1733,Before by second.,History,2866.82,421,2020
+1734,Girl charge several international.,Sci-Fi,47.82,379,2021
+1735,Success kid.,NA,2517.13,394,2022
+1736,Decade age.,Romance,1506.26,39,2022
+1737,Upon create start.,NA,3011.35,364,2021
+1738,Inside ground try.,NA,3894.51,149,2023
+1739,Election about.,Fiction ,574.37,421,2035
+1740,Control voice.,History,4585.31,234,2019
+1741,Its life.,Fiction,790.49,151,2035
+1742,Information property.,NA,1086.26,356,2035
+1743,Seat management address.,History,3972.23,36,2021
+1744,Seven soon score.,Sci-Fi,352.25,353,2035
+1745,Only.,Fiction ,-29.89,141,2018
+1746,Physical couple best.,Sci-Fi,-65.08,89,2018
+1747,Return heart decision.,History,667.69,316,2018
+1748,Could such room.,Romance,3734.01,22,2021
+1749,Conference little me.,Fiction ,4150.56,343,2019
+1750,About federal explain.,Fiction ,2302.14,387,2018
+1751,Measure study.,NA,3400.96,222,2021
+1752,Today become office.,NA,3974.84,328,2035
+1753,Range fear foreign.,Romance,3902.07,215,2019
+1754,Gun institution.,NA,3699.22,155,2021
+1755,Six society most.,NA,4443.85,136,2035
+1756,Instead leg.,Sci-Fi,742.62,273,2021
+1757,Now beyond most.,NA,3117.17,500,2020
+1758,Long production.,NA,4653.14,491,2022
+1759,Although whatever.,History,4319.68,406,2023
+1760,West big.,Fiction,864.72,351,2018
+1761,Year among grow.,Fiction,2895.32,204,2020
+1762,Fund popular.,Sci-Fi,4549.79,24,2020
+1763,Almost per.,NA,1490.16,360,2021
+1764,Painting point firm work.,History,4273.74,315,2021
+1765,Call successful.,Fiction,46.32,450,2035
+1766,Keep property.,Romance,4921.78,207,2022
+1767,Whether real.,Sci-Fi,4200.78,119,2022
+1768,Government growth.,NA,3526.37,233,2023
+1769,Sign hand letter.,Fiction,134.06,451,2022
+1770,Need religious.,NA,2874.21,96,2022
+1771,Region reach network.,Fiction,2204.48,244,2023
+1772,Brother adult.,Romance,4493.69,460,2023
+1773,Himself build.,Sci-Fi,1069.1,83,2022
+1774,Dream to.,History,634.86,422,2035
+1775,Yard else.,NA,3624.53,230,2022
+1776,Present throw institution interest.,History,1473.2,88,2021
+1777,Yeah cut.,NA,4836.82,422,2022
+1778,Move cold how.,History,2313,90,2022
+1779,Light.,Sci-Fi,291.56,180,2018
+1780,Price easy anything.,Romance,2372.22,119,2022
+1781,Yourself newspaper young.,Sci-Fi,4520.02,382,2020
+1782,Two lay like.,Sci-Fi,1340.01,-12,2023
+1783,Listen those group.,Sci-Fi,2603.12,217,2019
+1784,Push career small our.,Fiction ,1781,407,2019
+1785,Impact contain.,History,4511.19,122,2021
+1786,Couple series.,History,4507.31,20,2018
+1787,Receive child.,NA,3461.33,-18,2021
+1788,Her executive message.,History,2537.44,425,2019
+1789,Left information.,Sci-Fi,2821.82,191,2021
+1790,Position state.,Sci-Fi,430.13,296,2020
+1791,Daughter.,History,121.99,295,2023
+1792,Drug government.,NA,3274.33,319,2021
+1793,Everyone make.,Fiction ,1070.12,402,2019
+1794,Would wall.,Sci-Fi,4668.79,92,2023
+1795,May identify early.,Fiction,1040.97,329,2018
+1796,Fine agent majority.,History,81.49,385,2023
+1797,Sit step effect.,NA,2312.62,145,2018
+1798,Old.,Romance,2925.8,366,2035
+1799,Identify stop.,Sci-Fi,4914.71,163,2022
+1800,Find save course.,Sci-Fi,1716.57,101,2021
+1801,Painting meeting.,Sci-Fi,722.44,411,2020
+1802,Nature cold.,Fiction,-38.05,181,2023
+1803,Wait executive.,Romance,3879.41,444,2020
+1804,Full ago.,Romance,1808.85,408,2021
+1805,Personal product consumer.,Romance,639.71,12,2020
+1806,Rise bed.,Sci-Fi,4219.61,499,2020
+1807,My government set.,Fiction ,1272.46,383,2019
+1808,Various course live.,History,307.52,225,2018
+1809,Clearly home attention.,Fiction ,4783.76,407,2018
+1810,Away social.,Sci-Fi,86.2,374,2035
+1811,Away age.,Fiction,916.37,39,2021
+1812,Remember.,NA,4668.84,430,2022
+1813,Still dark.,History,392.32,-7,2021
+1814,Message travel.,History,2667.02,123,2023
+1815,Material wall.,Fiction,3358.82,317,2022
+1816,Then west.,Romance,1502.22,325,2018
+1817,Involve spend turn.,Fiction,2683.9,61,2021
+1818,Hope much.,Romance,3127.6,-20,2022
+1819,Site lose good.,Romance,1103,31,2035
+1820,Information always when.,Fiction ,3070.03,127,2019
+1821,Move sound.,Romance,4407.87,406,2022
+1822,Report order.,Fiction,1254.28,206,2021
+1823,Personal trial type.,Fiction,1302.97,375,2020
+1824,Senior natural might threat.,History,4281.81,245,2021
+1825,Everybody course right.,Romance,1485.14,432,2021
+1826,According word fact.,Sci-Fi,2649.67,222,2021
+1827,Upon smile road.,History,4035.44,12,2022
+1828,Writer surface.,Sci-Fi,2554.05,229,2023
+1829,Cold newspaper force campaign.,Sci-Fi,3874.74,272,2021
+1830,Executive.,Fiction,4946.64,157,2023
+1831,Maintain have adult.,History,4371.19,192,2022
+1832,Since air.,Fiction,3325.09,290,2019
+1833,Rule at do.,Sci-Fi,3039.01,500,2022
+1834,Eat defense.,Sci-Fi,1962.88,57,2021
+1835,To.,Fiction ,-65.67,476,2021
+1836,A remember.,NA,3367.78,243,2019
+1837,Community political later.,Sci-Fi,1003.73,256,2023
+1838,Story collection fact.,Sci-Fi,4285.48,191,2035
+1839,Arm institution reality.,NA,1886.56,109,2022
+1840,Wind glass number.,History,4383.93,2,2021
+1841,Left my.,Fiction ,4281.86,178,2019
+1842,Picture ground.,Fiction,2119.36,98,2018
+1843,Perform couple feel.,History,1094.84,245,2019
+1844,Care plant leader.,NA,3761.49,152,2022
+1845,First if.,History,559.86,-12,2021
+1846,Year necessary scientist government.,NA,1598.22,294,2021
+1847,Card collection.,Sci-Fi,2302.92,333,2018
+1848,Girl production.,Sci-Fi,542.84,281,2022
+1849,Full.,Romance,1641.24,321,2023
+1850,Suggest hit.,Romance,492.85,255,2019
+1851,Just above build.,Sci-Fi,3160.34,105,2020
+1852,Method impact employee.,Romance,143.91,285,2020
+1853,They.,Sci-Fi,4209.32,169,2023
+1854,Seem order leg.,Romance,4969.13,321,2018
+1855,Even worry.,History,2155.62,88,2022
+1856,Almost everyone.,Sci-Fi,2447.06,325,2021
+1857,Rock major turn.,History,3172.5,161,2018
+1858,He thing toward.,Fiction ,3125.69,442,2021
+1859,Eight write.,Romance,602.6,169,2023
+1860,Growth of.,History,3016.07,227,2022
+1861,Board.,Sci-Fi,2070.21,98,2022
+1862,Local talk.,NA,4186.12,439,2021
+1863,Magazine.,NA,4028.63,123,2023
+1864,Mean special face.,Romance,431.75,172,2019
+1865,Style decide.,Sci-Fi,2793.88,-20,2023
+1866,Light picture.,NA,3878.92,252,2021
+1867,Suddenly appear.,History,778.86,31,2018
+1868,Place discussion.,NA,1805.15,354,2022
+1869,Smile property.,Sci-Fi,3391.78,237,2023
+1870,Must western.,History,4779.22,367,2023
+1871,Price study take.,Sci-Fi,856.63,242,2020
+1872,Student around social health.,Sci-Fi,2809.36,248,2020
+1873,Indicate customer.,Sci-Fi,4826.85,267,2035
+1874,Here memory my.,Sci-Fi,1621.47,68,2023
+1875,Story such ready.,NA,1589.88,436,2035
+1876,Rest executive TV.,Fiction ,3562.34,251,2023
+1877,Anyone subject eight authority.,Romance,4102.11,234,2019
+1878,Simple quite.,Romance,406.46,130,2020
+1879,Worker my as.,NA,2421.3,468,2018
+1880,May art eat.,NA,3069.41,281,2021
+1881,Catch begin.,Romance,220.49,348,2020
+1882,Foot general our.,NA,3462.18,65,2022
+1883,Fill among remain.,Romance,3836.55,395,2035
+1884,Bed response sister.,Sci-Fi,72.23,82,2021
+1885,Various current happy data.,Fiction,1282.04,324,2019
+1886,Relationship.,Romance,938.59,62,2021
+1887,Around myself across both.,History,2572.55,-3,2022
+1888,Significant very center fear.,Romance,2593.69,11,2035
+1889,Design Mrs our.,Sci-Fi,4010.1,95,2018
+1890,Glass edge.,NA,3989.14,35,2022
+1891,Newspaper.,NA,921.09,436,2023
+1892,Truth major.,NA,1557.43,217,2035
+1893,Per moment entire.,Fiction,3730.67,48,2035
+1894,This rate see.,Sci-Fi,431.87,55,2019
+1895,Seven guy father.,Romance,3339.99,41,2021
+1896,Ever carry.,NA,2457.53,478,2020
+1897,Education simply.,Fiction ,146.19,274,2035
+1898,Fear challenge include significant.,Romance,1666.32,137,2035
+1899,Box parent give.,History,3274.46,320,2022
+1900,Each south class.,NA,3803.69,498,2022
+1901,Everything today.,NA,1648.35,-12,2020
+1902,During pull.,History,3405.39,90,2023
+1903,Note capital their.,Sci-Fi,1723.73,94,2023
+1904,Debate any all.,Fiction,1514.58,281,2035
+1905,International high.,NA,1274.74,280,2020
+1906,Difficult station.,NA,3974.95,179,2023
+1907,Win painting sit.,Sci-Fi,1464.06,191,2022
+1908,Heart week.,Fiction,262.75,341,2020
+1909,Be national especially.,Romance,2120.7,341,2035
+1910,Available PM.,NA,554.58,243,2019
+1911,Turn staff authority.,NA,1584.72,333,2021
+1912,Hard.,Sci-Fi,3800.17,426,2021
+1913,Leg learn.,Romance,1210.71,216,2023
+1914,Many consider.,Fiction ,2498.31,163,2035
+1915,Role use wear.,NA,4943.15,455,2023
+1916,Consumer western nearly.,Sci-Fi,4762.99,374,2020
+1917,Letter concern project.,History,3154.13,135,2021
+1918,Pretty style.,Sci-Fi,2647.66,223,2021
+1919,Mother ahead.,Romance,768.33,484,2022
+1920,Nearly situation must.,NA,2360.11,195,2023
+1921,Practice question.,NA,4664.09,208,2020
+1922,Stop research should.,Romance,4382.61,350,2018
+1923,Lay pass quickly.,Fiction,1565.74,359,2020
+1924,Throw old.,History,4652.27,403,2021
+1925,Hear or stock century.,Fiction,3446.71,170,2022
+1926,Challenge.,Fiction,3892.49,204,2019
+1927,Word do.,Sci-Fi,3084.14,229,2018
+1928,Push safe result.,Romance,1140.41,364,2019
+1929,High network difference edge.,Fiction,2236.34,494,2021
+1930,Herself tough.,Sci-Fi,4913.39,157,2019
+1931,Ready only.,Sci-Fi,4339.96,123,2021
+1932,Write level executive.,NA,2369.16,133,2020
+1933,Power area game.,Romance,2169.2,390,2022
+1934,Attention worry newspaper.,NA,3129.47,241,2018
+1935,Kid reason stock.,Romance,4502.43,81,2035
+1936,Assume story.,Sci-Fi,959.19,63,2021
+1937,Or hour.,Sci-Fi,1285.98,238,2020
+1938,Name your.,NA,206.64,378,2035
+1939,Expert stand.,Fiction ,596.22,118,2022
+1940,Catch act.,Fiction,1179.58,197,2023
+1941,Large appear.,NA,3562.24,463,2021
+1942,Agent decision under.,Sci-Fi,1737.49,442,2019
+1943,Form who.,History,2227.28,-1,2021
+1944,Book group.,Fiction,4368.42,121,2035
+1945,Around throughout use.,NA,3920.48,255,2021
+1946,Girl sound nice.,NA,3756.59,424,2021
+1947,Enjoy side it.,History,779.6,82,2018
+1948,Account analysis.,Romance,1193.89,298,2021
+1949,Onto agent religious.,Fiction,3443.4,44,2023
+1950,Bit set according.,Sci-Fi,2708.39,480,2023
+1951,Chance cut movement.,Fiction,1319.22,32,2020
+1952,Bar nature.,Sci-Fi,450.86,462,2035
+1953,Anything although pick.,NA,-91.55,113,2023
+1954,International pay.,NA,4816.1,196,2023
+1955,Else factor myself change.,Fiction ,649.56,272,2022
+1956,What season.,History,3934.47,130,2022
+1957,Most strategy.,Fiction ,2231.78,93,2021
+1958,Area whose cultural.,Sci-Fi,868.81,289,2023
+1959,Station little more.,Sci-Fi,34.1,378,2035
+1960,Attorney our yet.,Fiction,2791.7,279,2022
+1961,Staff who nation view.,NA,4729.04,339,2018
+1962,Boy eye Mr dinner.,Sci-Fi,2294.69,343,2019
+1963,Clear beat.,Fiction ,2393.6,62,2021
+1964,Street guess.,Romance,2568.25,496,2020
+1965,Event state.,NA,4527.19,122,2023
+1966,Test miss lawyer.,NA,770.52,271,2021
+1967,Less four.,NA,953.8,430,2021
+1968,Million similar fish.,Sci-Fi,3361.96,275,2021
+1969,Shake watch.,Romance,2991.14,326,2019
+1970,Few respond.,History,3784.69,127,2020
+1971,Former her.,Romance,3523.95,322,2022
+1972,Outside above.,Sci-Fi,3386.97,246,2020
+1973,Public.,History,3652.24,49,2020
+1974,More test.,Fiction ,3575.69,171,2022
+1975,Throw television itself.,Sci-Fi,728.6,168,2035
+1976,Machine wall.,History,4041.75,205,2035
+1977,Party.,Sci-Fi,2531.7,-4,2019
+1978,Both feeling.,History,3008.04,403,2035
+1979,Fine for without.,NA,1556.02,451,2020
+1980,Ready road.,History,1912.39,258,2021
+1981,Product wonder.,History,4540.93,354,2021
+1982,Parent I go.,Romance,1696.91,129,2023
+1983,Collection should property.,NA,1564.4,86,2020
+1984,Cause official our.,Fiction ,136.48,23,2021
+1985,Pretty watch.,Sci-Fi,4973.05,301,2021
+1986,Thousand anything.,History,-34.17,42,2020
+1987,City require none.,NA,2122.49,464,2035
+1988,Reflect alone.,Fiction,190.23,131,2022
+1989,Which however area.,Sci-Fi,2597.88,-20,2018
+1990,Blue bad.,NA,4941.98,-1,2022
+1991,Arm century bad anything.,NA,1991.25,246,2019
+1992,Soon minute.,Sci-Fi,4551.48,278,2021
+1993,Capital example.,Romance,1112.88,228,2023
+1994,Business generation above.,NA,460.67,273,2035
+1995,Again.,NA,460.14,231,2019
+1996,Material shake little.,History,2575.31,451,2021
+1997,Traditional war would speak.,Fiction ,4358.87,481,2023
+1998,Guess try technology concern.,Sci-Fi,1279.43,474,2020
+1999,Management magazine how.,Sci-Fi,1409.83,183,2021
+2000,Action speech campaign.,NA,857.38,267,2022
+2001,Emily Davis,Sci-Fi,4938.16,268,2018
+2002,Theodore Dinh,NA,4278.52,269,2020
+2003,Luna Sanders,Fiction ,3999.13,270,2023
+2004,Penelope Jordan,History,3634.28,271,2022
+2005,Austin Vo,Romance,2422.25,272,2020
+2006,Joshua Gupta,History,2931.08,273,2018
+2007,Ruby Barnes,Romance,4475.53,274,2018
+2008,Luke Martin,Sci-Fi,1650.78,275,2022
+2009,Easton Bailey,Fiction ,3402.02,276,2022
+2010,Madeline Walker,Romance,1732.16,277,2020
+2011,Savannah Ali,Fiction ,230.61,278,2019
+2012,Camila Rogers,NA,474.34,279,2021
+2013,Eli Jones,Fiction ,3349,280,2021
+2014,Everleigh Ng,Sci-Fi,1280.56,281,2023
+2015,Robert Yang,Romance,3669.55,282,2021
+2016,Isabella Xi,Fiction ,2884.85,283,2021
+2017,Bella Powell,History,550.96,284,2021
+2018,Camila Silva,NA,1900.8,285,2023
+2019,David Barnes,Sci-Fi,820.65,286,2020
+2020,Adam Dang,Romance,1131.41,287,2021
+2021,Elias Alvarado,Fiction,4691.05,288,2021
+2022,Eva Rivera,Romance,4524.53,289,2019
+2023,Logan Rivera,Romance,4704.13,290,2021
+2024,Leonardo Dixon,Sci-Fi,4158.9,291,2020
+2025,Mateo Her,Fiction,4934.21,292,2020
+2026,Jose Henderson,History,2019.02,293,2023
+2027,Abigail Mejia,Romance,4288.05,294,2023
+2028,Wyatt Chin,NA,333.61,295,2020
+2029,Carson Lu,History,3100.1,296,2021
+2030,Dylan Choi,Fiction,1620.29,297,2023
+2031,Ezekiel Kumar,Fiction,840.69,298,2021
+2032,Dominic Guzman,NA,41.01,299,2022
+2033,Angel Powell,History,4219.34,300,2021
+2034,Mateo Vu,Romance,4833.74,301,2021
+2035,Caroline Jenkins,Fiction ,4654.61,302,2035
+2036,Nora Brown,Sci-Fi,600.46,303,2019
+2037,Adeline Huang,NA,2951.35,304,2023
+2038,Jackson Perry,History,3506.44,305,2020
+2039,Riley Padilla,Fiction,193.75,306,2020
+2040,Leah Pena,History,3472.27,307,2020
+2041,Owen Lam,NA,2188.22,308,2020
+2042,Kennedy Foster,Sci-Fi,437.72,309,2018
+2043,John Moore,Romance,1881.17,310,2021
+2044,William Vu,Fiction ,1546.67,311,2023
+2045,Sadie Washington,NA,181.16,312,2020
+2046,Gabriel Holmes,Sci-Fi,4351.48,313,2018
+2047,Wyatt Rojas,Fiction,4155.43,314,2023
+2048,Eva Coleman,Fiction,3080.16,315,2021
+2049,Dominic Clark,Fiction,3983,316,2021
+2050,Lucy Alexander,Fiction ,1162.88,317,2035
+2051,Everleigh Washington,Romance,3800.03,318,2019
+2052,Leilani Butler,Sci-Fi,3633.87,319,2022
+2053,Peyton Huang,NA,2234.41,320,2023
+2054,John Contreras,History,2034.62,321,2021
+2055,Rylee Yu,Fiction ,26.28,322,2018
+2056,Piper Lewis,Romance,1363.07,323,2021
+2057,Stella Alexander,Sci-Fi,3772.21,324,2021
+2058,Addison Do,Sci-Fi,420.51,325,2022
+2059,Zoey Jackson,History,1958.24,326,2018
+2060,John Chow,Sci-Fi,1574.07,327,2022
+2061,Ava Ayala,NA,4544.24,328,2019
+2062,Natalia Salazar,Fiction ,2329.2,329,2021
+2063,Skylar Carrillo,NA,4431.44,330,2021
+2064,Christian Sanders,Fiction,4492.97,331,2021
+2065,Penelope Coleman,Sci-Fi,2835.33,332,2018
+2066,Piper Richardson,Fiction ,2822.12,333,2019
+2067,Everly Walker,Fiction ,3151.9,334,2021
+2068,Aurora Ali,History,3608.26,335,2018
+2069,Penelope Guerrero,Fiction ,2719.83,336,2021
+2070,Anna Mehta,Sci-Fi,1892.77,337,2019
+2071,William Foster,History,4339.62,338,2035
+2072,Jade Rojas,NA,377.22,339,2021
+2073,Isla Espinoza,Romance,3200.03,340,2020
+2074,David Chu,Fiction,2133.87,341,2022
+2075,Thomas Padilla,NA,662.21,342,2021
+2076,Miles Salazar,NA,1522.87,343,2022
+2077,Mila Hong,Fiction,1901.05,344,2022
+2078,Benjamin Moua,NA,1985.54,345,2035
+2079,Samuel Morales,Sci-Fi,1433.8,346,2023
+2080,John Soto,Sci-Fi,2086.04,347,2035
+2081,Joseph Martin,Sci-Fi,3642.33,348,2020
+2082,Jose Ross,Fiction,1974.72,349,2035
+2083,Parker James,History,3270.83,350,2035
+2084,Everleigh Fernandez,NA,2117.46,351,2023
+2085,Lincoln Hall,Fiction ,4375.32,352,2022
+2086,Willow Mai,History,496.43,353,2020
+2087,Jack Cheng,NA,3515.18,354,2021
+2088,Genesis Navarro,Fiction,1071.91,355,2018
+2089,Eliza Hernandez,Fiction,2067.84,356,2020
+2090,Gabriel Brooks,Fiction,3628,357,2021
+2091,Jack Huynh,History,3194.89,358,2018
+2092,Everly Chow,NA,2012.13,359,2021
+2093,Amelia Salazar,Sci-Fi,248.07,360,2018
+2094,Xavier Zheng,History,9.48,361,2020
+2095,Matthew Chau,History,3923.53,362,2021
+2096,Mia Cheng,NA,2637.06,363,2019
+2097,Rylee Yu,Fiction ,1573,364,2020
+2098,Zoe Romero,History,798.36,365,2021
+2099,Nolan Bui,History,3883.82,366,2023
+2100,Nevaeh Jones,NA,4954.74,367,2020
+2101,Samantha Adams,History,2294.29,368,2020
+2102,Madeline Shin,Fiction,3661.07,369,2020
+2103,Noah King,Sci-Fi,590.8,370,2021
+2104,Leilani Chow,Fiction ,123.85,371,2021
+2105,Connor Simmons,Romance,4645.6,372,2018
+2106,Grayson Cooper,Fiction ,3150.47,373,2020
+2107,Ivy Soto,NA,4437.39,374,2021
+2108,Aurora Simmons,Fiction ,3195.11,375,2021
+2109,Andrew Thomas,Fiction ,681.25,376,2023
+2110,Ezekiel Desai,Sci-Fi,1858.83,377,2018
+2111,Gabriella Gupta,Fiction,2425.48,378,2021
+2112,Skylar Liu,History,4052.6,379,2021
+2113,Nova Coleman,Romance,442.26,380,2019
+2114,Evelyn Dinh,Fiction,3544.46,381,2019
+2115,Brooks Marquez,Fiction ,2167.27,382,2021
+2116,Connor Joseph,Romance,3504.89,383,2019
+2117,Mia Lam,History,4021.06,384,2021
+2118,Scarlett Rodriguez,Fiction ,3071.28,385,2035
+2119,Cora Rivera,Sci-Fi,4923.24,386,2023
+2120,Liam Jung,Sci-Fi,4135.62,387,2023
+2121,Sophia Huynh,Romance,4237.69,388,2022
+2122,Athena Carrillo,NA,2482.07,389,2021
+2123,Greyson Sanders,History,4606.07,390,2020
+2124,Vivian Lewis,Sci-Fi,2176.73,391,2021
+2125,Elena Vang,Romance,4342.78,392,2018
+2126,Natalia Diaz,Sci-Fi,2113.48,393,2021
+2127,Mila Leung,Romance,3437.94,394,2020
+2128,Ava Nelson,NA,2907.71,395,2020
+2129,Mateo Chu,NA,3522.78,396,2022
+2130,Isla Lai,NA,4465.42,397,2022
+2131,Ezekiel Reed,NA,1650.28,398,2018
+2132,Nolan Guzman,NA,-3,399,2022
+2133,Everleigh Espinoza,Romance,445.85,400,2035
+2134,Evelyn Jung,NA,3429.04,401,2020
+2135,Sophie Silva,Sci-Fi,2451.53,402,2021
+2136,Mateo Williams,Sci-Fi,4598.84,403,2018
+2137,Kennedy Rahman,Fiction,2761.01,404,2035
+2138,Levi Mendez,History,3715.13,405,2019
+2139,Julian Fong,History,155.08,406,2021
+2140,Nevaeh Kang,Sci-Fi,3357.79,407,2035
+2141,Hannah Nelson,Sci-Fi,4444.93,408,2035
+2142,Anthony Rogers,NA,1896.12,409,2020
+2143,Paisley Kang,Sci-Fi,4866.47,410,2023
+2144,Matthew Gupta,Fiction,4263.1,411,2023
+2145,Silas Chavez,NA,1181.5,412,2019
+2146,Colton Thao,Sci-Fi,1553.3,413,2023
+2147,Genesis Perry,Fiction,3684.13,414,2018
+2148,Alexander Bryant,NA,1920.81,415,2019
+2149,Elias Zhang,NA,1677.63,416,2021
+2150,Lily Carter,History,2867.01,417,2018
+2151,Joseph Ruiz,NA,2363.31,418,2020
+2152,Avery Bailey,Fiction ,990.16,419,2035
+2153,Miles Hsu,Sci-Fi,1491.8,420,2021
+2154,Piper Cheng,NA,2234.84,421,2035
+2155,Skylar Watson,History,2752.21,422,2019
+2156,Jaxon Park,Sci-Fi,19.76,423,2020
+2157,Elijah Henry,Fiction,4509.43,424,2035
+2158,Camila Watson,Fiction ,1976.27,425,2023
+2159,Lucas Thomas,Fiction ,1572.62,426,2035
+2160,Skylar Doan,Sci-Fi,1199.84,427,2021
+2161,Hudson Liu,Romance,1760.46,428,2023
+2162,Gianna Williams,Sci-Fi,406.46,429,2021
+2163,Jaxson Sandoval,Sci-Fi,231.52,430,2035
+2164,Jameson Alvarado,History,147.99,431,2023
+2165,Joseph Ly,Sci-Fi,2176.22,432,2019
+2166,Daniel Richardson,Sci-Fi,4830.02,433,2018
+2167,Elias Figueroa,History,3507.63,434,2023
+2168,Emma Brooks,Sci-Fi,2830.37,435,2035
+2169,Isla Wong,Romance,1480.47,436,2021
+2170,Everly Walker,Fiction,27.71,437,2021
+2171,Mila Pena,Fiction ,1148.74,438,2021
+2172,Mason Zhao,Fiction,2352.06,439,2018
+2173,Jaxson Mai,Fiction,4142.61,440,2021
+2174,Ava Garza,History,-9.28,441,2021
+2175,Nathan Mendez,Sci-Fi,-82.39,442,2035
+2176,Maria Griffin,Fiction,16.53,443,2023
+2177,Alexander Choi,Fiction ,862.83,444,2021
+2178,Maria Hong,Romance,4483.69,445,2018
+2179,Sophie Ali,Sci-Fi,2706.82,446,2022
+2180,Julian Ross,NA,39.3,447,2019
+2181,Emma Hill,Sci-Fi,4351.65,448,2020
+2182,Leilani Yee,NA,2033.13,449,2018
+2183,Jack Brown,Sci-Fi,3257.36,450,2019
+2184,Charlotte Chu,NA,1285.3,451,2022
+2185,Jeremiah Chu,NA,3624.75,452,2021
+2186,Miles Cho,NA,361.64,453,2021
+2187,Caleb Marquez,History,4605.4,454,2021
+2188,Eli Soto,Romance,323.29,455,2035
+2189,Carter Mejia,History,4445.43,456,2021
+2190,Ethan Clark,Romance,2279.89,457,2023
+2191,Asher Jackson,Sci-Fi,1248.43,458,2023
+2192,Ayla Ng,Sci-Fi,1433.93,459,2018
+2193,Jose Kang,History,2642.65,460,2035
+2194,Aubrey Romero,Romance,3421.79,461,2023
+2195,Jaxson Wright,NA,1421.25,462,2023
+2196,Elias Ali,Fiction ,3060.81,463,2020
+2197,Nolan Pena,History,3806.83,464,2021
+2198,Luna Liu,History,4036.27,465,2035
+2199,Brooklyn Reyes,NA,401.82,466,2021
+2200,Hadley Parker,NA,4722.26,467,2022
+2201,Jonathan Chavez,Fiction,4215.08,468,2035
+2202,Sarah Ayala,Sci-Fi,2777.64,469,2023
+2203,Elijah Kang,Fiction,3100.34,470,2019
+2204,Ella White,Sci-Fi,821.85,471,2022
+2205,Jordan Truong,History,3526.7,472,2035
+2206,Daniel Jordan,NA,105.5,473,2018
+2207,Daniel Dixon,NA,4470.61,474,2022
+2208,Luca Duong,Fiction,1218.11,475,2021
+2209,Levi Brown,NA,1357.59,476,2035
+2210,Mason Cho,NA,1015.58,477,2035
+2211,Nova Herrera,Sci-Fi,1167.04,478,2022
+2212,Elijah Watson,Sci-Fi,2414.47,479,2023
+2213,Wesley Gray,NA,4532.97,480,2035
+2214,Wesley Sharma,Fiction ,2130.96,481,2020
+2215,Mateo Mendez,Sci-Fi,4272.83,482,2021
+2216,Jose Molina,History,1942.2,483,2021
+2217,Luna Simmons,Sci-Fi,1843.53,484,2021
+2218,Samantha Barnes,NA,4558.82,485,2020
+2219,Hunter Ortiz,NA,333.55,486,2022
+2220,Thomas Aguilar,Sci-Fi,3902.27,487,2035
+2221,Skylar Bell,NA,3298.5,488,2020
+2222,Anna Zhu,Romance,3237.23,489,2019
+2223,Ella Hunter,Romance,837.3,490,2019
+2224,Emery Hunter,Sci-Fi,3647.13,491,2019
+2225,Sofia Parker,Sci-Fi,925.65,492,2019
+2226,Lucy Fong,Sci-Fi,2345.87,493,2022
+2227,Vivian Barnes,Romance,3238.27,494,2035
+2228,Kai Chow,History,2882.61,495,2035
+2229,Melody Cooper,Romance,4040.7,496,2035
+2230,James Bui,Sci-Fi,2797.22,497,2035
+2231,Liam Grant,History,3588.79,498,2020
+2232,Owen Han,Fiction ,492.5,499,2035
+2233,Kinsley Vega,Sci-Fi,2065.6,500,2018
+2234,Leonardo Martin,Fiction,530.7,501,2022
+2235,Greyson Lam,NA,3318.49,502,2021
+2236,Emilia Rivera,NA,2765.99,503,2020
+2237,Penelope Johnson,NA,4986.79,504,2019
+2238,Eva Figueroa,Romance,3546.7,505,2023
+2239,Ezekiel Jordan,Sci-Fi,2486.6,506,2023
+2240,Luke Mai,NA,1659.89,507,2035
+2241,Charles Diaz,Sci-Fi,2434.56,508,2021
+2242,Adam Espinoza,Sci-Fi,3631.04,509,2021
+2243,Jack Maldonado,Sci-Fi,3102.58,510,2022
+2244,Cora Jiang,Romance,4407.6,511,2018
+2245,Cooper Mitchell,NA,894.03,512,2021
+2246,Layla Torres,Sci-Fi,806.14,513,2023
+2247,Jack Edwards,NA,695.33,514,2021
+2248,Eleanor Chan,Fiction ,748.82,515,2023
+2249,Aria Xi,Sci-Fi,-56.46,516,2021
+2250,John Vega,Fiction,1911.64,517,2018
+2251,Luke Munoz,Fiction ,3921.63,518,2020
+2252,Sarah Daniels,Fiction ,3034.24,519,2022
+2253,Aria Castro,NA,2638.9,520,2035
+2254,Autumn Joseph,Sci-Fi,1690.84,521,2022
+2255,Evelyn Liang,History,3181.87,522,2018
+2256,Henry Alvarez,Fiction,2323.19,523,2023
+2257,Benjamin Delgado,Sci-Fi,4410.7,524,2020
+2258,Zoe Rodriguez,Fiction,773.39,525,2018
+2259,Axel Chu,Fiction,2949.97,526,2020
+2260,Cameron Evans,Sci-Fi,95.78,527,2021
+2261,Isabella Soto,NA,4493.51,528,2019
+2262,Eva Jenkins,NA,1459.04,529,2035
+2263,Cameron Powell,Romance,4584.9,530,2020
+2264,Samantha Foster,Fiction,2642.73,531,2019
+2265,Jade Li,Fiction,1361.16,532,2021
+2266,Kinsley Acosta,Fiction,257.69,533,2022
+2267,Clara Kang,Sci-Fi,2519.82,534,2020
+2268,Harper Alexander,Fiction,573.09,535,2021
+2269,Carter Reed,Fiction ,1606.86,536,2021
+2270,Charlotte Ruiz,Sci-Fi,4479.33,537,2019
+2271,Everleigh Jiang,Sci-Fi,2051.02,538,2023
+2272,Audrey Smith,Sci-Fi,313.91,539,2020
+2273,Emery Acosta,NA,2386.06,540,2022
+2274,Charles Robinson,Fiction ,2016.26,541,2020
+2275,Landon Lopez,NA,2725.27,542,2021
+2276,Miles Mehta,NA,2785.62,543,2018
+2277,Ezra Simmons,Sci-Fi,351.95,544,2018
+2278,Nora Santiago,Romance,4721.35,545,2035
+2279,Caroline Herrera,Romance,80.33,546,2021
+2280,David Owens,Fiction ,3421.74,547,2022
+2281,Avery Yee,Sci-Fi,2544.02,548,2019
+2282,Xavier Park,Sci-Fi,2722.1,549,2018
+2283,Asher Morales,Sci-Fi,3081.35,550,2021
+2284,Mason Cao,Romance,3788.5,551,2020
+2285,Joshua Fong,Sci-Fi,4436.16,552,2018
+2286,Maria Chin,Romance,124.85,553,2023
+2287,Eva Garcia,Sci-Fi,1328.64,554,2020
+2288,Anna Molina,Fiction,2481.5,555,2019
+2289,Logan Bryant,Fiction ,4175.79,556,2035
+2290,Isla Han,Fiction,3326.76,557,2021
+2291,Christopher Vega,Sci-Fi,4910.46,558,2023
+2292,Lillian Park,Sci-Fi,3565.53,559,2019
+2293,Kennedy Zhang,History,1763.22,560,2020
+2294,Eli Han,NA,3968.05,561,2035
+2295,Julia Pham,History,1253.57,562,2021
+2296,Hailey Shin,Sci-Fi,2655.05,563,2022
+2297,Connor Grant,NA,4788.43,564,2035
+2298,Natalia Owens,NA,2077.82,565,2021
+2299,Maria He,NA,4861.95,566,2021
+2300,Jade Yi,NA,1687.06,567,2021
+2301,Quinn Xiong,Fiction,3870.76,568,2023
+2302,Dominic Baker,Fiction,1451.22,569,2021
+2303,Adam Nelson,NA,3812.27,570,2020
+2304,Autumn Reed,Romance,1131.49,571,2019
+2305,Robert Edwards,History,783.95,572,2020
+2306,Roman Martinez,NA,939.67,573,2019
+2307,Eleanor Li,Romance,3732.48,574,2023
+2308,Connor Vang,NA,4887.18,575,2023
+2309,Ellie Chung,NA,1674.25,576,2018
+2310,Violet Hall,NA,3654.96,577,2022
+2311,Dylan Padilla,Fiction,2940.21,578,2019
+2312,Nathan Pham,History,2081.33,579,2019
+2313,Ayla Brown,History,-32.64,580,2019
+2314,Isaac Mitchell,Sci-Fi,2109.42,581,2023
+2315,Jayden Jimenez,Sci-Fi,1947.57,582,2021
+2316,Jaxon Tran,Fiction ,-0.57,583,2021
+2317,Connor Fong,Fiction ,1432.55,584,2021
+2318,Emery Mitchell,Sci-Fi,4960.49,585,2020
+2319,Landon Luu,NA,1954.53,586,2023
+2320,Sophia Ahmed,Fiction ,4673.24,587,2023
+2321,Sofia Dinh,History,4500.62,588,2020
+2322,Jonathan Patel,Fiction ,4652.49,589,2022
+2323,Piper Patterson,Fiction,108.28,590,2021
+2324,Cora Evans,History,3113.59,591,2022
+2325,Cameron Young,Fiction ,4937.37,592,2019
+2326,Melody Ho,NA,1220.01,593,2021
+2327,Aiden Bryant,NA,4900.92,594,2035
+2328,Grayson Walker,Fiction ,2076.01,595,2021
+2329,Scarlett Figueroa,Sci-Fi,252.99,596,2019
+2330,Madeline Hoang,Fiction ,381.07,597,2021
+2331,Ezra Simmons,Sci-Fi,3512.29,598,2021
+2332,Ruby Medina,History,3912,599,2021
+2333,Luke Zheng,NA,1154.6,600,2021
+2334,Rylee Dinh,History,3483.1,601,2023
+2335,Miles Evans,Sci-Fi,3717.73,602,2022
+2336,Leo Owens,NA,750.76,603,2022
+2337,Caroline Owens,NA,4378.35,604,2018
+2338,Kennedy Do,Fiction ,2762.02,605,2018
+2339,Jade Acosta,NA,1976.16,606,2020
+2340,Mila Vasquez,NA,3297.55,607,2018
+2341,Allison Ayala,History,4859.34,608,2019
+2342,Jace Zhang,Fiction,735.3,609,2023
+2343,Allison Medina,Fiction,4916.41,610,2018
+2344,Maria Wilson,Fiction,1238.14,611,2022
+2345,Everly Coleman,Sci-Fi,3042.01,612,2021
+2346,Jordan Gomez,NA,687.04,613,2018
+2347,Isla Chavez,Fiction,4019.82,614,2022
+2348,Hannah Gomez,NA,4749.71,615,2022
+2349,Jacob Davis,Sci-Fi,3893.94,616,2035
+2350,Eli Gupta,Fiction ,1199.76,617,2023
+2351,Andrew Huynh,Sci-Fi,2699.55,618,2022
+2352,Anna Gutierrez,Sci-Fi,3237.79,619,2021
+2353,Samuel Vega,Romance,1630.19,620,2018
+2354,Liliana Do,Romance,1478.05,621,2022
+2355,Isaac Sanders,Romance,1807.08,622,2020
+2356,Raelynn Gupta,Fiction ,2738.06,623,2019
+2357,Genesis Xiong,NA,4775.67,624,2021
+2358,Lucas Ramos,Fiction,716.35,625,2022
+2359,Santiago f Gonzalez,Sci-Fi,-76.64,626,2021
+2360,Henry Zhu,NA,3483.95,627,2021
+2361,Emily Contreras,NA,4818.38,628,2023
+2362,Hailey Lai,NA,1599.44,629,2020
+2363,Vivian Guzman,NA,1593.86,630,2022
+2364,Hadley Contreras,History,2525.06,631,2021
+2365,Nathan Sun,Fiction ,3425.4,632,2020
+2366,Grace Campos,Fiction,4491.91,633,2022
+2367,Autumn Ortiz,NA,4923.89,634,2021
+2368,Connor Walker,Sci-Fi,4052.98,635,2021
+2369,Mia Wu,Fiction,3356.48,636,2020
+2370,Julia Luong,Fiction ,845.5,637,2018
+2371,Eleanor Delgado,Romance,4335.25,638,2035
+2372,Addison Roberts,Romance,1622.33,639,2021
+2373,Camila Li,Sci-Fi,2363.06,640,2022
+2374,Ezekiel Fong,History,526.02,641,2020
+2375,Dylan Thao,Fiction,3357.62,642,2021
+2376,Josephine Salazar,NA,3194.52,643,2020
+2377,Genesis Hu,Romance,1872.07,644,2022
+2378,Mila Juarez,NA,-0.5,645,2018
+2379,Daniel Perry,NA,2900.01,646,2021
+2380,Paisley Hunter,NA,1849.94,647,2021
+2381,Everleigh White,Sci-Fi,424.73,648,2020
+2382,Penelope Choi,NA,3500.33,649,2019
+2383,Piper Sun,Fiction,2362.77,650,2020
+2384,Lucy Johnson,History,2707,651,2021
+2385,Ian Ngo,Fiction ,3701.81,652,2022
+2386,Joseph Vazquez,Sci-Fi,3746.82,653,2018
+2387,Hadley Guerrero,NA,542.58,654,2021
+2388,Jose Brown,Fiction ,873.09,655,2018
+2389,Benjamin Ford,NA,2255.23,656,2035
+2390,Henry Shah,NA,670.73,657,2019
+2391,Ivy Daniels,Fiction,1940.44,658,2020
+2392,Thomas Chang,NA,2713.6,659,2023
+2393,Caroline Phan,Sci-Fi,-12.59,660,2021
+2394,Maverick Mehta,NA,4091.33,661,2023
+2395,Austin Edwards,NA,4113.26,662,2018
+2396,Daniel Huang,History,2665.48,663,2018
+2397,Lucas Phan,Sci-Fi,2492.06,664,2035
+2398,Gabriel Yu,Fiction ,1522.06,665,2022
+2399,Mason Watson,Romance,2624.94,666,2022
+2400,Angel Chang,Romance,4660.25,667,2035
+2401,Madeline Coleman,Sci-Fi,4560.23,668,2018
+2402,Thomas Vazquez,Fiction,3448.3,669,2019
+2403,Silas Hunter,Romance,470.91,670,2020
+2404,Nicholas Brooks,Sci-Fi,1251.99,671,2022
+2405,Dominic Thomas,Romance,4728.63,672,2019
+2406,Wesley Adams,Sci-Fi,4052.19,673,2020
+2407,Ian Wu,Romance,765.96,674,2019
+2408,Alice Young,Romance,4455.7,675,2023
+2409,Logan Carrillo,Sci-Fi,4459.2,676,2035
+2410,Caroline Alexander,Sci-Fi,588.9,677,2021
+2411,Serenity Bailey,History,4077,678,2035
+2412,Elena Tan,Sci-Fi,4693.33,679,2020
+2413,Eliza Adams,Sci-Fi,815.03,680,2022
+2414,Alice Xiong,Sci-Fi,4505.01,681,2018
+2415,Isla Yoon,Romance,4002.54,682,2018
+2416,Emma Perry,Romance,2311.22,683,2020
+2417,Riley Marquez,Sci-Fi,981.05,684,2019
+2418,Caroline Hu,Sci-Fi,1431.53,685,2021
+2419,Madison Kumar,Sci-Fi,2802.72,686,2019
+2420,Matthew Lim,Fiction ,193.9,687,2023
+2421,Maya Ngo,Sci-Fi,1920.57,688,2021
+2422,Alice Soto,NA,4953.28,689,2022
+2423,Andrew Moore,NA,4107.72,690,2022
+2424,Olivia Harris,History,1773.39,691,2022
+2425,Genesis Banks,NA,3895.69,692,2020
+2426,Victoria Johnson,Sci-Fi,1452.68,693,2035
+2427,Eloise Griffin,Fiction ,2694.58,694,2035
+2428,Roman Yang,Fiction,398.55,695,2023
+2429,Clara Huynh,NA,3512.01,696,2021
+2430,Kai Flores,Sci-Fi,3041.81,697,2019
+2431,Jaxson Dinh,NA,4529.76,698,2021
+2432,Sophie Vang,Fiction ,588.18,699,2020
+2433,Axel Jordan,Sci-Fi,4364.55,700,2021
+2434,Jade Hunter,Sci-Fi,4767.14,701,2021
+2435,Lydia Williams,History,2925.15,702,2020
+2436,Emery Chang,Sci-Fi,4152.39,703,2020
+2437,Savannah He,History,2893.72,704,2019
+2438,Elias Ahmed,NA,-12.02,705,2018
+2439,Samantha Woods,History,4872.52,706,2021
+2440,Axel Soto,Sci-Fi,98.37,707,2023
+2441,Amelia Choi,Romance,2784.88,708,2035
+2442,Jacob Khan,Sci-Fi,1480.41,709,2023
+2443,Luna Taylor,NA,2428.11,710,2018
+2444,Dominic Parker,Sci-Fi,374.74,711,2023
+2445,Angel Xiong,Sci-Fi,1556.16,712,2021
+2446,Emma Cao,Romance,1952.35,713,2019
+2447,Ezekiel Bryant,NA,1072.48,714,2021
+2448,Natalie Hwang,Romance,3207.53,715,2022
+2449,Adeline Yang,Sci-Fi,2648.22,716,2021
+2450,Allison Roberts,Sci-Fi,2971.76,717,2021
+2451,Andrew Do,NA,3587,718,2021
+2452,Eliana Grant,Fiction,73.49,719,2023
+2453,Mila Soto,NA,2719.04,720,2035
+2454,Gabriella Johnson,NA,3078.78,721,2022
+2455,Jonathan Khan,Sci-Fi,1881.93,722,2022
+2456,Elias Dang,Fiction ,2650.64,723,2022
+2457,Theodore Ngo,History,2968.44,724,2019
+2458,Bella Lopez,NA,1359.14,725,2021
+2459,Luca Truong,History,4206.16,726,2019
+2460,Nathan Lau,Sci-Fi,4414.5,727,2021
+2461,Henry Campos,Fiction,3352.2,728,2018
+2462,Connor Bell,NA,1040.84,729,2023
+2463,Angel Stewart,History,4623.99,730,2018
+2464,Landon Brown,Fiction ,2886.21,731,2020
+2465,Nicholas Rivera,NA,1826.94,732,2021
+2466,Gabriel Carter,Fiction,2791.56,733,2022
+2467,Leilani Baker,History,4087.93,734,2021
+2468,Ian Flores,NA,3760.23,735,2021
+2469,Hudson Thompson,Sci-Fi,1378.12,736,2020
+2470,Ian Miller,Fiction,2410.85,737,2022
+2471,Harper Chin,Sci-Fi,4461.65,738,2021
+2472,Santiago f Brooks,History,4220.06,739,2021
+2473,Dylan Dominguez,Sci-Fi,1996.35,740,2035
+2474,Everett Lee,History,240.9,741,2022
+2475,Madelyn Mehta,Romance,1101.05,742,2021
+2476,Athena Vasquez,Sci-Fi,486.71,743,2020
+2477,William Watson,Fiction ,4866.46,744,2035
+2478,Everleigh Nunez,Fiction ,848.94,745,2021
+2479,Leo Fernandez,NA,1751.45,746,2023
+2480,Joshua Lin,Sci-Fi,3618.3,747,2022
+2481,Alexander Rivera,Romance,3242.38,748,2021
+2482,David Desai,Fiction,162.03,749,2023
+2483,Aubrey Yoon,Sci-Fi,14.84,750,2021
+2484,Grayson Brown,Fiction,795.91,751,2021
+2485,Noah Chen,Sci-Fi,2053.19,752,2022
+2486,Ella Nguyen,Sci-Fi,1570.74,753,2023
+2487,Athena Jordan,History,726.51,754,2021
+2488,Adrian Ruiz,Fiction,1481.96,755,2020
+2489,Zoe Sanchez,Sci-Fi,4123.23,756,2021
+2490,Jameson Chen,NA,4434.33,757,2021
+2491,Liliana Soto,History,4247.85,758,2019
+2492,Lincoln Reyes,Sci-Fi,2945.1,759,2018
+2493,Grayson Soto,Sci-Fi,2908.74,760,2021
+2494,Julia Morris,Sci-Fi,3591.37,761,2020
+2495,Ava Ortiz,NA,3081.54,762,2022
+2496,Carson Chau,Fiction ,2463.02,763,2019
+2497,Lillian Chen,Sci-Fi,451.43,764,2035
+2498,Josiah Lewis,NA,1138.63,765,2021
+2499,Claire Jones,Sci-Fi,4482.63,766,2023
+2500,Jeremiah Lu,History,2697.22,767,2035
+2501,Nova Hill,Fiction,500.97,768,2021
+2502,Peyton Cruz,Sci-Fi,1614.45,769,2021
+2503,Naomi Zhao,Fiction,1524.68,770,2019
+2504,Rylee Bui,Sci-Fi,2894.55,771,2023
+2505,Andrew Reed,Sci-Fi,1012.87,772,2021
+2506,Brooklyn Collins,Sci-Fi,2591.51,773,2021
+2507,John Jung,Fiction,4746.68,774,2023
+2508,Samantha Aguilar,Fiction ,242.21,775,2021
+2509,Madeline Acosta,NA,76.57,776,2022
+2510,Ethan Joseph,Fiction,3771.15,777,2021
+2511,Miles Mehta,Sci-Fi,2153.39,778,2035
+2512,Joshua Juarez,NA,3037.7,779,2021
+2513,Matthew Howard,Sci-Fi,1544.78,780,2018
+2514,Jade Figueroa,Sci-Fi,2097.76,781,2022
+2515,Everett Morales,Fiction ,2898.48,782,2022
+2516,Genesis Hunter,Sci-Fi,2122.17,783,2018
+2517,Henry Figueroa,Fiction,980.2,784,2018
+2518,Nicholas Song,Fiction ,1443.51,785,2018
+2519,Jack Alexander,Fiction,1986.53,786,2018
+2520,Jameson Foster,Sci-Fi,2503.31,787,2023
+2521,Leonardo Lo,Romance,2931.33,788,2023
+2522,Ella Huang,Sci-Fi,3550.42,789,2019
+2523,Liam Jordan,Sci-Fi,3457.14,790,2022
+2524,Isaac Woods,Sci-Fi,4068.1,791,2023
+2525,Luke Wilson,Romance,3642.79,792,2035
+2526,Lyla Alvarez,Fiction ,3308.9,793,2020
+2527,Caleb Flores,NA,4571.12,794,2022
+2528,Angel Lin,Sci-Fi,2481.21,795,2022
+2529,Easton Moore,Fiction ,2557.72,796,2018
+2530,Kinsley Collins,Romance,3110.89,797,2023
+2531,Brooklyn Salazar,Romance,1626.94,798,2035
+2532,Scarlett Jenkins,History,3526.03,799,2018
+2533,Melody Chin,NA,1620.29,800,2021
+2534,Eloise Alexander,Sci-Fi,2999.08,801,2018
+2535,Carter Turner,NA,4854.94,802,2021
+2536,Andrew Ma,Sci-Fi,4503,803,2018
+2537,Hailey Xi,Fiction ,3593.34,804,2021
+2538,Aiden Le,History,3587.54,805,2035
+2539,Christopher Lim,Sci-Fi,2686.98,806,2018
+2540,James Castillo,Sci-Fi,3361.93,807,2018
+2541,Greyson Dang,Fiction ,4704.37,808,2019
+2542,Hannah King,NA,3359.2,809,2019
+2543,Wesley Dominguez,Fiction ,3235.83,810,2021
+2544,Dominic Hu,NA,3099.8,811,2022
+2545,Nora Park,NA,4704.83,812,2018
+2546,Audrey Hwang,NA,599.55,813,2019
+2547,Ella Jenkins,Sci-Fi,746.78,814,2021
+2548,Peyton Owens,NA,3675.75,815,2018
+2549,Alice Lopez,Sci-Fi,3282.87,816,2023
+2550,Dominic Le,Romance,1453.87,817,2035
+2551,Ezra Ortiz,NA,129.02,818,2020
+2552,Grayson Luu,Romance,3704.67,819,2019
+2553,Brooks Stewart,Sci-Fi,4845.49,820,2023
+2554,Naomi Xi,Sci-Fi,4760.16,821,2021
+2555,Silas Estrada,Fiction ,4081.64,822,2018
+2556,Skylar Ayala,Sci-Fi,1266.55,823,2020
+2557,Lydia Huynh,History,1077.54,824,2022
+2558,Hazel Cortez,NA,3984.64,825,2022
+2559,Everleigh Adams,NA,3983.29,826,2021
+2560,Layla Salazar,Romance,2142.86,827,2023
+2561,Willow Chen,Fiction,4163.56,828,2023
+2562,Penelope Griffin,Sci-Fi,1189.11,829,2022
+2563,Lillian Romero,Sci-Fi,3090.94,830,2021
+2564,Stella Wu,NA,4585.92,831,2019
+2565,Parker Vang,Sci-Fi,63.71,832,2021
+2566,Mila Roberts,Fiction ,3420.01,833,2022
+2567,Isaac Liu,Fiction ,2226.55,834,2022
+2568,Jacob Doan,Sci-Fi,1294.2,835,2019
+2569,Raelynn Ma,Fiction,567.59,836,2035
+2570,Jameson Juarez,Fiction,-82.45,837,2021
+2571,Everleigh Shah,History,1085.27,838,2019
+2572,Alexander Foster,Fiction ,4634.84,839,2021
+2573,Ryan Ha,Fiction,3025.46,840,2035
+2574,Chloe Salazar,NA,1125.61,841,2020
+2575,Layla Scott,NA,1673.51,842,2021
+2576,Leah Khan,Romance,63.12,843,2019
+2577,Mason Jimenez,History,609.89,844,2019
+2578,Hailey Dang,NA,126.93,845,2021
+2579,Amelia Bui,Romance,1268.79,846,2022
+2580,Elena Her,Fiction ,2663.17,847,2023
+2581,Ian Cortez,NA,2950.34,848,2021
+2582,Christian Ali,Sci-Fi,4259.37,849,2020
+2583,Carter Ortiz,NA,1714.81,850,2023
+2584,Grayson Chan,History,4796.15,851,2018
+2585,Nolan Molina,Fiction,3845.89,852,2021
+2586,Adam Kaur,Sci-Fi,2824.24,853,2023
+2587,Amelia Kaur,Fiction,3136.62,854,2021
+2588,Autumn Gonzales,NA,3543.15,855,2018
+2589,Ezra Wilson,Sci-Fi,4495.35,856,2021
+2590,Jacob Cheng,Sci-Fi,3222.3,857,2019
+2591,Melody Valdez,Sci-Fi,143.96,858,2035
+2592,Caroline Nelson,NA,3752.22,859,2022
+2593,Ellie Guerrero,Romance,4545.63,860,2022
+2594,Genesis Zhu,Sci-Fi,1816,861,2021
+2595,Jonathan Ho,Sci-Fi,264.96,862,2021
+2596,Savannah Park,History,3452.06,863,2021
+2597,Nathan Chan,Romance,2610.42,864,2020
+2598,Sofia Vu,NA,3269.98,865,2018
+2599,Ruby Choi,Fiction,17.34,866,2023
+2600,Lily Pena,NA,4072.79,867,2021
+2601,Liam Zhang,Sci-Fi,2664.52,868,2019
+2602,Ian Gutierrez,Sci-Fi,4896.49,869,2022
+2603,David Simmons,Sci-Fi,3789.33,870,2035
+2604,Lincoln Henderson,Sci-Fi,4340.45,871,2018
+2605,Nathan Miller,History,3642.56,872,2022
+2606,James Singh,Romance,4042.77,873,2023
+2607,Kayden Ortega,Fiction ,2627.18,874,2021
+2608,Lucy Figueroa,NA,2981.21,875,2020
+2609,Joshua Cortez,Romance,203.04,876,2018
+2610,Alexander Morris,History,-34.07,877,2021
+2611,Grayson Chin,History,3278.12,878,2023
+2612,Allison Espinoza,Sci-Fi,332.58,879,2021
+2613,Naomi Chu,Sci-Fi,3635.16,880,2018
+2614,Jameson Martin,Fiction ,4585.08,881,2023
+2615,Sebastian Gupta,Sci-Fi,2669.56,882,2019
+2616,Eloise Pham,Sci-Fi,4271.49,883,2035
+2617,Valentina Davis,History,3008.38,884,2021
+2618,Brooklyn Daniels,Fiction,663.36,885,2021
+2619,Paisley Gomez,NA,198.18,886,2035
+2620,Madison Li,Sci-Fi,2793.22,887,2022
+2621,Everleigh Simmons,Sci-Fi,1648.09,888,2021
+2622,Logan Soto,Romance,3100.93,889,2019
+2623,Charlotte Vo,NA,3544.9,890,2021
+2624,Alice Thompson,History,3335.99,891,2019
+2625,Peyton Garza,Fiction ,3859.37,892,2022
+2626,Nora Nelson,NA,765.88,893,2021
+2627,Maverick Li,Fiction,1665.83,894,2035
+2628,Ian Barnes,Romance,3560.58,895,2022
+2629,Athena Vu,NA,4090.54,896,2020
+2630,Ruby Washington,Fiction ,531.2,897,2021
+2631,Bella Butler,Sci-Fi,2851.36,898,2021
+2632,Kinsley Henry,NA,2394.97,899,2018
+2633,Kennedy Romero,NA,133.16,900,2022
+2634,Zoe Do,History,1888.42,901,2020
+2635,Everett Khan,NA,1851.87,902,2020
+2636,Anna Han,Fiction ,1055.96,903,2020
+2637,Leilani Sharma,Fiction ,1108.38,904,2021
+2638,Jordan Cho,Sci-Fi,3817.34,905,2022
+2639,Nova Williams,Fiction ,4034.03,906,2018
+2640,Scarlett Hill,History,1517.15,907,2018
+2641,Dominic Scott,Sci-Fi,106.73,908,2021
+2642,Anthony Marquez,Fiction ,2725.17,909,2035
+2643,Elena Patterson,NA,2310.7,910,2035
+2644,Madison Nelson,Fiction ,1936.67,911,2018
+2645,William Walker,Sci-Fi,3360.04,912,2020
+2646,Lincoln Wong,NA,444.55,913,2018
+2647,James Huang,History,3372.92,914,2021
+2648,Emery Ford,Sci-Fi,4778.34,915,2021
+2649,Paisley Trinh,Sci-Fi,2372.32,916,2021
+2650,Hudson Williams,NA,4180.23,917,2035
+2651,Harper Phan,History,3518.65,918,2020
+2652,Madeline Allen,Fiction ,3438.31,919,2019
+2653,Charles Moore,Sci-Fi,1588.3,920,2019
+2654,Lincoln Fong,Fiction ,72.38,921,2021
+2655,Isla Guzman,Fiction,4378.22,922,2035
+2656,Hailey Foster,Fiction ,4719.3,923,2021
+2657,Hudson Hill,Fiction,4745.86,924,2018
+2658,Wyatt Li,History,4522.02,925,2021
+2659,Maverick Henry,NA,2067.06,926,2021
+2660,Xavier Jackson,History,699.13,927,2021
+2661,Christian Medina,Sci-Fi,478.77,928,2021
+2662,Autumn Leung,Sci-Fi,733.92,929,2021
+2663,Robert Vazquez,Fiction ,1497.69,930,2020
+2664,Aria Roberts,Fiction ,3609.96,931,2023
+2665,Axel Johnson,Fiction,981.33,932,2023
+2666,Madeline Garcia,NA,470.17,933,2035
+2667,Christopher Chung,Sci-Fi,3559.84,934,2022
+2668,Eliana Turner,Sci-Fi,2694.68,935,2023
+2669,Daniel Shah,History,1223.22,936,2018
+2670,Penelope Gonzalez,Fiction,187.2,937,2021
+2671,Mila Allen,Sci-Fi,883.74,938,2020
+2672,Emilia Chu,Fiction,-93.64,939,2035
+2673,Emily Clark,Sci-Fi,3793.96,940,2019
+2674,Roman King,Fiction,1740.1,941,2021
+2675,Emery Do,Fiction,4792.26,942,2023
+2676,Autumn Thao,Sci-Fi,-52.15,943,2018
+2677,Naomi Coleman,Fiction,1355.45,944,2022
+2678,Cora Zheng,Romance,3430.74,945,2022
+2679,Ayla Daniels,NA,1358.84,946,2023
+2680,Allison Daniels,Sci-Fi,3326,947,2018
+2681,Mateo Harris,NA,1640.36,948,2021
+2682,Samantha Rogers,Sci-Fi,738.41,949,2035
+2683,Julian Lee,Fiction,504.69,950,2021
+2684,Nicholas Avila,Fiction ,3844.88,951,2019
+2685,Hailey Watson,Sci-Fi,1566.29,952,2020
+2686,Willow Woods,Sci-Fi,560.53,953,2021
+2687,Alexander Gonzales,NA,180.84,954,2023
+2688,Aiden Gonzales,History,4459.49,955,2021
+2689,Joshua Chin,NA,4202.48,956,2020
+2690,Paisley Hall,Sci-Fi,4196.36,957,2018
+2691,Allison Leung,Romance,4940.98,958,2020
+2692,Hannah Mejia,NA,3035.28,959,2021
+2693,Elizabeth Huang,Sci-Fi,3944.85,960,2035
+2694,Abigail Garza,Fiction ,1316.82,961,2018
+2695,Raelynn Lu,NA,3575.64,962,2022
+2696,Charles Luu,NA,2995.57,963,2020
+2697,Lydia Espinoza,History,3232.61,964,2023
+2698,Adeline Thao,History,2768.61,965,2021
+2699,Kinsley Dixon,NA,970.42,966,2020
+2700,Natalia Vu,NA,761.64,967,2018
+2701,Julia Mai,NA,3181.05,968,2021
+2702,Camila Evans,NA,4279.04,969,2035
+2703,Everly Lai,NA,2717.79,970,2019
+2704,Adam He,Sci-Fi,925.04,971,2022
+2705,Vivian Hunter,Fiction,1278.87,972,2021
+2706,Lucy Avila,History,881.8,973,2022
+2707,Eliana Li,Sci-Fi,3082.43,974,2022
+2708,Logan Mitchell,Fiction ,2269.76,975,2021
+2709,Dominic Dinh,Romance,4111.8,976,2020
+2710,Lucas Daniels,Fiction ,4492.31,977,2021
+2711,Andrew Holmes,History,3433,978,2019
+2712,Julia Sandoval,NA,1857.72,979,2022
+2713,Kennedy Vargas,History,4679.76,980,2021
+2714,Thomas Williams,History,587.08,981,2023
+2715,Raelynn Hong,Sci-Fi,1093.64,982,2023
+2716,Eli Reed,NA,2212.06,983,2021
+2717,Lyla Yoon,Fiction ,3599.02,984,2021
+2718,Hannah White,Fiction,2601.27,985,2020
+2719,Theodore Xi,Sci-Fi,4737.81,986,2018
+2720,Ezra Liang,Sci-Fi,648.82,987,2018
+2721,Grayson Yee,Romance,1904.91,988,2021
+2722,Eli Richardson,Sci-Fi,4196.92,989,2018
+2723,Audrey Lee,Fiction,1359.25,990,2018
+2724,Jameson Allen,History,852.32,991,2021
+2725,Eliza Chen,Sci-Fi,3449.85,992,2021
+2726,Lyla Chen,Romance,3570.66,993,2018
+2727,Emily Doan,Sci-Fi,1835.11,994,2021
+2728,Jack Mai,Sci-Fi,2971.63,995,2035
+2729,Grayson Turner,Fiction,4841.95,996,2035
+2730,Ivy Tang,NA,4743.55,997,2021
+2731,Robert Zhang,Sci-Fi,243.25,998,2035
+2732,Eva Alvarado,Fiction ,1122.57,999,2021
+2733,Abigail Vang,Sci-Fi,1668.9,1000,2021
+2734,Claire Adams,Fiction ,2259.45,1001,2020
+2735,Theodore Marquez,Fiction ,3525.67,1002,2023
+2736,Hunter Nunez,Fiction ,2457.02,1003,2020
+2737,Charles Henderson,NA,3877.82,1004,2021
+2738,Camila Cortez,Sci-Fi,4772.08,1005,2022
+2739,Aaron Garza,Sci-Fi,4872.08,1006,2021
+2740,Jose Singh,Fiction ,3340.85,1007,2019
+2741,Gabriel Joseph,Sci-Fi,3178.33,1008,2018
+2742,Natalia Santos,NA,4273.11,1009,2020
+2743,Dylan Wilson,History,1086.18,1010,2019
+2744,Robert Alvarez,NA,2529.07,1011,2021
+2745,Samantha Chavez,Romance,1124.61,1012,2020
+2746,Samuel Bailey,NA,3991.77,1013,2023
+2747,Ezekiel Delgado,Sci-Fi,1271.92,1014,2021
+2748,Benjamin Ramirez,Fiction,1405.74,1015,2022
+2749,Anthony Carter,NA,1793.91,1016,2021
+2750,Ethan Tang,Sci-Fi,8.12,1017,2020
+2751,Sebastian Rogers,Sci-Fi,-95.68,1018,2020
+2752,Miles Thao,Romance,452.47,1019,2019
+2753,William Cao,NA,4543.93,1020,2023
+2754,Leo Hsu,Romance,1218.35,1021,2035
+2755,Avery Grant,Sci-Fi,-36.83,1022,2035
+2756,Penelope Fong,NA,3773.19,1023,2023
+2757,Vivian Thao,Romance,1461.66,1024,2021
+2758,Eva Estrada,History,31.06,1025,2019
+2759,Emma Luna,Sci-Fi,1629.48,1026,2021
+2760,Charlotte Wu,NA,2485.94,1027,2022
+2761,Vivian Chu,NA,1457.9,1028,2020
+2762,Jayden Williams,NA,2203.14,1029,2035
+2763,Amelia Bell,NA,3461.82,1030,2019
+2764,Addison Mehta,Fiction,2897.52,1031,2022
+2765,Alexander Jackson,NA,4062.98,1032,2022
+2766,Everly Lin,Romance,2906.26,1033,2020
+2767,Lyla Stewart,History,4121.62,1034,2021
+2768,Brooklyn Ruiz,Romance,3529.19,1035,2021
+2769,Skylar Evans,Romance,3119.41,1036,2020
+2770,Lincoln Huynh,NA,483.16,1037,2019
+2771,Hazel Griffin,NA,956.4,1038,2035
+2772,Charles Gonzalez,Romance,2722.47,1039,2020
+2773,Leah Patterson,NA,1268.64,1040,2021
+2774,Avery Sun,NA,4345.35,1041,2020
+2775,Isaac Yoon,Sci-Fi,666.33,1042,2022
+2776,Isabella Bui,Fiction ,4520.23,1043,2021
+2777,Gabriel Zhou,NA,3440.96,1044,2023
+2778,Jack Vu,Fiction ,2372.08,1045,2035
+2779,Valentina Moua,NA,2636.53,1046,2019
+2780,Quinn Trinh,Fiction,4910.18,1047,2021
+2781,Caroline Nelson,Sci-Fi,1003.3,1048,2021
+2782,Miles Dang,History,1098.12,1049,2022
+2783,Leah Bryant,NA,1559.51,1050,2018
+2784,Henry Jung,NA,2483.73,1051,2022
+2785,Benjamin Mai,NA,2923.82,1052,2019
+2786,Anna Han,History,2056.98,1053,2035
+2787,Ariana Kim,Fiction,1852.78,1054,2021
+2788,Alice Tran,Sci-Fi,4272.77,1055,2021
+2789,Hailey Song,History,3297.74,1056,2022
+2790,Lydia Morales,Fiction ,3258.76,1057,2021
+2791,Liam Sanders,NA,1445.11,1058,2018
+2792,Luke Sanchez,Romance,1990.34,1059,2022
+2793,Grace Sun,NA,1595.52,1060,2035
+2794,Ezra Banks,Sci-Fi,3537.08,1061,2019
+2795,Jayden Kang,Sci-Fi,187.98,1062,2020
+2796,Skylar Shah,Fiction,19.61,1063,2021
+2797,Sebastian Le,History,1847.51,1064,2021
+2798,Luca Nelson,History,586.68,1065,2021
+2799,Riley Ramirez,Sci-Fi,4700.37,1066,2035
+2800,Jaxon Fong,Fiction ,4135.21,1067,2021
+2801,Kayden Jordan,Sci-Fi,2889.62,1068,2035
+2802,Alexander James,Fiction,1387.08,1069,2023
+2803,Connor Luu,NA,2481.35,1070,2022
+2804,Christopher Lam,Fiction,3871.8,1071,2020
+2805,Sophie Owens,Sci-Fi,4924.09,1072,2021
+2806,Addison Perez,History,468.47,1073,2018
+2807,Hadley Dang,NA,4029.5,1074,2020
+2808,Ethan Mehta,Sci-Fi,2907.69,1075,2021
+2809,Madison Her,Romance,2125.27,1076,2019
+2810,Savannah Singh,Fiction ,1590.26,1077,2019
+2811,Nevaeh Hsu,Sci-Fi,1313.49,1078,2035
+2812,Jordan Zhu,NA,3628.2,1079,2021
+2813,Jackson Navarro,Romance,1398.66,1080,2035
+2814,Sadie Patterson,Fiction ,15.21,1081,2021
+2815,Christopher Butler,History,4182.53,1082,2023
+2816,Penelope Rodriguez,History,4081.59,1083,2023
+2817,Emily Lau,Sci-Fi,2726.37,1084,2023
+2818,Sophie Oh,Fiction ,907.85,1085,2035
+2819,Chloe Allen,NA,2237.8,1086,2018
+2820,Caleb Nelson,History,4764.86,1087,2023
+2821,Oliver Moua,Sci-Fi,4169.12,1088,2021
+2822,Wesley Doan,Sci-Fi,429.88,1089,2019
+2823,Nova Hsu,NA,124.42,1090,2021
+2824,Levi Moreno,NA,4303.49,1091,2023
+2825,Gianna Ha,NA,2373.87,1092,2035
+2826,Lillian Gonzales,Fiction,-95.73,1093,2022
+2827,Ezra Singh,Romance,1928.01,1094,2018
+2828,Audrey Patel,Fiction ,3984.49,1095,2020
+2829,Brooklyn Cho,Fiction,2952.99,1096,2020
+2830,Piper Ramos,Sci-Fi,2968.55,1097,2018
+2831,Eleanor Williams,NA,3933.85,1098,2021
+2832,Melody Grant,NA,4144.74,1099,2021
+2833,Paisley Sanders,Romance,2779.49,1100,2021
+2834,Santiago f Gray,Fiction,3269.32,1101,2021
+2835,Josephine Richardson,History,780.57,1102,2019
+2836,Jaxson Santiago,NA,1334.11,1103,2035
+2837,Lincoln Ramos,NA,1807.48,1104,2035
+2838,Dylan Campbell,Fiction,2646.04,1105,2021
+2839,Olivia Gray,NA,3680.29,1106,2022
+2840,Emery Doan,Sci-Fi,1284.56,1107,2021
+2841,Caroline Perez,History,2447.88,1108,2022
+2842,Genesis Woods,Sci-Fi,657.81,1109,2018
+2843,Ruby Sun,NA,3434.66,1110,2035
+2844,Nevaeh James,Fiction,1804.28,1111,2018
+2845,Parker Sandoval,History,2055.54,1112,2020
+2846,Austin Rojas,Fiction ,1481.43,1113,2020
+2847,Vivian Espinoza,Sci-Fi,2994.21,1114,2023
+2848,Cooper Gupta,Romance,1878.26,1115,2021
+2849,Axel Santos,Sci-Fi,1131.77,1116,2022
+2850,Samuel Song,Romance,3174.78,1117,2019
+2851,Aiden Silva,NA,1651.65,1118,2021
+2852,Eliana Allen,History,1480.14,1119,2021
+2853,Grayson James,History,-48.01,1120,2019
+2854,Hailey Yee,Sci-Fi,2592.87,1121,2022
+2855,Ian Vargas,Fiction ,1181.01,1122,2022
+2856,John Trinh,Sci-Fi,4488.49,1123,2021
+2857,Sofia Trinh,NA,3805.27,1124,2019
+2858,Santiago f Moua,NA,3609.74,1125,2022
+2859,Layla Collins,NA,421.14,1126,2020
+2860,Jaxon Powell,NA,1194.96,1127,2035
+2861,Naomi Washington,Fiction,265.72,1128,2021
+2862,Ryan Holmes,Sci-Fi,1425.19,1129,2022
+2863,Bella Holmes,NA,2284.46,1130,2021
+2864,Hailey Sanchez,Fiction ,589.84,1131,2018
+2865,Sofia Yoon,Fiction ,1550.48,1132,2021
+2866,Eli Rahman,Fiction,2943.89,1133,2020
+2867,Christopher Howard,NA,897.74,1134,2021
+2868,Alice Mehta,NA,490,1135,2021
+2869,Cooper Yoon,NA,4412.94,1136,2020
+2870,John Delgado,Sci-Fi,2983.85,1137,2021
+2871,Jaxson Liang,Fiction,4462.14,1138,2035
+2872,Caroline Santos,Romance,4379.76,1139,2020
+2873,Lily Henderson,Fiction ,4131.13,1140,2022
+2874,Hannah Martinez,History,1686.58,1141,2021
+2875,William Phillips,NA,4661.64,1142,2022
+2876,Eliza Zheng,History,1009.84,1143,2018
+2877,John Dang,NA,4393.71,1144,2019
+2878,Joshua Yang,NA,4462.58,1145,2019
+2879,Hazel Young,NA,869.25,1146,2019
+2880,Thomas Jung,Fiction ,905.68,1147,2018
+2881,Xavier Perez,NA,4118.93,1148,2023
+2882,Elijah Coleman,Sci-Fi,589.34,1149,2022
+2883,Clara Sanchez,Romance,3368.54,1150,2022
+2884,Isaac Stewart,Sci-Fi,4135.67,1151,2023
+2885,Claire Romero,Fiction,1838.52,1152,2019
+2886,Andrew Coleman,Sci-Fi,208.19,1153,2035
+2887,Riley Rojas,Fiction ,4962.66,1154,2023
+2888,Landon Thao,Fiction ,4569.25,1155,2019
+2889,Hadley Ford,Fiction ,4640.17,1156,2021
+2890,Austin Brown,Sci-Fi,4932.16,1157,2035
+2891,Christian Fong,Sci-Fi,4536.17,1158,2021
+2892,Hazel Alvarez,NA,912.19,1159,2018
+2893,Isabella Bailey,NA,3488.64,1160,2035
+2894,Lincoln Huynh,Sci-Fi,605.86,1161,2035
+2895,Hadley Yee,NA,3601.46,1162,2020
+2896,Julia Doan,Sci-Fi,3254.04,1163,2021
+2897,Dylan Ali,Fiction ,3193.26,1164,2021
+2898,Eloise Trinh,Fiction,2062.35,1165,2021
+2899,Dylan Kumar,Romance,1484.97,1166,2018
+2900,Emily Gupta,NA,2408.38,1167,2021
+2901,Silas Rivera,Sci-Fi,4729.81,1168,2020
+2902,Jackson Jordan,Fiction ,2844.82,1169,2035
+2903,Isaac Joseph,Fiction,242.38,1170,2018
+2904,Hailey Lai,Fiction,3769.05,1171,2018
+2905,Leilani Thao,Fiction ,1789.95,1172,2019
+2906,Madeline Watson,Sci-Fi,3799.53,1173,2021
+2907,Silas Huang,Sci-Fi,2345.13,1174,2021
+2908,Peyton Walker,Sci-Fi,730.72,1175,2022
+2909,Jeremiah Hernandez,NA,1513.08,1176,2018
+2910,Jace Washington,NA,30.99,1177,2020
+2911,Landon Kim,Sci-Fi,4913.63,1178,2021
+2912,Peyton Vasquez,Sci-Fi,631.74,1179,2018
+2913,Charlotte Baker,Fiction ,1769.95,1180,2023
+2914,Elena Mendoza,NA,345.28,1181,2022
+2915,Nova Lin,History,2535.9,1182,2022
+2916,Ivy Desai,NA,3429.93,1183,2021
+2917,Josephine Acosta,Sci-Fi,1142.9,1184,2021
+2918,Nora Nunez,Fiction,31.88,1185,2022
+2919,Caleb Xiong,Sci-Fi,4847.23,1186,2021
+2920,Henry Green,Romance,3446.18,1187,2021
+2921,Madelyn Chan,History,3556.52,1188,2018
+2922,Angel Delgado,Fiction,271.18,1189,2019
+2923,Mia Herrera,Sci-Fi,4301.32,1190,2018
+2924,Peyton Harris,Fiction,1585.12,1191,2021
+2925,David Herrera,Fiction ,628.49,1192,2022
+2926,Avery Dominguez,NA,2150.32,1193,2022
+2927,Grace Carter,NA,4523.71,1194,2018
+2928,Parker Allen,Fiction,329.96,1195,2035
+2929,Sadie Lee,Romance,4632.28,1196,2023
+2930,Cooper Valdez,Romance,2018.51,1197,2022
+2931,Sebastian Fong,Sci-Fi,1688.93,1198,2019
+2932,Roman Munoz,NA,942.24,1199,2021
+2933,Charlotte Chang,Fiction ,3801.99,1200,2022
+2934,Xavier Davis,History,4871.95,1201,2021
+2935,Natalie Carter,Sci-Fi,4059.15,1202,2023
+2936,Elena Richardson,Romance,473.79,1203,2018
+2937,Emilia Bailey,Fiction ,4845.61,1204,2023
+2938,Ryan Lu,Sci-Fi,2929.72,1205,2022
+2939,Asher Huynh,NA,983.92,1206,2018
+2940,Kinsley Martinez,NA,802.24,1207,2022
+2941,Paisley Bryant,History,4312.31,1208,2019
+2942,Joshua Ramirez,Fiction ,880.93,1209,2022
+2943,Joshua Martin,Fiction,4224.51,1210,2018
+2944,Charles Moore,Romance,17.31,1211,2021
+2945,Angel Do,Sci-Fi,2461.79,1212,2021
+2946,Maverick Medina,Sci-Fi,4167.64,1213,2018
+2947,Isaac Han,NA,4858.33,1214,2020
+2948,Eliza Liang,Sci-Fi,1762.72,1215,2035
+2949,Zoe Zhou,Fiction,4163.47,1216,2022
+2950,Nathan Lee,Romance,1642.35,1217,2021
+2951,Elijah Ramos,Sci-Fi,1640.45,1218,2035
+2952,Jaxson Coleman,NA,4987.47,1219,2020
+2953,Hailey Hong,Fiction ,4808.58,1220,2023
+2954,Gabriella Zhu,NA,2408,1221,2022
+2955,Aaron Maldonado,Sci-Fi,3025.7,1222,2023
+2956,Samantha Vargas,Sci-Fi,2610.33,1223,2021
+2957,Nora Le,Sci-Fi,929.31,1224,2021
+2958,Alice Roberts,NA,1428.17,1225,2021
+2959,Colton Garcia,Sci-Fi,3778.98,1226,2021
+2960,Stella Lai,Fiction,1835.02,1227,2023
+2961,Leonardo Luong,NA,1000.27,1228,2020
+2962,Nicholas Wong,Romance,2809.28,1229,2019
+2963,Jeremiah Castillo,Fiction ,752.89,1230,2021
+2964,Cooper Jiang,Romance,1498.28,1231,2022
+2965,Penelope Silva,Sci-Fi,4349.69,1232,2019
+2966,Jose Richardson,NA,1796.68,1233,2019
+2967,Eleanor Chau,Sci-Fi,1393.75,1234,2018
+2968,John Cho,Sci-Fi,1557.47,1235,2018
+2969,Julian Delgado,Romance,257.43,1236,2021
+2970,Isabella Scott,NA,4274.27,1237,2021
+2971,Parker Avila,Romance,1891.32,1238,2019
+2972,Luke Vu,Romance,1865.34,1239,2022
+2973,Jameson Nelson,Romance,3684.44,1240,2021
+2974,Adrian Fernandez,NA,4105.01,1241,2021
+2975,Madison Hunter,Sci-Fi,4583.22,1242,2022
+2976,Jordan Phillips,Fiction,1434.12,1243,2019
+2977,Maya Chan,Fiction ,1784.9,1244,2035
+2978,Wesley King,Fiction ,1368.01,1245,2021
+2979,Sofia Fernandez,NA,4830.38,1246,2021
+2980,Maverick Figueroa,Fiction,1260.44,1247,2021
+2981,Hannah Hoang,Fiction ,3563.49,1248,2019
+2982,Violet Garcia,Fiction,2255.69,1249,2022
+2983,Aaliyah Mai,History,4938.3,1250,2021
+2984,Austin Vang,NA,1835.93,1251,2035
+2985,Maria Sun,Sci-Fi,3644.24,1252,2020
+2986,Madelyn Scott,NA,3960.74,1253,2018
+2987,Dylan Chin,NA,617.66,1254,2023
+2988,Emery Zhang,Sci-Fi,2210.69,1255,2020
+2989,Riley Washington,Romance,4515.94,1256,2035
+2990,Raelynn Rios,NA,2450.47,1257,2022
+2991,Anthony Hong,Sci-Fi,3769.65,1258,2019
+2992,Leo Herrera,Fiction ,4838.99,1259,2020
+2993,Robert Wright,History,1145.12,1260,2022
+2994,Audrey Richardson,History,614.67,1261,2023
+2995,Scarlett Kumar,Sci-Fi,1266.5,1262,2035
+2996,Wesley Young,Sci-Fi,1043.49,1263,2021
+2997,Lillian Khan,Fiction,1328.39,1264,2021
+2998,Oliver Yang,Sci-Fi,3722.79,1265,2035
+2999,Lily Nguyen,Fiction,3063.1,1266,2021
+3000,Sofia Cheng,Romance,314.59,1267,2020
+3001,Claudia Downs,Sci-Fi,71.65,1268,2035
+3002,Gabriela Ramirez,History,4119.19,1269,2023
+3003,Deanna Leonard,Sci-Fi,282.51,1270,2020
+3004,Diane Gonzalez,Sci-Fi,1251.7,1271,2022
+3005,Henry Gregory,History,1743.62,1272,2019
+3006,Alexander Wagner,Romance,525.91,1273,2023
+3007,Shannon Hudson,Fiction,222.47,1274,2020
+3008,Kathy Baker,Romance,2699.84,1275,2021
+3009,Robert Sullivan,Fiction,619,1276,2019
+3010,Kristina Shaffer,NA,-96.54,1277,2020
+3011,Susan Williams,Sci-Fi,4220.12,1278,2035
+3012,Colleen Manning,NA,1167.62,1279,2023
+3013,Elizabeth Bradford,NA,361.49,1280,2022
+3014,Michael Morales,Sci-Fi,3280.88,1281,2035
+3015,Mark Cain,NA,946.84,1282,2021
+3016,Ashley Owens,Sci-Fi,1874.07,1283,2021
+3017,Anna Hicks,Fiction,647.41,1284,2035
+3018,Nicholas Johnston,NA,454.19,1285,2019
+3019,Eric Gates,NA,-54.67,1286,2019
+3020,Mr. William Henry,NA,4163.36,1287,2022
+3021,Sarah Stewart,Sci-Fi,3600.33,1288,2021
+3022,Andrew Morris,History,4496.42,1289,2022
+3023,Jeremy Benton,Fiction ,2211.24,1290,2018
+3024,Connor Riley,History,4670.34,1291,2020
+3025,Scott Douglas,NA,1900.88,1292,2019
+3026,Brian Colon,Fiction ,4733.76,1293,2021
+3027,Kimberly Galloway,Romance,2484.59,1294,2035
+3028,Christopher Lee,Sci-Fi,577.2,1295,2021
+3029,Adam Miles,Fiction ,4820.12,1296,2021
+3030,Theresa Martinez,Sci-Fi,3921.89,1297,2035
+3031,Ronald Jordan,NA,363.55,1298,2022
+3032,Sierra Padilla,Sci-Fi,4231.11,1299,2023
+3033,Felicia Gomez,Fiction,4730.97,1300,2020
+3034,Rachael Thomas,NA,3329.24,1301,2022
+3035,Samuel Meyer,Fiction,-46.96,1302,2020
+3036,Danny Schroeder,History,2443.33,1303,2022
+3037,Tammy Oneill,NA,1598.22,1304,2021
+3038,Joan Kennedy,NA,4548.92,1305,2021
+3039,Noah Fernandez,Fiction ,2220.45,1306,2021
+3040,Evan Conway,History,1087.63,1307,2021
+3041,Ronald Johnson,Sci-Fi,258.32,1308,2023
+3042,Dean Barrera,Romance,2548.99,1309,2022
+3043,Kimberly Farmer,NA,599.01,1310,2021
+3044,Victor Sampson,Sci-Fi,4223.55,1311,2035
+3045,Nicole Nelson,Sci-Fi,2951.55,1312,2021
+3046,Mark Welch,NA,-62.46,1313,2021
+3047,Katie Giles,Fiction ,444.74,1314,2022
+3048,Dana Cabrera,Fiction,570.64,1315,2018
+3049,Shannon Fitzgerald,Sci-Fi,1005.86,1316,2021
+3050,Cheryl Russell,Sci-Fi,638.18,1317,2021
+3051,Matthew Nguyen,NA,3498.45,1318,2023
+3052,Amanda Strong,Fiction,-63.76,1319,2020
+3053,Tiffany Leonard,Fiction,3254.38,1320,2020
+3054,Amy Davis,History,646.25,1321,2019
+3055,Melanie King,Romance,3684.54,1322,2021
+3056,Kelly Mack,NA,779.81,1323,2020
+3057,Jonathan Solis,Fiction,4848.26,1324,2023
+3058,Craig Espinoza,Fiction ,4564.25,1325,2019
+3059,Anthony Griffith,Fiction,4330.03,1326,2022
+3060,Shannon Valdez,History,4149.49,1327,2022
+3061,Amanda Maddox,Sci-Fi,549.32,1328,2023
+3062,Thomas Davila,NA,4223.49,1329,2020
+3063,Kimberly Johnson,NA,-10.27,1330,2022
+3064,Kyle Dominguez,Sci-Fi,3890.84,1331,2019
+3065,Sean Garner,Fiction,4621.19,1332,2019
+3066,Wayne Miller,Sci-Fi,134.55,1333,2021
+3067,James Spencer,Sci-Fi,4095.61,1334,2018
+3068,Todd Andrews,NA,4110.62,1335,2021
+3069,Mary Ramos,NA,3171.98,1336,2020
+3070,Paige Hardy,Sci-Fi,4026.36,1337,2023
+3071,Christina Powell,NA,3743.67,1338,2019
+3072,Dwayne Sherman,Sci-Fi,4679.6,1339,2018
+3073,James Brown,Fiction ,1629.27,1340,2035
+3074,Danielle Moore,Fiction,-23.28,1341,2021
+3075,Christopher Mcknight,NA,4229.37,1342,2020
+3076,April Bush,Romance,4137.78,1343,2021
+3077,Jonathan Conrad,History,2244.96,1344,2022
+3078,Miranda Foster,Fiction,2497.45,1345,2035
+3079,Kimberly Marshall,History,3408.29,1346,2021
+3080,Jordan Fowler,History,3131.99,1347,2022
+3081,Kevin Mooney,NA,4456.18,1348,2021
+3082,Brandon King,Sci-Fi,1115.89,1349,2018
+3083,Nancy Owens,Romance,798.36,1350,2018
+3084,Kevin Decker,History,507.9,1351,2019
+3085,Alicia Allen MD,NA,64.39,1352,2023
+3086,Brian Hall,Sci-Fi,632.06,1353,2021
+3087,Megan Mendez,History,-94.93,1354,2035
+3088,Wendy Todd,Sci-Fi,2667.85,1355,2035
+3089,Martha Thompson,Romance,1981.54,1356,2019
+3090,Matthew Robinson,Fiction,4603.86,1357,2018
+3091,Dennis Stephens,NA,4912.45,1358,2035
+3092,Dr. Rachel Flores,Fiction,2549.61,1359,2022
+3093,Christine Davis,NA,2599.12,1360,2019
+3094,Yvonne Arias,Fiction,321.63,1361,2018
+3095,Anita Martinez,Fiction ,901.31,1362,2020
+3096,David Nelson,Fiction ,284.24,1363,2021
+3097,Hailey Cooley,Fiction,235.06,1364,2019
+3098,Susan Lee,Sci-Fi,1965.74,1365,2021
+3099,Todd Gross,Fiction,560.73,1366,2019
+3100,Todd Watson,Fiction ,1807.8,1367,2020
+3101,Daniel Patterson,Fiction ,3575.61,1368,2018
+3102,Ernest Mcdonald,NA,3817.12,1369,2019
+3103,Barbara Taylor,History,1695.17,1370,2021
+3104,Catherine Mullen,Romance,4494.86,1371,2021
+3105,Joseph Wilson,Fiction ,2158.68,1372,2035
+3106,April Blankenship,Sci-Fi,4685.45,1373,2022
+3107,Mario Wang,Romance,2710.58,1374,2019
+3108,Mike Davis,Fiction,3242.56,1375,2035
+3109,Jason Myers,Sci-Fi,1927.27,1376,2019
+3110,Diana Cooper,Romance,3898.11,1377,2021
+3111,Tracy Johnson,Sci-Fi,1551.26,1378,2018
+3112,Julie Rios,Sci-Fi,1937.81,1379,2021
+3113,Jeffrey Norman,Sci-Fi,2644.01,1380,2020
+3114,Jennifer Cain,Fiction ,-89.99,1381,2021
+3115,Dr. Daniel Dixon,Fiction,4494.66,1382,2018
+3116,Darin Brown,Romance,4023.67,1383,2035
+3117,Brianna Rivera,NA,2156.58,1384,2019
+3118,James White,Romance,2181.24,1385,2021
+3119,Lori Elliott,Romance,2951.51,1386,2020
+3120,Matthew Clay,History,2233.07,1387,2035
+3121,Tiffany Rodriguez,Fiction,3104.28,1388,2035
+3122,Stephanie Hampton,Sci-Fi,1160.14,1389,2022
+3123,Gina Novak,Sci-Fi,2300.96,1390,2022
+3124,Brandon Henson,NA,1823.41,1391,2021
+3125,Jose Garcia,NA,383.82,1392,2021
+3126,Frederick Bailey,Romance,146.87,1393,2023
+3127,Michelle Perry,NA,1049.92,1394,2020
+3128,Andrew Wood,Sci-Fi,1996.78,1395,2021
+3129,Michael Rose,Sci-Fi,1532.82,1396,2019
+3130,William Haynes,Fiction ,1003.28,1397,2035
+3131,John Jenkins,Sci-Fi,46.96,1398,2022
+3132,Ethan Powell,NA,1801.59,1399,2035
+3133,Julie Gates,Sci-Fi,2548.92,1400,2018
+3134,Tracy Sexton,NA,4162,1401,2022
+3135,Tyler Hall,Fiction ,3661.66,1402,2035
+3136,Adrienne Benson,History,4778.53,1403,2018
+3137,Barbara Martinez,Sci-Fi,3648.85,1404,2018
+3138,Jerry Baxter,NA,4903.48,1405,2035
+3139,Edward Pena,NA,4690.58,1406,2023
+3140,Annette Miller,History,2080.29,1407,2023
+3141,Erik Terry,NA,4009.52,1408,2019
+3142,Kimberly Perez,NA,3886.99,1409,2023
+3143,Lisa Scott,Romance,4093.68,1410,2018
+3144,Kelly Powell,History,1919.49,1411,2023
+3145,Brenda Page,NA,3217.93,1412,2023
+3146,Jose Curtis,Romance,4150.91,1413,2018
+3147,Anne Jones,Romance,875.84,1414,2020
+3148,Kayla Bennett,Sci-Fi,3509.75,1415,2035
+3149,Vanessa Johnson,Fiction,4773.44,1416,2022
+3150,Teresa Garrett,Sci-Fi,2782.01,1417,2021
+3151,Amanda Cox,Fiction,513.82,1418,2021
+3152,Cynthia Cabrera,Fiction ,2243.08,1419,2035
+3153,Mrs. Diane Mckee,Sci-Fi,3283.91,1420,2035
+3154,Mark Santos,History,434.13,1421,2021
+3155,Tyler Jones,Romance,2068.67,1422,2019
+3156,Michael Underwood,Sci-Fi,1511.37,1423,2022
+3157,Drew Thomas,NA,4072.41,1424,2035
+3158,Kevin Wagner,Sci-Fi,2084.1,1425,2021
+3159,Kelly Allen,Romance,1772.46,1426,2020
+3160,Dan Chen,Romance,4920.32,1427,2018
+3161,Christopher Ashley,Fiction ,4019.09,1428,2021
+3162,Andrew Martinez,Sci-Fi,1553.96,1429,2023
+3163,Patricia Guerrero,Romance,3301.55,1430,2023
+3164,William Gordon,Romance,4195.09,1431,2021
+3165,Kelly Hale,Sci-Fi,312.53,1432,2021
+3166,Mary Bailey,Fiction,1036.45,1433,2023
+3167,Tina Fischer,Fiction,453.03,1434,2023
+3168,Christine Ramirez,Fiction ,443.72,1435,2022
+3169,Nicole Henson,Sci-Fi,2604.94,1436,2018
+3170,Joshua Copeland,History,426.24,1437,2019
+3171,Allison Hughes,NA,2928.13,1438,2021
+3172,Kendra Myers,Fiction,681.39,1439,2022
+3173,Kelly Wilson,Sci-Fi,4239.28,1440,2035
+3174,Christina Fox,Fiction ,2549.8,1441,2021
+3175,John Delgado,Romance,4150.59,1442,2022
+3176,Danielle Bauer,NA,3013.57,1443,2021
+3177,Tara Wood,NA,1093.98,1444,2020
+3178,Amber Spencer,NA,4189.45,1445,2023
+3179,Beth Acevedo,Sci-Fi,2192.9,1446,2020
+3180,Jennifer Ward,Fiction ,1527.05,1447,2023
+3181,Lisa Hubbard,Romance,4131.11,1448,2021
+3182,Andrew Garcia,NA,2775.71,1449,2035
+3183,Tonya Smith,Sci-Fi,2162.56,1450,2021
+3184,Alexis King,Fiction ,3836.97,1451,2020
+3185,Connie Wright,Fiction ,1851.33,1452,2020
+3186,Mrs. Donna Pierce,Romance,1958.81,1453,2019
+3187,Brandon Medina,Fiction,1194.28,1454,2035
+3188,John Bullock,Romance,2621.09,1455,2035
+3189,Jessica Johnson,NA,3578.08,1456,2023
+3190,Jennifer Stevens,NA,360.8,1457,2035
+3191,Scott Jefferson,History,2756,1458,2023
+3192,Jose Jenkins,Fiction,4391.34,1459,2018
+3193,George Morgan,NA,4475.69,1460,2020
+3194,Joshua Mcmillan,Fiction,4991.46,1461,2035
+3195,Justin Davis,Fiction,3398.89,1462,2021
+3196,Anthony Oneill,Sci-Fi,3804.56,1463,2018
+3197,Mary Santos,NA,563.05,1464,2022
+3198,Shelby Ramirez,Fiction,4002.62,1465,2023
+3199,Rachel Alvarado,Romance,917.66,1466,2035
+3200,Sydney Singh,Fiction,3300.72,1467,2018
+3201,Jennifer Stevens,History,1142.35,1468,2019
+3202,Nancy Austin,Fiction,1367.09,1469,2020
+3203,George Luna,Sci-Fi,1567.53,1470,2021
+3204,Samuel Bell,NA,4534.61,1471,2019
+3205,James Davis,Fiction,3292.16,1472,2021
+3206,David Hood,Sci-Fi,3970.78,1473,2021
+3207,Nicholas Reyes,Sci-Fi,3620.69,1474,2022
+3208,Zachary Schmidt,Sci-Fi,3686.08,1475,2021
+3209,Wesley Carson,Sci-Fi,664.36,1476,2018
+3210,Derek Barker,Fiction ,3452.42,1477,2021
+3211,Charles Hampton,Fiction,694.94,1478,2018
+3212,Renee Mcmahon,Sci-Fi,2762.38,1479,2019
+3213,Jonathon Byrd,History,4735.48,1480,2035
+3214,Sabrina Miller,Sci-Fi,4220.62,1481,2018
+3215,Bradley Hill,NA,-42,1482,2019
+3216,Barbara Wilson,Romance,1204.6,1483,2018
+3217,James Thomas,Sci-Fi,1954.48,1484,2020
+3218,Stephanie Moore,Fiction ,222.88,1485,2020
+3219,Susan Turner,Sci-Fi,1253.32,1486,2018
+3220,Brian Hahn,Sci-Fi,3255.41,1487,2035
+3221,Matthew Trevino,Sci-Fi,3180.92,1488,2021
+3222,Leslie Jackson,NA,4778.64,1489,2035
+3223,Karen Taylor,Sci-Fi,1790.89,1490,2018
+3224,Michael Curtis,NA,836.64,1491,2021
+3225,Heather Mccormick,Fiction,3317.81,1492,2020
+3226,Susan Knight,History,3458.46,1493,2022
+3227,Alex Lee,History,1703.76,1494,2019
+3228,Colton Hutchinson,Fiction ,885.23,1495,2018
+3229,Jimmy Smith,Romance,1916.36,1496,2021
+3230,Joseph Dixon,Sci-Fi,485.93,1497,2018
+3231,Amy Flores,Fiction,4594.88,1498,2021
+3232,Troy Bowman II,Fiction,3073.2,1499,2023
+3233,Hayden Good,NA,3160.33,1500,2035
+3234,Daniel Wilkins,Romance,819.34,1501,2022
+3235,Brittany Harrison,Sci-Fi,823.93,1502,2035
+3236,Jonathan Williams,Romance,1696.89,1503,2035
+3237,Michelle Cooper,Sci-Fi,580.42,1504,2020
+3238,Matthew Parker,Romance,4048.94,1505,2020
+3239,Victoria Kim,Sci-Fi,4796.6,1506,2035
+3240,Sara Johnson,NA,4883.01,1507,2023
+3241,Tiffany Branch,NA,369.44,1508,2018
+3242,Samuel Ruiz,Fiction,2185.36,1509,2021
+3243,Yvonne Smith,History,3351.95,1510,2020
+3244,Andrew Boone,Fiction ,1456.96,1511,2023
+3245,Jonathon Ortega,NA,4330.55,1512,2018
+3246,Erin Sullivan,Fiction,3529.99,1513,2021
+3247,Sarah Torres,NA,4300.52,1514,2022
+3248,Kathy Davis,Fiction,4645.15,1515,2022
+3249,Cynthia Dougherty,Fiction ,2336.54,1516,2020
+3250,Cynthia Price,History,834.75,1517,2020
+3251,Timothy Leon,NA,3476.54,1518,2022
+3252,Michael Collins,NA,2408.05,1519,2021
+3253,Jennifer Garcia,Romance,3848.68,1520,2023
+3254,Tasha Hess,Fiction,4965.74,1521,2021
+3255,Regina Jones,Sci-Fi,3117.71,1522,2021
+3256,James Nelson,Fiction,4089.97,1523,2035
+3257,Adam Robertson,Fiction,2395.07,1524,2035
+3258,Brandi Munoz,Sci-Fi,3426.82,1525,2021
+3259,Frank Brown,History,1800.71,1526,2018
+3260,Lisa Lewis,Romance,57.14,1527,2035
+3261,Robert Cardenas,NA,1730.78,1528,2020
+3262,Nicole Barry,Fiction,3239.66,1529,2021
+3263,Tyler Martin,Fiction ,4878.13,1530,2020
+3264,Angela Rogers,Sci-Fi,2656.31,1531,2022
+3265,Eric Christian,Fiction ,1787.24,1532,2020
+3266,Russell Anderson DDS,Sci-Fi,1009.04,1533,2019
+3267,Christopher Stewart,Sci-Fi,601.98,1534,2035
+3268,Linda Cook,History,373.57,1535,2023
+3269,Jennifer Chen,Sci-Fi,4715.19,1536,2035
+3270,Jennifer Johnson,Fiction ,1058.57,1537,2021
+3271,Shaun Moore,Sci-Fi,752.3,1538,2021
+3272,Justin Murphy,Fiction ,4030.7,1539,2018
+3273,James Ramirez,History,2844.45,1540,2023
+3274,Stephen Green,NA,4328.94,1541,2021
+3275,Thomas Hoffman,Fiction ,1018.4,1542,2018
+3276,Jeffrey Cooper,Sci-Fi,535.03,1543,2019
+3277,Tyler Sanchez,Sci-Fi,66.14,1544,2035
+3278,Joshua Mccann,Fiction,1970.63,1545,2021
+3279,Paula Haynes,NA,3336.28,1546,2019
+3280,Marie Buchanan,Romance,1740.59,1547,2018
+3281,Jason Villanueva,Romance,2836.07,1548,2019
+3282,Eric Clark,Fiction ,2503.67,1549,2022
+3283,Craig Jones,NA,991.37,1550,2035
+3284,Mckenzie Cowan,NA,3079.89,1551,2020
+3285,Justin Martin,Fiction ,3918.37,1552,2022
+3286,Kevin Todd,NA,-93.75,1553,2022
+3287,David Morgan,Sci-Fi,1653.63,1554,2021
+3288,Jessica Gallegos,Sci-Fi,3070.07,1555,2018
+3289,Kristen Bryan,Fiction ,3812.21,1556,2023
+3290,Eric Snow,Romance,3859.95,1557,2019
+3291,Debra Phillips,History,63.84,1558,2022
+3292,Joshua Wade,Sci-Fi,3177.31,1559,2018
+3293,Victoria Lamb,Fiction ,669.82,1560,2021
+3294,Amy Bryant,History,361.02,1561,2023
+3295,Randall Hawkins,NA,250.43,1562,2023
+3296,Michael Velasquez,Romance,185.51,1563,2022
+3297,Timothy Howard,NA,4661.54,1564,2022
+3298,Eric Taylor,NA,2644.47,1565,2019
+3299,Scott Romero,NA,3457.66,1566,2020
+3300,David Pham,Sci-Fi,2591.89,1567,2021
+3301,Mary Williams,Romance,32.01,1568,2035
+3302,Latoya Taylor PhD,Sci-Fi,843.02,1569,2021
+3303,Cody Gibbs,NA,3716.74,1570,2035
+3304,Duane Christian,Fiction,138.03,1571,2020
+3305,Derek Brown,NA,2718.46,1572,2021
+3306,Dr. Jordan Davis,Fiction,240.94,1573,2019
+3307,Edward Lewis,History,3997.03,1574,2021
+3308,Anthony Barnes,History,4649.83,1575,2019
+3309,Kim Blankenship,Fiction,674.47,1576,2021
+3310,Brenda Reynolds,Fiction,2009.23,1577,2019
+3311,Jennifer Cooper,History,349.46,1578,2035
+3312,Kyle Adams,NA,220.81,1579,2035
+3313,Susan Powers,Sci-Fi,1647.69,1580,2035
+3314,Michelle Casey,NA,4456.8,1581,2022
+3315,Roger Massey,NA,4389.04,1582,2020
+3316,Rachel Frank,Sci-Fi,3424.03,1583,2021
+3317,Stephen Smith,Sci-Fi,2705.96,1584,2020
+3318,Lawrence Henderson,Fiction ,3808.24,1585,2018
+3319,Jimmy Jones,Sci-Fi,2222.66,1586,2020
+3320,Jonathan Anderson,Sci-Fi,-1.64,1587,2019
+3321,Samantha Ellis DDS,History,4339.05,1588,2021
+3322,Debra Ellis,NA,2673.67,1589,2023
+3323,Joshua Ortiz,Romance,672.04,1590,2018
+3324,Nancy Mcdowell,History,837.69,1591,2018
+3325,Sandra Smith,NA,3898,1592,2022
+3326,Joy Miller,History,300.18,1593,2023
+3327,Robert Ortiz,Sci-Fi,3988.79,1594,2021
+3328,James Juarez,Romance,3872.02,1595,2020
+3329,Ms. Darlene Gonzalez DDS,Fiction,3716.67,1596,2019
+3330,Jasmine Houston,NA,4928.56,1597,2035
+3331,Kirk Sharp,Sci-Fi,3701.78,1598,2018
+3332,Daniel Brown,Sci-Fi,1962.12,1599,2019
+3333,Joshua Smith,Romance,3203.47,1600,2018
+3334,Elijah Porter,Fiction,1452.66,1601,2020
+3335,Jamie Buckley,NA,1176.12,1602,2019
+3336,Paula Benton,Fiction ,3598,1603,2021
+3337,Thomas Campos,NA,2190.09,1604,2020
+3338,Andrew Brown,Fiction ,1738.06,1605,2035
+3339,Suzanne King,Fiction ,2326.34,1606,2021
+3340,Jason Crane,History,1676.22,1607,2035
+3341,Christine Rhodes,Fiction ,2390.97,1608,2018
+3342,Tim Burch,Sci-Fi,4957.53,1609,2022
+3343,Victoria Williams,Sci-Fi,3185.46,1610,2021
+3344,Michael Schneider,Fiction,4438.2,1611,2019
+3345,Michele Johnson,History,2643.09,1612,2020
+3346,Edwin Pham,Sci-Fi,3763.77,1613,2035
+3347,Barbara Cuevas,NA,4248.07,1614,2023
+3348,Angela Jones PhD,Fiction ,2645.68,1615,2021
+3349,Nathan Torres,Sci-Fi,4478.69,1616,2023
+3350,Max Williams,Romance,3889.26,1617,2018
+3351,Megan Brown,Sci-Fi,2656.95,1618,2021
+3352,Andrea Jones,Romance,1697.87,1619,2020
+3353,Ricky Williams,Fiction,2827.46,1620,2022
+3354,Douglas Myers,Fiction ,2266.76,1621,2018
+3355,Maurice Jones,NA,1861.27,1622,2023
+3356,Ann Myers,NA,1474.41,1623,2021
+3357,Matthew Doyle,History,1946.26,1624,2020
+3358,Sarah Nixon,NA,1808.09,1625,2020
+3359,Jennifer Mcdowell,Romance,3512.88,1626,2022
+3360,Robert Mcbride,NA,2522.41,1627,2021
+3361,Cory Hobbs,Fiction ,4162.86,1628,2035
+3362,Lori Wheeler,History,4747.56,1629,2020
+3363,Charles Johnson,Fiction,3200.99,1630,2021
+3364,Brenda Rios,Sci-Fi,1711.45,1631,2021
+3365,Theresa Yates,Fiction,4345.12,1632,2019
+3366,Joseph Richard,NA,2522.12,1633,2021
+3367,Jennifer Hill,Fiction ,229.68,1634,2021
+3368,Kevin Robinson,NA,3825.23,1635,2035
+3369,Christine White,NA,1489.94,1636,2035
+3370,Darren Henderson,Fiction,884.72,1637,2035
+3371,Brittney Johnson,Romance,1035.71,1638,2021
+3372,Benjamin Williams,Sci-Fi,1669.01,1639,2019
+3373,Tony Holmes,NA,2858.08,1640,2020
+3374,Stephen Henry,Romance,3240.5,1641,2020
+3375,Jeffery Bishop,Sci-Fi,1411.32,1642,2020
+3376,Kenneth Mullins Jr.,History,1335.41,1643,2018
+3377,Amanda Schmidt,Romance,1789.77,1644,2035
+3378,Kaitlyn Rivera,Fiction,1279.73,1645,2023
+3379,Kara Andersen,Fiction,3039.85,1646,2035
+3380,Gordon Lewis,Sci-Fi,142.97,1647,2021
+3381,Aaron Chapman,NA,4991.53,1648,2018
+3382,James Powell,NA,3368.93,1649,2035
+3383,Kayla Richardson,Romance,2937.7,1650,2022
+3384,Andrea Fox,Sci-Fi,4390.35,1651,2023
+3385,Melanie Gomez,History,2397.67,1652,2023
+3386,Jimmy Cruz,Sci-Fi,1834.77,1653,2035
+3387,Vanessa Cox,Sci-Fi,4174.57,1654,2023
+3388,Richard Daniels,NA,4437.47,1655,2021
+3389,Jason Cunningham,NA,2782.88,1656,2022
+3390,Rebecca Lewis,History,2209.56,1657,2019
+3391,Michael Richard,Romance,172,1658,2020
+3392,Ryan Mullen,Fiction ,2378.31,1659,2019
+3393,Nina Lane,NA,3675.35,1660,2020
+3394,Kevin Palmer,Fiction ,3762.78,1661,2020
+3395,Megan Brown,Sci-Fi,1769.05,1662,2020
+3396,Jerry Meyers,Sci-Fi,3193.68,1663,2022
+3397,Amanda Perry,Fiction ,999.44,1664,2022
+3398,Craig Wells,Romance,1387.68,1665,2023
+3399,Barbara Jones,Romance,4661.2,1666,2023
+3400,Elizabeth Simpson,Sci-Fi,229.94,1667,2021
+3401,Cassandra Gonzales,Fiction,3771.3,1668,2019
+3402,Diana White,NA,262.54,1669,2019
+3403,Diane Mcdaniel,NA,234.85,1670,2019
+3404,Adam Vaughn,Sci-Fi,1180.57,1671,2021
+3405,Michael Keller,NA,4783.12,1672,2021
+3406,Jesus Cruz,Romance,4409.34,1673,2021
+3407,Charles Farmer,Fiction,4498.11,1674,2022
+3408,Nicole Watkins,Sci-Fi,3292.32,1675,2020
+3409,Jessica Watson,Sci-Fi,2366.5,1676,2020
+3410,Bradley Perry,Romance,3296.13,1677,2019
+3411,Laurie Schmidt,NA,2575.62,1678,2021
+3412,Kristen Rogers,Sci-Fi,4468.87,1679,2022
+3413,Allen Mcdonald,NA,4833.1,1680,2020
+3414,Matthew Joseph,Fiction ,1756.46,1681,2018
+3415,Thomas Hodges,Romance,3880.86,1682,2022
+3416,Tyler Turner,Fiction,1462.55,1683,2019
+3417,Melissa Meyer,Fiction ,1484.57,1684,2018
+3418,Jay Chavez,Fiction,999.89,1685,2018
+3419,Erica Hamilton MD,Fiction,2727.7,1686,2020
+3420,Timothy Johnson,Sci-Fi,3655.31,1687,2022
+3421,Don Lynch,NA,718.6,1688,2020
+3422,Megan Hahn,Romance,480.48,1689,2020
+3423,John Garner,Sci-Fi,4828.93,1690,2021
+3424,Raymond Li,History,4681.62,1691,2018
+3425,Carl Thomas,NA,713.7,1692,2023
+3426,Kenneth Flores,History,3561.3,1693,2018
+3427,Tiffany Hill,Romance,2413.42,1694,2021
+3428,Melissa Hardy,Fiction,1985.33,1695,2019
+3429,Ralph Rodriguez,NA,4765.2,1696,2020
+3430,Denise Walker,NA,4133.49,1697,2019
+3431,Donald Wright,NA,1016.2,1698,2021
+3432,Susan Whitehead,Fiction,3059.14,1699,2035
+3433,Kelsey Higgins,Fiction,2709.34,1700,2022
+3434,Jonathan Kelly,Sci-Fi,3633.67,1701,2018
+3435,Adrian Miller,History,238.35,1702,2035
+3436,John Green,NA,1662.41,1703,2021
+3437,Madison Thomas,Fiction ,1777.71,1704,2018
+3438,Erin Norton,Sci-Fi,3319.28,1705,2019
+3439,Crystal Contreras,NA,3131.82,1706,2018
+3440,Tiffany Wheeler,NA,4411.59,1707,2018
+3441,Mrs. Melissa Ayala MD,Sci-Fi,3301.41,1708,2019
+3442,Stephanie Charles,Sci-Fi,3299.54,1709,2021
+3443,Michael Richardson,NA,4255.87,1710,2018
+3444,Joseph Henson,Fiction ,669.06,1711,2021
+3445,Patrick Arnold,NA,3937.91,1712,2022
+3446,Jermaine Petersen,NA,4609.96,1713,2023
+3447,Stephen Stewart,NA,901.86,1714,2019
+3448,Erin Hebert,Fiction,3594.9,1715,2023
+3449,Ashley Meza,Fiction ,1880.17,1716,2019
+3450,Nathan Gill,NA,4208.65,1717,2018
+3451,Misty Werner,Romance,3877.22,1718,2018
+3452,Stacey Garcia,Sci-Fi,3924.39,1719,2035
+3453,Cynthia Barry,Fiction ,1231.35,1720,2035
+3454,Megan Huber,NA,1880.57,1721,2019
+3455,Robert Welch,NA,643.36,1722,2022
+3456,Melissa Coleman,Sci-Fi,3781.7,1723,2022
+3457,Valerie Le,Romance,2432.16,1724,2019
+3458,Jonathan Smith,Fiction,1341.11,1725,2019
+3459,Anthony Shaw,NA,4816.38,1726,2020
+3460,Alyssa Butler,Fiction ,3722.88,1727,2023
+3461,Jonathan Jones,Sci-Fi,124.92,1728,2020
+3462,Caitlin Murray,Romance,2869.93,1729,2022
+3463,Jennifer Nguyen,Fiction ,577.46,1730,2023
+3464,Candace Booker,History,3090.2,1731,2021
+3465,Jason Thompson,Romance,1928.45,1732,2021
+3466,Bruce Jones,Romance,4015.7,1733,2021
+3467,Phillip Walter,Sci-Fi,2510.82,1734,2018
+3468,Denise Watts,Sci-Fi,466.01,1735,2023
+3469,Hannah Huffman,NA,2277.46,1736,2022
+3470,James Erickson,Romance,2665.16,1737,2035
+3471,Mark Moreno,NA,2129.64,1738,2019
+3472,Pamela Irwin,Sci-Fi,3888.87,1739,2021
+3473,Nicholas Foster,History,1536.6,1740,2019
+3474,Adriana Cook,Fiction ,4955.26,1741,2021
+3475,Maria Smith,Fiction ,833.13,1742,2035
+3476,Adam Castillo,Sci-Fi,2155.39,1743,2019
+3477,Shelia Manning,NA,1023.63,1744,2023
+3478,Charles Buckley,Sci-Fi,2772.09,1745,2018
+3479,Kara Martin,Romance,4235.53,1746,2020
+3480,Laura Jackson,NA,417.8,1747,2018
+3481,Angelica Brown,Fiction ,219.21,1748,2023
+3482,Adam Gibson,Sci-Fi,1436.18,1749,2020
+3483,Travis Meyers,NA,846.97,1750,2021
+3484,Heather Chavez,Sci-Fi,3211.03,1751,2018
+3485,Samuel Brown,NA,3507.78,1752,2022
+3486,Heather Smith,Sci-Fi,4799.45,1753,2019
+3487,Aaron Wiley,History,2466.28,1754,2035
+3488,Troy Burns,Fiction ,2987.36,1755,2019
+3489,Ronald Hernandez,Fiction,4905.17,1756,2022
+3490,Ernest Baldwin,Fiction,3493.28,1757,2020
+3491,Meagan Williamson,NA,4319.64,1758,2023
+3492,Danielle Mckenzie DDS,NA,258.72,1759,2018
+3493,Paul Jenkins,Sci-Fi,4276.65,1760,2018
+3494,Janet Farley,Romance,638.49,1761,2022
+3495,Mary Reynolds,Fiction ,898.58,1762,2023
+3496,Katie Lambert,History,4095.28,1763,2021
+3497,Paul Flores,Sci-Fi,3746.92,1764,2021
+3498,Logan Miller,NA,2882.38,1765,2022
+3499,Roger Sharp,Romance,1241.99,1766,2021
+3500,Matthew Ryan,NA,4984.99,1767,2022
+3501,Francisco Williams,Fiction ,3802.8,1768,2035
+3502,Richard Garcia,Romance,4119.3,1769,2023
+3503,Louis Chavez,Fiction ,2931.9,1770,2018
+3504,Megan Brooks,Fiction,3008.82,1771,2035
+3505,Christopher Hardy,NA,1009.49,1772,2020
+3506,Carol Martin,History,361.67,1773,2035
+3507,Anita Ramirez,Fiction ,1449.72,1774,2021
+3508,Kelsey Pratt,Sci-Fi,-64.11,1775,2019
+3509,Kimberly Sutton,Sci-Fi,4577.74,1776,2023
+3510,Gordon Reid,NA,4873.74,1777,2020
+3511,Troy Walton,Fiction ,3270.38,1778,2018
+3512,Amber Russell,NA,701.72,1779,2018
+3513,Brad Jones,NA,4328.26,1780,2020
+3514,Brady Trevino,History,4855.96,1781,2023
+3515,Charles Blair,Sci-Fi,2320.42,1782,2019
+3516,David Potter,Fiction ,3737.64,1783,2020
+3517,Jason Smith,Romance,133.13,1784,2022
+3518,Jeremy Allen,NA,-4.03,1785,2023
+3519,Thomas Potter,Romance,4811.95,1786,2021
+3520,Kelly Butler,Sci-Fi,254.19,1787,2022
+3521,Nina King,Fiction ,1651.35,1788,2022
+3522,Carrie Ray,NA,4537.54,1789,2035
+3523,Vanessa Stanley,History,815.3,1790,2023
+3524,Jacob Hayden,History,4377.45,1791,2020
+3525,Christopher Flores,NA,560.04,1792,2022
+3526,Kelly Sanchez,Sci-Fi,337.17,1793,2021
+3527,John Williams,NA,1095.93,1794,2021
+3528,Sarah Whitaker,Romance,1831.06,1795,2023
+3529,Lisa Walsh,Fiction ,1113.39,1796,2022
+3530,Sara Murphy,Fiction,4887.43,1797,2035
+3531,Scott Montoya,Sci-Fi,2121.73,1798,2022
+3532,Ashley Taylor,Fiction,3317.21,1799,2021
+3533,Brandon Davis,History,4944.02,1800,2020
+3534,Heather Wright,History,2768.31,1801,2019
+3535,Gabriel Phillips,Romance,4645.49,1802,2018
+3536,Annette Burke,Fiction ,1434.7,1803,2021
+3537,Anthony Swanson,Sci-Fi,645.67,1804,2021
+3538,Matthew Chavez,Sci-Fi,4286.16,1805,2019
+3539,Laura Hurley,Romance,2114.69,1806,2021
+3540,Bridget Miller,History,3568.14,1807,2035
+3541,Elizabeth Silva,Sci-Fi,4723.82,1808,2035
+3542,Joseph Berg,Fiction ,863.05,1809,2019
+3543,Louis Hansen,NA,872.63,1810,2018
+3544,Jessica Anderson,Sci-Fi,592.67,1811,2023
+3545,Lawrence Howard,Fiction ,4720.5,1812,2021
+3546,Stephanie Thornton,Fiction ,3224.23,1813,2023
+3547,Jennifer Smith,NA,4996.14,1814,2023
+3548,Natalie Harrison,Romance,1373.73,1815,2035
+3549,Timothy Cardenas,Sci-Fi,2050.02,1816,2020
+3550,Joshua Page,Fiction ,2692.91,1817,2023
+3551,Ashley Watkins,NA,3839.67,1818,2021
+3552,Steven Torres,Fiction,2079.92,1819,2021
+3553,Michelle Cooke,NA,405.13,1820,2021
+3554,Jennifer Murray,History,2012.89,1821,2022
+3555,Michael Miranda,Fiction,3203.4,1822,2023
+3556,Charlene Bailey,NA,834.55,1823,2018
+3557,Jacob Spencer,NA,1621.71,1824,2035
+3558,Eric King,NA,1505.73,1825,2023
+3559,Megan Williams,NA,3484.78,1826,2023
+3560,Kevin Wilson Jr.,NA,4837.92,1827,2020
+3561,Deborah Ingram,NA,2766.69,1828,2021
+3562,Michael Lee,History,4242.76,1829,2018
+3563,Scott Herrera,Romance,2814.71,1830,2022
+3564,Jessica Pennington,NA,3659.71,1831,2018
+3565,Larry Jackson,History,-4.46,1832,2021
+3566,Thomas Mckinney,History,4864.16,1833,2022
+3567,Kenneth Lindsey,Fiction,4707.48,1834,2018
+3568,Andrea Hall,NA,1437.89,1835,2019
+3569,Cory Greene,NA,837.5,1836,2020
+3570,Katherine Pennington,History,2040.89,1837,2020
+3571,Jacob Mccarthy,History,948.56,1838,2035
+3572,Alyssa Young,Fiction ,3076.11,1839,2018
+3573,Michelle Caldwell,Fiction ,2233.43,1840,2018
+3574,Angela Gregory,Fiction,1406.85,1841,2019
+3575,Michelle Lambert,Fiction ,1274.16,1842,2018
+3576,Jane Gross,Fiction,1591.34,1843,2022
+3577,Tara Hopkins,Sci-Fi,4925.49,1844,2019
+3578,Summer Henry,Sci-Fi,3324.18,1845,2021
+3579,Jerry Pittman,History,4772.05,1846,2019
+3580,Andrew Edwards,History,302.45,1847,2021
+3581,Mindy Moon,NA,4296.22,1848,2023
+3582,Curtis Ortega,History,283.82,1849,2018
+3583,Timothy Byrd,Sci-Fi,2701.01,1850,2021
+3584,Steven Stout,Sci-Fi,1485.91,1851,2021
+3585,Michael Watts,Sci-Fi,481.57,1852,2023
+3586,Jonathan Marquez,Fiction ,2151.85,1853,2035
+3587,Robert Hall,Sci-Fi,3069.66,1854,2021
+3588,Valerie Stewart,Fiction,1573.21,1855,2020
+3589,Gabrielle Navarro,History,4631.27,1856,2021
+3590,Kimberly Arnold,Fiction ,337.12,1857,2021
+3591,Henry Mcbride,Sci-Fi,1463.03,1858,2023
+3592,Mary Shaw,History,2936.89,1859,2020
+3593,Pam Smith,Sci-Fi,3368.11,1860,2018
+3594,Jennifer Taylor,Sci-Fi,809.16,1861,2022
+3595,Jose Solis,NA,1440.4,1862,2023
+3596,Leslie Cunningham,Sci-Fi,3870.09,1863,2020
+3597,Kara Rodriguez MD,History,2772.02,1864,2023
+3598,Zachary Moore,Fiction ,947.41,1865,2020
+3599,Allison Clark,NA,3101.61,1866,2022
+3600,Karen Trujillo,History,4217.27,1867,2018
+3601,Brian Edwards,Romance,2009.44,1868,2018
+3602,Edward Foster,Sci-Fi,713.77,1869,2022
+3603,Wendy Johnson,History,4970.85,1870,2021
+3604,Robert White,History,1891.81,1871,2018
+3605,Sara Salas,Romance,4335.59,1872,2021
+3606,Katherine Boyd,Romance,2493.01,1873,2021
+3607,Matthew Horton,NA,4947.45,1874,2022
+3608,Kathy Sanchez,Romance,4507.69,1875,2019
+3609,Matthew Velazquez,NA,2762.59,1876,2022
+3610,Mr. Robert Freeman MD,Sci-Fi,970.59,1877,2020
+3611,Christina Hansen,Fiction,4861.42,1878,2035
+3612,Michael Smith,Fiction,2511.02,1879,2023
+3613,Jesus Murray,NA,867,1880,2020
+3614,Alyssa Mcdonald,Sci-Fi,100.95,1881,2018
+3615,Angel Bradley,Sci-Fi,3817.64,1882,2020
+3616,Julie Wells,NA,2179.58,1883,2021
+3617,Timothy Singleton,Romance,4423.06,1884,2018
+3618,John Jennings,History,2704.94,1885,2019
+3619,Alyssa Wright,Sci-Fi,2777.78,1886,2018
+3620,Eric Mitchell,NA,1377.41,1887,2021
+3621,David Allen,NA,3115.22,1888,2035
+3622,Marc Dickerson,Sci-Fi,144.52,1889,2020
+3623,Kimberly Hill,NA,1904.85,1890,2021
+3624,Anthony Carroll,Sci-Fi,4543.81,1891,2022
+3625,Veronica Pope,NA,2384.94,1892,2019
+3626,Mark Ortiz,NA,4367.65,1893,2022
+3627,Michael Perez,Sci-Fi,2146.09,1894,2020
+3628,Elizabeth Davis,Sci-Fi,2828.19,1895,2021
+3629,Deanna Stark,Fiction ,1815.76,1896,2018
+3630,Patrick Carter,Sci-Fi,1218.11,1897,2018
+3631,Lori Bailey,Fiction,3068.21,1898,2022
+3632,Mitchell Johnston,Romance,3570.79,1899,2023
+3633,Joseph Stephens,NA,2813.92,1900,2019
+3634,Todd Deleon,Romance,2206.66,1901,2022
+3635,Kelly Terrell,Fiction ,3550.64,1902,2022
+3636,Kyle Morris,Fiction ,3439.57,1903,2035
+3637,Andrew Hughes,Fiction,4575.65,1904,2021
+3638,Diane Golden,Fiction,3235.07,1905,2021
+3639,Christina Donovan,NA,42.46,1906,2022
+3640,Christopher Bennett,Fiction,4441.12,1907,2022
+3641,Yvonne Hernandez,Sci-Fi,1791.3,1908,2035
+3642,Heather Torres,NA,4545.9,1909,2018
+3643,Aaron Dixon,Fiction,4063.94,1910,2020
+3644,Sandra Patterson,Fiction,291.64,1911,2021
+3645,Felicia Hall,NA,4949.64,1912,2022
+3646,David Garcia,Fiction ,4806.59,1913,2022
+3647,Rhonda Mcmahon,NA,957.01,1914,2021
+3648,Ebony Wheeler,Fiction ,4946.88,1915,2035
+3649,Troy Hall,Sci-Fi,4926.19,1916,2020
+3650,Alexandra Ewing,NA,95.19,1917,2021
+3651,Christine Hernandez,Fiction,4536.63,1918,2019
+3652,Joseph Williams,Sci-Fi,1585.02,1919,2021
+3653,Joseph Diaz,Sci-Fi,2647.91,1920,2021
+3654,Kathryn Armstrong,Sci-Fi,3631.52,1921,2022
+3655,Theresa Yu,NA,4443.58,1922,2018
+3656,Kevin Lam,Romance,1172.81,1923,2020
+3657,Lori Wells,Sci-Fi,4231.55,1924,2035
+3658,Jennifer Brooks,Sci-Fi,3812.32,1925,2019
+3659,Mr. Joseph Morgan,NA,4468.87,1926,2020
+3660,Angela Porter,History,4009.62,1927,2023
+3661,William Bailey,Romance,4260.04,1928,2021
+3662,Monique Stephenson,NA,1862.18,1929,2035
+3663,Courtney Rodriguez,Romance,984.48,1930,2022
+3664,Kevin Phillips,NA,969.24,1931,2023
+3665,Antonio Moore,Sci-Fi,2453.21,1932,2021
+3666,Shawn Gross,NA,430.59,1933,2035
+3667,Laura Stanton,Romance,-46.3,1934,2021
+3668,Julie Peterson,History,4226.63,1935,2022
+3669,Chelsea Miller,Sci-Fi,123.09,1936,2022
+3670,Patricia Romero,Fiction ,474.41,1937,2018
+3671,Brandy Cook,Sci-Fi,1831.26,1938,2022
+3672,David Gonzalez,Fiction,229.5,1939,2021
+3673,Mark Golden,Fiction,192.04,1940,2019
+3674,Jason Sanchez,Sci-Fi,1660.95,1941,2019
+3675,Krystal Miller,Romance,4567.21,1942,2022
+3676,Sharon Jones,Sci-Fi,4543.59,1943,2022
+3677,Kathryn Shelton,Fiction ,1940.14,1944,2021
+3678,Trevor Davidson,Fiction,1799.23,1945,2020
+3679,Jennifer Davis,Sci-Fi,182.64,1946,2022
+3680,Tina Brooks,NA,3702.67,1947,2023
+3681,Diana Allen,Fiction ,721.19,1948,2022
+3682,Angela Luna,Fiction ,3657.02,1949,2021
+3683,Adam Jones,Romance,3569.79,1950,2020
+3684,Lawrence Torres,Sci-Fi,615.08,1951,2020
+3685,Mary Carroll,Romance,704.93,1952,2021
+3686,Benjamin Christensen,Fiction,4576.54,1953,2020
+3687,Anna Martinez,NA,1875.81,1954,2021
+3688,Makayla Thomas,Sci-Fi,343.59,1955,2035
+3689,Phillip Vazquez,Romance,1884.19,1956,2019
+3690,Jennifer Hardy,Sci-Fi,4789.03,1957,2018
+3691,Leah Hancock,NA,4773.46,1958,2035
+3692,Cynthia Thomas,Sci-Fi,3491.59,1959,2018
+3693,Blake Roman,Romance,4836.24,1960,2023
+3694,Kelly Marks,Romance,1725.13,1961,2022
+3695,Jeffrey Steele,Fiction ,1679.9,1962,2018
+3696,Tyler Roberts,Romance,2959.24,1963,2018
+3697,James Allen,History,177.66,1964,2018
+3698,Angela Bowman,Romance,1619.44,1965,2020
+3699,Amy Clayton,Sci-Fi,4115.14,1966,2020
+3700,Karen Tate,History,818.8,1967,2021
+3701,Carrie Carter,Fiction ,3648.14,1968,2019
+3702,Marissa Berry,Fiction,997.41,1969,2019
+3703,Valerie Kennedy,Fiction,3817.24,1970,2022
+3704,Robert Johnson,NA,2256.15,1971,2021
+3705,Marissa Johnson,History,2456.96,1972,2021
+3706,Mr. Brian Carter,Romance,1142.56,1973,2020
+3707,Linda Brown,Romance,2427.69,1974,2022
+3708,Javier Rodriguez,History,1590.04,1975,2023
+3709,John Daniels,Fiction,164.16,1976,2021
+3710,Sonya Baldwin,Sci-Fi,943.24,1977,2023
+3711,Troy Morton,Fiction ,129.2,1978,2020
+3712,Anthony Carpenter,NA,3039.05,1979,2022
+3713,Jessica Jacobs,History,2392.23,1980,2035
+3714,Carrie Mason,Fiction,4543.57,1981,2035
+3715,Mark Tran,Sci-Fi,661.85,1982,2021
+3716,Robert Simpson,NA,600.89,1983,2021
+3717,Derrick Reed,Sci-Fi,1179.19,1984,2021
+3718,William Gonzalez,History,2246.74,1985,2020
+3719,Paige Gibson,Romance,4311.52,1986,2022
+3720,Chelsea Peterson,Sci-Fi,4170.44,1987,2035
+3721,Mrs. Katherine Hill,Sci-Fi,2499.04,1988,2035
+3722,Jeff Barton,NA,2791.78,1989,2023
+3723,Walter Martin,Sci-Fi,740.41,1990,2021
+3724,Mrs. Sara Garcia,Fiction ,4125.28,1991,2021
+3725,Adam Harris,Romance,3042.5,1992,2023
+3726,James Thomas,History,3689.4,1993,2035
+3727,Matthew Hall II,Sci-Fi,3666.22,1994,2021
+3728,Christopher Davis,Sci-Fi,4935.76,1995,2021
+3729,Taylor Jackson,Fiction ,4320.68,1996,2021
+3730,Paul Dunn,Fiction ,1500.71,1997,2021
+3731,Kara Ford,Romance,1621.16,1998,2023
+3732,Jason Stephens,History,-23.74,1999,2018
+3733,Amber Porter,History,2866.82,2000,2020
+3734,Timothy Reyes,Sci-Fi,47.82,2001,2021
+3735,Pamela Huffman,NA,2517.13,2002,2022
+3736,Erika Rodriguez,Romance,1506.26,2003,2022
+3737,Robert Smith,NA,3011.35,2004,2021
+3738,Michael Robbins,NA,3894.51,2005,2023
+3739,Jose Wilson,Fiction ,574.37,2006,2035
+3740,Christopher Harris,History,4585.31,2007,2019
+3741,Alexandra Daniels,Fiction,790.49,2008,2035
+3742,Helen Everett,NA,1086.26,2009,2035
+3743,Christopher Webster,History,3972.23,2010,2021
+3744,William Coffey,Sci-Fi,352.25,2011,2035
+3745,Steven Jones,Fiction ,-29.89,2012,2018
+3746,Kristin Evans,Sci-Fi,-65.08,2013,2018
+3747,Ryan Castillo,History,667.69,2014,2018
+3748,Gary King,Romance,3734.01,2015,2021
+3749,Paul Ward,Fiction ,4150.56,2016,2019
+3750,Craig Jones,Fiction ,2302.14,2017,2018
+3751,Allison Montgomery,NA,3400.96,2018,2021
+3752,Rebekah Johnson,NA,3974.84,2019,2035
+3753,Martin Burton,Romance,3902.07,2020,2019
+3754,Kristen Jefferson,NA,3699.22,2021,2021
+3755,Martha Stevens,NA,4443.85,2022,2035
+3756,Kevin Anderson,Sci-Fi,742.62,2023,2021
+3757,Samuel Lyons,NA,3117.17,2024,2020
+3758,Julia Gallagher,NA,4653.14,2025,2022
+3759,William Ashley,History,4319.68,2026,2023
+3760,Lindsey Webb,Fiction,864.72,2027,2018
+3761,Frank Salazar,Fiction,2895.32,2028,2020
+3762,Monique Alvarez,Sci-Fi,4549.79,2029,2020
+3763,Chelsea Moore,NA,1490.16,2030,2021
+3764,Charles Matthews,History,4273.74,2031,2021
+3765,Nancy West,Fiction,46.32,2032,2035
+3766,Philip Roach,Romance,4921.78,2033,2022
+3767,Karen Jacobs,Sci-Fi,4200.78,2034,2022
+3768,Karen House,NA,3526.37,2035,2023
+3769,Nicolas Wagner,Fiction,134.06,2036,2022
+3770,Kathryn Newton,NA,2874.21,2037,2022
+3771,Brittany Moran,Fiction,2204.48,2038,2023
+3772,Scott Dudley,Romance,4493.69,2039,2023
+3773,Robert Rojas,Sci-Fi,1069.1,2040,2022
+3774,Regina Jordan,History,634.86,2041,2035
+3775,Jason Potter,NA,3624.53,2042,2022
+3776,Juan Robinson,History,1473.2,2043,2021
+3777,Andrew Adams,NA,4836.82,2044,2022
+3778,Thomas Weber,History,2313,2045,2022
+3779,Samantha Baxter,Sci-Fi,291.56,2046,2018
+3780,Karen Young,Romance,2372.22,2047,2022
+3781,Kristina Torres,Sci-Fi,4520.02,2048,2020
+3782,Melissa Hall,Sci-Fi,1340.01,2049,2023
+3783,Emily Figueroa,Sci-Fi,2603.12,2050,2019
+3784,Robert Moore,Fiction ,1781,2051,2019
+3785,Laura Lane,History,4511.19,2052,2021
+3786,Rebekah Cervantes,History,4507.31,2053,2018
+3787,Brandon Schmitt,NA,3461.33,2054,2021
+3788,Suzanne Wilson,History,2537.44,2055,2019
+3789,Kathleen Estes,Sci-Fi,2821.82,2056,2021
+3790,Alexis Gutierrez,Sci-Fi,430.13,2057,2020
+3791,Bradley Fisher,History,121.99,2058,2023
+3792,Andrea York,NA,3274.33,2059,2021
+3793,James Wright,Fiction ,1070.12,2060,2019
+3794,Francisco Owen,Sci-Fi,4668.79,2061,2023
+3795,Jordan James,Fiction,1040.97,2062,2018
+3796,Lisa Ellis,History,81.49,2063,2023
+3797,Veronica Williams,NA,2312.62,2064,2018
+3798,Jeremy Smith,Romance,2925.8,2065,2035
+3799,Charles Kennedy,Sci-Fi,4914.71,2066,2022
+3800,Sara Cervantes,Sci-Fi,1716.57,2067,2021
+3801,Amy Wright,Sci-Fi,722.44,2068,2020
+3802,Christopher Martinez,Fiction,-38.05,2069,2023
+3803,Kelli Hancock,Romance,3879.41,2070,2020
+3804,Jerry Graham,Romance,1808.85,2071,2021
+3805,Oscar Rogers,Romance,639.71,2072,2020
+3806,Jonathon Ryan,Sci-Fi,4219.61,2073,2020
+3807,Debra Sanders,Fiction ,1272.46,2074,2019
+3808,Cassidy Johnson,History,307.52,2075,2018
+3809,Michael Cook,Fiction ,4783.76,2076,2018
+3810,Mr. Joel Glover,Sci-Fi,86.2,2077,2035
+3811,Julie Armstrong,Fiction,916.37,2078,2021
+3812,Alexis Rodriguez,NA,4668.84,2079,2022
+3813,John White,History,392.32,2080,2021
+3814,Kelsey Mcgee,History,2667.02,2081,2023
+3815,Doris Murphy,Fiction,3358.82,2082,2022
+3816,Anthony Smith,Romance,1502.22,2083,2018
+3817,Brenda Fernandez,Fiction,2683.9,2084,2021
+3818,Jonathan Davis,Romance,3127.6,2085,2022
+3819,Daniel White,Romance,1103,2086,2035
+3820,Shelby Andrews,Fiction ,3070.03,2087,2019
+3821,Brendan Richard,Romance,4407.87,2088,2022
+3822,Connie Stevens,Fiction,1254.28,2089,2021
+3823,Rachel Ruiz,Fiction,1302.97,2090,2020
+3824,Joshua Vang,History,4281.81,2091,2021
+3825,Monica Maxwell,Romance,1485.14,2092,2021
+3826,Dylan Fisher,Sci-Fi,2649.67,2093,2021
+3827,Craig Grant,History,4035.44,2094,2022
+3828,Michael Zhang,Sci-Fi,2554.05,2095,2023
+3829,Kimberly Hale,Sci-Fi,3874.74,2096,2021
+3830,Derrick Garcia,Fiction,4946.64,2097,2023
+3831,Cheryl Snyder,History,4371.19,2098,2022
+3832,Barbara Ramirez,Fiction,3325.09,2099,2019
+3833,Mason Moreno,Sci-Fi,3039.01,2100,2022
+3834,Jennifer Christian,Sci-Fi,1962.88,2101,2021
+3835,Amy Garcia,Fiction ,-65.67,2102,2021
+3836,Lauren Kline,NA,3367.78,2103,2019
+3837,Mark Cochran,Sci-Fi,1003.73,2104,2023
+3838,Ryan Beard,Sci-Fi,4285.48,2105,2035
+3839,Dawn Reed,NA,1886.56,2106,2022
+3840,Lori Wade,History,4383.93,2107,2021
+3841,James Woods,Fiction ,4281.86,2108,2019
+3842,Janet Yoder,Fiction,2119.36,2109,2018
+3843,Sharon Walters,History,1094.84,2110,2019
+3844,Becky Pruitt PhD,NA,3761.49,2111,2022
+3845,Emily Sheppard,History,559.86,2112,2021
+3846,Gregory Cox MD,NA,1598.22,2113,2021
+3847,Scott Gibson,Sci-Fi,2302.92,2114,2018
+3848,Parker Perry,Sci-Fi,542.84,2115,2022
+3849,Howard Jensen,Romance,1641.24,2116,2023
+3850,Charles Hall,Romance,492.85,2117,2019
+3851,Miguel Hensley,Sci-Fi,3160.34,2118,2020
+3852,Anthony Owens,Romance,143.91,2119,2020
+3853,George Mcgee,Sci-Fi,4209.32,2120,2023
+3854,Susan Shaw,Romance,4969.13,2121,2018
+3855,Melissa Bell,History,2155.62,2122,2022
+3856,Blake Jarvis,Sci-Fi,2447.06,2123,2021
+3857,Amber King,History,3172.5,2124,2018
+3858,Gloria Reynolds,Fiction ,3125.69,2125,2021
+3859,Sarah Harris,Romance,602.6,2126,2023
+3860,James Best,History,3016.07,2127,2022
+3861,Mary Pratt,Sci-Fi,2070.21,2128,2022
+3862,Lori Johnson,NA,4186.12,2129,2021
+3863,Cindy Hernandez,NA,4028.63,2130,2023
+3864,Joshua Richards,Romance,431.75,2131,2019
+3865,Lydia Ashley,Sci-Fi,2793.88,2132,2023
+3866,Andrew Logan,NA,3878.92,2133,2021
+3867,Grant Adams,History,778.86,2134,2018
+3868,Justin Johnson,NA,1805.15,2135,2022
+3869,Michael Brown,Sci-Fi,3391.78,2136,2023
+3870,Tracy Wright,History,4779.22,2137,2023
+3871,Christine Anderson,Sci-Fi,856.63,2138,2020
+3872,Alicia Morales,Sci-Fi,2809.36,2139,2020
+3873,Jason Perez,Sci-Fi,4826.85,2140,2035
+3874,Lisa Baker,Sci-Fi,1621.47,2141,2023
+3875,James Williams,NA,1589.88,2142,2035
+3876,Jared Torres,Fiction ,3562.34,2143,2023
+3877,Joseph Phillips,Romance,4102.11,2144,2019
+3878,Cynthia Cummings,Romance,406.46,2145,2020
+3879,Susan Mays,NA,2421.3,2146,2018
+3880,Robert Banks,NA,3069.41,2147,2021
+3881,David Dennis,Romance,220.49,2148,2020
+3882,John Schroeder,NA,3462.18,2149,2022
+3883,Steven Wise,Romance,3836.55,2150,2035
+3884,William Pratt,Sci-Fi,72.23,2151,2021
+3885,Michelle Johnson,Fiction,1282.04,2152,2019
+3886,Daniel Howe,Romance,938.59,2153,2021
+3887,Justin Mclaughlin,History,2572.55,2154,2022
+3888,Sean Hopkins,Romance,2593.69,2155,2035
+3889,Sarah Wallace,Sci-Fi,4010.1,2156,2018
+3890,Amy Thomas,NA,3989.14,2157,2022
+3891,Kristin Malone,NA,921.09,2158,2023
+3892,Nicole Perry,NA,1557.43,2159,2035
+3893,Eric Foster,Fiction,3730.67,2160,2035
+3894,Mrs. Jennifer Scott,Sci-Fi,431.87,2161,2019
+3895,William Graham,Romance,3339.99,2162,2021
+3896,Michael Padilla,NA,2457.53,2163,2020
+3897,Mrs. Jodi Sullivan,Fiction ,146.19,2164,2035
+3898,Jeffrey Wells,Romance,1666.32,2165,2035
+3899,James Bennett,History,3274.46,2166,2022
+3900,Daniel Blair,NA,3803.69,2167,2022
+3901,Steven Martinez,NA,1648.35,2168,2020
+3902,Krista Johnson,History,3405.39,2169,2023
+3903,Elizabeth Davis,Sci-Fi,1723.73,2170,2023
+3904,Bianca Page,Fiction,1514.58,2171,2035
+3905,Joseph Mcdonald,NA,1274.74,2172,2020
+3906,Mark Vega,NA,3974.95,2173,2023
+3907,David Hale,Sci-Fi,1464.06,2174,2022
+3908,Miguel Scott,Fiction,262.75,2175,2020
+3909,Rhonda Robinson,Romance,2120.7,2176,2035
+3910,Anna Whitaker,NA,554.58,2177,2019
+3911,Patty Fletcher,NA,1584.72,2178,2021
+3912,Nicole Greene MD,Sci-Fi,3800.17,2179,2021
+3913,Jennifer Miller,Romance,1210.71,2180,2023
+3914,Dustin Alexander,Fiction ,2498.31,2181,2035
+3915,Patricia Butler,NA,4943.15,2182,2023
+3916,Victoria Bennett,Sci-Fi,4762.99,2183,2020
+3917,Shane Wells,History,3154.13,2184,2021
+3918,Sharon Gomez,Sci-Fi,2647.66,2185,2021
+3919,Gina Crawford,Romance,768.33,2186,2022
+3920,Lisa Patel,NA,2360.11,2187,2023
+3921,Brenda Thomas,NA,4664.09,2188,2020
+3922,Linda Rojas,Romance,4382.61,2189,2018
+3923,Tiffany Fritz,Fiction,1565.74,2190,2020
+3924,Ashley Palmer,History,4652.27,2191,2021
+3925,Jason Stevens,Fiction,3446.71,2192,2022
+3926,David Moore,Fiction,3892.49,2193,2019
+3927,Mary Bray,Sci-Fi,3084.14,2194,2018
+3928,Natalie Morris,Romance,1140.41,2195,2019
+3929,Jessica Martinez,Fiction,2236.34,2196,2021
+3930,Lindsey Miller,Sci-Fi,4913.39,2197,2019
+3931,Anthony Hernandez DVM,Sci-Fi,4339.96,2198,2021
+3932,John Dean,NA,2369.16,2199,2020
+3933,Tiffany Brown,Romance,2169.2,2200,2022
+3934,Michelle Evans,NA,3129.47,2201,2018
+3935,David Velazquez,Romance,4502.43,2202,2035
+3936,Cindy Reeves,Sci-Fi,959.19,2203,2021
+3937,Calvin Evans,Sci-Fi,1285.98,2204,2020
+3938,Anthony Lee,NA,206.64,2205,2035
+3939,Matthew Greene,Fiction ,596.22,2206,2022
+3940,Michelle Fowler,Fiction,1179.58,2207,2023
+3941,Taylor Frederick,NA,3562.24,2208,2021
+3942,Jennifer Horn,Sci-Fi,1737.49,2209,2019
+3943,Jesse Goodman,History,2227.28,2210,2021
+3944,Russell Houston,Fiction,4368.42,2211,2035
+3945,Michael Frye,NA,3920.48,2212,2021
+3946,Jonathan Padilla,NA,3756.59,2213,2021
+3947,Nancy Garza,History,779.6,2214,2018
+3948,Darren Gill,Romance,1193.89,2215,2021
+3949,Matthew Shaw,Fiction,3443.4,2216,2023
+3950,Virginia Murphy,Sci-Fi,2708.39,2217,2023
+3951,Sarah Thomas,Fiction,1319.22,2218,2020
+3952,Carlos Martinez,Sci-Fi,450.86,2219,2035
+3953,Daniel Herrera,NA,-91.55,2220,2023
+3954,Jesse Garcia,NA,4816.1,2221,2023
+3955,Nicole Levine,Fiction ,649.56,2222,2022
+3956,Tina Dougherty,History,3934.47,2223,2022
+3957,Bryan Knight,Fiction ,2231.78,2224,2021
+3958,David Kelley,Sci-Fi,868.81,2225,2023
+3959,Joseph Weaver,Sci-Fi,34.1,2226,2035
+3960,Barbara Snyder,Fiction,2791.7,2227,2022
+3961,Joseph Richardson,NA,4729.04,2228,2018
+3962,Cody Thornton,Sci-Fi,2294.69,2229,2019
+3963,Blake Villarreal,Fiction ,2393.6,2230,2021
+3964,Mary Thompson,Romance,2568.25,2231,2020
+3965,Austin Nash,NA,4527.19,2232,2023
+3966,Tanner Harris,NA,770.52,2233,2021
+3967,Jeremy Joyce,NA,953.8,2234,2021
+3968,Samuel Delgado,Sci-Fi,3361.96,2235,2021
+3969,Kevin Morris,Romance,2991.14,2236,2019
+3970,Katie Banks,History,3784.69,2237,2020
+3971,Beverly Gutierrez,Romance,3523.95,2238,2022
+3972,Kenneth Olson,Sci-Fi,3386.97,2239,2020
+3973,Vickie Rich,History,3652.24,2240,2020
+3974,Francisco Williams,Fiction ,3575.69,2241,2022
+3975,Tasha Galloway,Sci-Fi,728.6,2242,2035
+3976,Erika Johnson,History,4041.75,2243,2035
+3977,Diane Yang,Sci-Fi,2531.7,2244,2019
+3978,Theresa Richardson,History,3008.04,2245,2035
+3979,Amanda Richards,NA,1556.02,2246,2020
+3980,Anthony Steele,History,1912.39,2247,2021
+3981,Darrell Richard,History,4540.93,2248,2021
+3982,Lee Webster,Romance,1696.91,2249,2023
+3983,Nicole Cole,NA,1564.4,2250,2020
+3984,Timothy Harrington,Fiction ,136.48,2251,2021
+3985,Wesley Lopez,Sci-Fi,4973.05,2252,2021
+3986,Peter Carson,History,-34.17,2253,2020
+3987,Jennifer Cobb,NA,2122.49,2254,2035
+3988,Darlene Thomas,Fiction,190.23,2255,2022
+3989,Kevin Ryan,Sci-Fi,2597.88,2256,2018
+3990,Ms. Deborah Esparza,NA,4941.98,2257,2022
+3991,James Phillips,NA,1991.25,2258,2019
+3992,Gina Calhoun,Sci-Fi,4551.48,2259,2021
+3993,Shelley Skinner,Romance,1112.88,2260,2023
+3994,Spencer White,NA,460.67,2261,2035
+3995,Patrick Barber,NA,460.14,2262,2019
+3996,Joseph Rivera,History,2575.31,2263,2021
+3997,Melissa Brown,Fiction ,4358.87,2264,2023
+3998,Jennifer Wright,Sci-Fi,1279.43,2265,2020
+3999,Patrick Stein,Sci-Fi,1409.83,2266,2021
+4000,Shari Chambers,NA,857.38,2267,2022
