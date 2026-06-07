@@ -1,22 +1,6 @@
 ![Dashboard Preview](Dashboard/Dashboard_Preview.jpg)
 
 
-
-#### 📚 Online BookStore Sales Analysis ####
-
-# 📚 BookStore Dataset Cleaning.ipynb
-
-## 🚀 Quick Access (Notebook Viewer)
-> 📊 **[Click Here to View the Interactive Project Notebook on Google Colab]
-
-> (https://colab.research.google.com/drive/1SDw-2LLKCerx6bDwVzespqt7WYdsQX80?usp=sharing)
-
-> (Highly Recommended: GitHub takes time or fails to load heavy .ipynb project files, use this link for a smooth experience!)
-
-![Dashboard Preview](Screenshot%20(21)
-
-.png)
-
 # 📚 Online BookStore Sales Analysis
 
 ## 🚀 Quick Access (Notebook Viewer)
