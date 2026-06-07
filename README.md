@@ -1,4 +1,4 @@
-![Dashboard Preview](
+![Dashboard Preview](Dashboard/Dashboard_Preview.jpg)
 
 
 
