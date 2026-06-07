@@ -124,10 +124,11 @@ Used PostgreSQL and SQL queries to solve real-world business problems such as:
 
 ---
 
-# 💡 Key Business Insights
-- Fiction and Sci-Fi genres generated high revenue.
-- Certain customers contributed significantly to total sales.
-- Monthly sales showed fluctuating trends.
-- Some books had very low stock levels.
-- Order cancellations affected overall revenue performance.
-
+## 📊 Key Metrics
+- 💰 Total Revenue: **$109M**
+- 📦 Total Orders: **15K**
+- 👥 Total Customers: **5K**
+- 📚 Total Quantity Sold: **69K**
+- 🏆 Top Genre: **Sci-Fi ($7.7M Revenue)**
+- 🌍 Top Country by Customers: **India (1,449 orders)**
+- 📈 Peak Sales Month: **May ($9.72M)**
