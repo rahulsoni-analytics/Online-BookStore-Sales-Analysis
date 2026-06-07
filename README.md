@@ -31,6 +31,7 @@ This end-to-end data analytics project focuses on analyzing online bookstore sal
 ---
 
 ## 📁 Project Structure
+
 📦 Online-BookStore-Sales-Analysis
 ├── 📂 data/
 │   └── 📂 processed/
@@ -73,6 +74,7 @@ This end-to-end data analytics project focuses on analyzing online bookstore sal
 - Created relationships and data models.
 - Used DAX measures for KPI calculations.
 - Built interactive dashboard visuals and slicers.
+- Generated business insights through visual analytics.
 
 ---
 
@@ -106,6 +108,44 @@ This end-to-end data analytics project focuses on analyzing online bookstore sal
 
 ## 📈 Power BI Dashboard Features
 
+- 💰 Total Revenue KPI
+- 📦 Total Orders KPI
+- 👥 Total Customers KPI
+- 🛒 Total Quantity Sold KPI
+- 📉 Revenue Trend Analysis
+- 📚 Revenue by Genre
+- 🏆 Top Selling Books
+- 🔄 Order Status Distribution
+- 🌍 Country-wise Customer Analysis
+- 🎛️ Interactive Slicers and Filters
+
+---
+
+## 🧽 Data Cleaning Process
+
+- Removed and handled null values.
+- Cleaned invalid negative values.
+- Validated duplicate records.
+- Standardized inconsistent country names.
+- Verified dataset quality using Excel and SQL.
+
+---
+
+## 💡 Key Business Insights
+
+- Sci-Fi and Fiction genres generated the highest revenue.
+- India contributed the most customers (1,449 orders).
+- Peak revenue month was May at $9.72M.
+- Some books had very low stock levels.
+- Order cancellations affected overall revenue performance.
+
+---
+
+## 👨‍💻 Author
+
+**Rahul Soni**
+
+📌 Data Analyst | SQL | Power BI | PostgreSQL | Python
 - 💰 Total Revenue KPI
 - 📦 Total Orders KPI
 - 👥 Total Customers KPI
